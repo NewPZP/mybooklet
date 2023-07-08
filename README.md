@@ -1,16 +1,7 @@
 ---
-description: TASKS
+description: 目标
 ---
 
-# 🎯 TASKS
+# 🎯 目标
 
-## # 雅思
-
-## booklist
-
-
-
-
-
-
-
+* [ ] &#x20;雅思 7分以上&#x20;
