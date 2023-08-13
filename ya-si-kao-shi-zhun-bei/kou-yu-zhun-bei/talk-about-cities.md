@@ -29,9 +29,11 @@
 * **Tips: don't give a list, just choose one or two, and give more details about those**
 * If you could only do one thing in \_\_\_\_, I would recommend going to the \_\_\_\_
 
-### Urbanisation of cities
+### Urbanization of cities
 
 * How cities have changed in recent years?
 * Many new buildings have sprung up/cropped up?
+* There has been an influx of citizens into cities
+* Increased urbanisation has led to a higher cost of living
 *
 
