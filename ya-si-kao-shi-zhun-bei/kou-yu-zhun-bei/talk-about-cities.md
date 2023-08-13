@@ -26,5 +26,12 @@
 * The places that attract most visitors are \_\_\_
 * Visitors are drawn by the amazing views
 * The old quarter /the river/ the nightlife **is a big pull factor**
+* **Tips: don't give a list, just choose one or two, and give more details about those**
+* If you could only do one thing in \_\_\_\_, I would recommend going to the \_\_\_\_
+
+### Urbanisation of cities
+
+* How cities have changed in recent years?
+* Many new buildings have sprung up/cropped up?
 *
 
