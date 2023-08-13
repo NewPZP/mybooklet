@@ -52,5 +52,22 @@
 * better standard of living
 * Better healthcare/health facilities
 
+### Disadvantages
+
+* traffic congestion - traffic jams
+* pollution&#x20;
+* Air pollution/ noise pollution/ traffic pollution/ water pollution/ light pollution
+* Overcrowding/ overpopulated
+* Dense population
+* Growth of slums
+* Hight rate of competition for jobs
+* Hight rate of unemployment
+* crime rate is very high
+* Hight cost of living
+* wealth inequality
+* Growing gap/disparity between the rich and poor
+* Hight levels of stress
+* The city is a concrete jungle ,You get stuck in the rat race
+
 
 
