@@ -11,6 +11,7 @@
   * [Advanced Vocabulary for IELTS](ya-si-kao-shi-zhun-bei/kou-yu-zhun-bei/advanced-vocabulary-for-ielts.md)
   * [Phrases to Talk about your Family](ya-si-kao-shi-zhun-bei/kou-yu-zhun-bei/phrases-to-talk-about-your-family.md)
   * [Talk about Cities](ya-si-kao-shi-zhun-bei/kou-yu-zhun-bei/talk-about-cities.md)
+  * [Talk about Work](ya-si-kao-shi-zhun-bei/kou-yu-zhun-bei/talk-about-work.md)
 * [写作准备](ya-si-kao-shi-zhun-bei/xie-zuo-zhun-bei.md)
 * [听力准备](ya-si-kao-shi-zhun-bei/ting-li-zhun-bei.md)
 * [考试练习](ya-si-kao-shi-zhun-bei/kao-shi-lian-xi.md)
