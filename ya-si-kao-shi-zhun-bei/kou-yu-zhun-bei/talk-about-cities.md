@@ -35,5 +35,22 @@
 * Many new buildings have sprung up/cropped up?
 * There has been an influx of citizens into cities
 * Increased urbanisation has led to a higher cost of living
-*
+* There are more recreational facilities and amenities
+* More and more shanty towns and slums have appeared
+
+### Pros and Cons
+
+### Advantages of living a city
+
+* Better job opportunities
+* Better quality schooling
+* Variety of shopping outlets
+* Reliable public transport
+* Access to culture
+* Hight level of convenience
+* Entertainment facilities
+* better standard of living
+* Better healthcare/health facilities
+
+
 
