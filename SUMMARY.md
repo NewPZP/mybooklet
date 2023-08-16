@@ -8,3 +8,4 @@
   * [Talk about Cities](kou-yu-zhun-bei/talk-about-cities.md)
   * [Talk about Work](kou-yu-zhun-bei/talk-about-work.md)
   * [How to talk about climate change](kou-yu-zhun-bei/how-to-talk-about-climate-change.md)
+  * [Inventions](kou-yu-zhun-bei/inventions.md)
