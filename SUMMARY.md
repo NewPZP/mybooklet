@@ -11,5 +11,7 @@
   * [How to talk about climate change](kou-yu-chang-jing/how-to-talk-about-climate-change.md)
   * [Inventions](kou-yu-chang-jing/inventions.md)
   * [15 useful phrases](kou-yu-chang-jing/15-useful-phrases.md)
+  * [Advertisement](kou-yu-chang-jing/advertisement.md)
+  * [10 useful phrasal verbs](kou-yu-chang-jing/10-useful-phrasal-verbs.md)
 * [词伙学习](ci-huo-xue-xi.md)
 * [写些身边的事](xie-xie-shen-bian-de-shi.md)
