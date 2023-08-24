@@ -13,5 +13,6 @@
   * [15 useful phrases](kou-yu-chang-jing/15-useful-phrases.md)
   * [Advertisement](kou-yu-chang-jing/advertisement.md)
   * [10 useful phrasal verbs](kou-yu-chang-jing/10-useful-phrasal-verbs.md)
+  * [Tips on Part2](kou-yu-chang-jing/tips-on-part2.md)
 * [词伙学习](ci-huo-xue-xi.md)
 * [写些身边的事](xie-xie-shen-bian-de-shi.md)
