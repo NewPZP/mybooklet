@@ -15,5 +15,6 @@
   * [10 useful phrasal verbs](kou-yu-chang-jing/10-useful-phrasal-verbs.md)
   * [Tips on Part2](kou-yu-chang-jing/tips-on-part2.md)
   * [Useful IDIOMS for Any Topic](kou-yu-chang-jing/useful-idioms-for-any-topic.md)
+  * [Speaking Test Guide](kou-yu-chang-jing/speaking-test-guide.md)
 * [词伙学习](ci-huo-xue-xi.md)
 * [写些身边的事](xie-xie-shen-bian-de-shi.md)
