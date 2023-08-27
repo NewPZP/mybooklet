@@ -23,4 +23,6 @@
 * He doesn't have a clue = he doesn't know
 * To have a one track mind = to think about only one thing
 * To have the upper hand =  to have an advantage over someone
-* To have money
+* To have money to burn = to have plenty of money to spend
+* To have a whale of a time
+* to have a blast = to enjoy oneself a lot
