@@ -47,23 +47,44 @@
     - 答辩，防御工事
 
 - diplomacy
+    1. The ambassador relied on skilled diplomacy to navigate the delicate negotiations between the two countries.
+    2. Diplomacy plays a crucial role in resolving international conflicts and maintaining peaceful relations.
+    3. The diplomat's tactful diplomacy helped ease tensions and fostered a spirit of cooperation among the nations.
+    4. The success of the summit was largely attributed to the leaders' commitment to diplomacy and dialogue.
+    5. In international relations, diplomacy serves as a tool for promoting understanding and finding mutually beneficial solutions.
 - disarm
 - disarmament
-- encicle
+
 - encroach
+    1. The new construction project started to encroach on the neighboring property, violating the property boundaries.
+    2. The invasive species began to encroach on the native plant population, threatening the ecosystem's balance.
+    3. As technology advances, concerns arise about how it may encroach on personal privacy.
+    4. The loud music from the party next door encroached on our peaceful evening at home.
+    5. The company's expansion plans would encroach on the protected wildlife habitat, raising environmental concerns.
+
+
 - enlist
 - envolop
+- encircle
+    - In summary, "encircle" typically describes the act of forming a circle or ring around something, while "envelop" suggests complete surrounding or immersion. Both words involve the concept of enclosing, but "encircle" emphasizes the formation of a boundary or perimeter, while "envelop" emphasizes the act of completely surrounding or covering.
 - exterminate
 - insurrection
+    1. The country experienced a widespread insurrection as citizens took to the streets, demanding political reforms.
+    2. The failed insurrection resulted in the arrest of several individuals involved in the plot to overthrow the government.
+    3. The government declared a state of emergency in response to the escalating insurrection in the capital city.
+    4. The historical event is often remembered as a significant insurrection against colonial rule.
+    5. The military was called in to suppress the insurrection and restore order in the region.
 - intrude
 - invade
 - invasion
 - invader
 - martial
 - onslaught
+
 - rebellion
 - rebel
 - rebellious
+
 - repulse
 - revolt
 - riot
