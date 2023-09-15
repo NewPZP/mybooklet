@@ -41,4 +41,3 @@
 - Noun 1 + Noun 2 + Adverb _____
 - I'm really busy on Mondays, Fridays, on the contrary, are much easier.
 - I'm busy this week, next week, on the other hand, I have much less work to do.
-- 
