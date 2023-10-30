@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "31 TS学习/01 标准解读/ECMA-262 解读.md",
+                "file": "30 算法与语言特性总结/设计模式.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "31 TS学习/01 标准解读/ECMA-262 解读.md",
+                "file": "30 算法与语言特性总结/设计模式.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "31 TS学习/01 标准解读/ECMA-262 解读.md",
+                "file": "30 算法与语言特性总结/设计模式.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "31 TS学习/01 标准解读/ECMA-262 解读.md"
+                "file": "30 算法与语言特性总结/设计模式.md"
               }
             }
           }
@@ -148,6 +148,7 @@
   },
   "active": "496cba085a8448eb",
   "lastOpenFiles": [
+    "31 TS学习/01 标准解读/ECMA-262 解读.md",
     "31 TS学习/03 读书笔记/CSS - H5权威指南部分.md",
     "31 TS学习/03 读书笔记/现代JS教程【DOM树】.md",
     "31 TS学习/03 读书笔记/现代js教程 -【浏览器环境，规格】.md",
@@ -164,7 +165,6 @@
     "20 源代码解读/01 定时任务系统",
     "20 源代码解读",
     "30 算法与语言特性总结",
-    "31 TS学习/01 标准解读/ECMA-262 解读.md",
     "31 TS学习/01 标准解读",
     "31 TS学习/03 读书笔记/现代javascript教程【四】-数据类型.md",
     "31 TS学习/03 读书笔记/现代javascript教程【二】-代码质量.md",
