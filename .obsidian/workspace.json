@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/02 get up in the morning.md",
+                "file": "11 雅思学习/02 艾登英语的学习梳理/01 Introducing yourself.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/02 get up in the morning.md",
+                "file": "11 雅思学习/02 艾登英语的学习梳理/01 Introducing yourself.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/02 get up in the morning.md",
+                "file": "11 雅思学习/02 艾登英语的学习梳理/01 Introducing yourself.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/02 get up in the morning.md"
+                "file": "11 雅思学习/02 艾登英语的学习梳理/01 Introducing yourself.md"
               }
             }
           }
@@ -148,8 +148,19 @@
   },
   "active": "736fbb1523bec196",
   "lastOpenFiles": [
-    "11 雅思学习/02 艾登英语的学习梳理/debate.md",
     "11 雅思学习/02 艾登英语的学习梳理/02 get up in the morning.md",
+    "11 雅思学习/02 艾登英语的学习梳理/03 cleaning up.md",
+    "11 雅思学习/02 艾登英语的学习梳理/01 Introducing yourself.md",
+    "11 雅思学习/02 艾登英语的学习梳理/04 Eating breakfast.md",
+    "11 雅思学习/01 keith口语课/part 3.md",
+    "11 雅思学习/01 keith口语课/advanced connectors for opinions.md",
+    "11 雅思学习/01 keith口语课/35-useful-phrases.md",
+    "11 雅思学习/01 keith口语课/15-useful-phrases.md",
+    "11 雅思学习/01 keith口语课/10-useful-phrasal-verbs.md",
+    "00 聚焦任务/01 【一】雅思7.0以上.md",
+    "00 聚焦任务/02 【二】前端开发技能.md",
+    "00 聚焦任务/00 基础方法&每周回顾.md",
+    "11 雅思学习/02 艾登英语的学习梳理/debate.md",
     "11 雅思学习/00 tell something in English/01. introduce yourself.md",
     "11 雅思学习/00 tell something in English/02. tell your hometown.md",
     "11 雅思学习/00 tell something in English/03. personality.md",
@@ -164,21 +175,10 @@
     "31 TS学习/03 读书笔记/现代js教程 -【浏览器环境，规格】.md",
     "31 TS学习/03 读书笔记/现代javascirpt教程【十】-Promise async await.md",
     "31 TS学习/03 读书笔记/现代javascript教程【一】- 基础.md",
-    "31 TS学习/03 读书笔记/现代javascirpt教程【三】-对象.md",
-    "31 TS学习/03 读书笔记/现代javascirpt教程【六】-对象属性配置.md",
-    "31 TS学习/03 读书笔记/现代javascirpt教程【九】-错误处理.md",
-    "31 TS学习/03 读书笔记/现代javascirpt教程【八】-类.md",
-    "32 JAVA学习/工具集/自动映射框架.md",
-    "11 雅思学习/01 keith口语课/10-useful-phrasal-verbs.md",
     "20 源代码解读/01 定时任务系统",
     "20 源代码解读",
     "30 算法与语言特性总结",
     "31 TS学习/01 标准解读",
-    "31 TS学习/03 读书笔记/现代javascript教程【四】-数据类型.md",
-    "31 TS学习/03 读书笔记/现代javascript教程【二】-代码质量.md",
-    "31 TS学习/03 读书笔记/现代javascirpt教程【十二】模块.md",
-    "31 TS学习/03 读书笔记/现代javascirpt教程【十三】杂项.md",
-    "31 TS学习/03 读书笔记/现代javascirpt教程【十一】Generator，高级 iteration.md",
     "31 TS学习/03 读书笔记",
     "23 数据库学习/01 从0到1数据库内核实战",
     "23 数据库学习",
