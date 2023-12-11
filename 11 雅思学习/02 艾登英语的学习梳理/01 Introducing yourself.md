@@ -28,3 +28,6 @@
 
 
 ## 我的自我介绍
+I was born in Wenzhou, Zhejiang, China, and grew up in a modest family. Despite our limited financial resources, my parents worked tirelessly to ensure that both my older sister and I could pursue higher education. I spent my early years in a small rural village in Wenzhou until I gained admission to a prestigious university in Xi'an. There, I majored in Software Engineering and successfully obtained my bachelor's degree after four years of dedicated study.
+Following graduation, I embarked on professional journeys in both Nanjing and Ningbo before eventually settling in Hangzhou. Known for its breathtaking beauty, Hangzhou captured my heart, and I decided to make it my permanent home. I have been working as a software engineer here for over seven years now, honing my skills and contributing to the vibrant tech industry of this city.
+

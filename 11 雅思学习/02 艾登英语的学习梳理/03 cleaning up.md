@@ -2,7 +2,7 @@
 
 - sink – a kitchen or bathroom container that is attached to the floor and wall, holds water, and is used for washing dishes or brushing teeth
 	* When Lily came home, she was disappointed to see that the sink was full of dirty dishes.
-* faucet
+* faucet 水龙头
 * medicine cabinet
 * tub (also bathtub)
 * mouthwash
@@ -22,7 +22,7 @@
 * hand razor
 * shaving cream
 * disposable blades
-* vaccinations
+* vaccinations 疫苗
 
 ## 句子
 
