@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/05 Getting Dressed&Ready for work.md",
+                "file": "00 今年聚焦两件事/00 基础方法&每周回顾.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/05 Getting Dressed&Ready for work.md",
+                "file": "00 今年聚焦两件事/00 基础方法&每周回顾.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/05 Getting Dressed&Ready for work.md",
+                "file": "00 今年聚焦两件事/00 基础方法&每周回顾.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/05 Getting Dressed&Ready for work.md"
+                "file": "00 今年聚焦两件事/00 基础方法&每周回顾.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "496cba085a8448eb",
   "lastOpenFiles": [
-    "11 雅思学习/02 艾登英语的学习梳理/04 Eating breakfast.md",
+    "00 今年聚焦两件事/01 【一】雅思7.0以上.md",
+    "00 今年聚焦两件事/00 基础方法&每周回顾.md",
+    "00 今年聚焦两件事/02【二】网站平台开发.md",
+    "00 聚焦任务/04 【四】文章输出.md",
+    "00 聚焦任务/02 【二】前端开发技能.md",
     "11 雅思学习/02 艾登英语的学习梳理/05 Getting Dressed&Ready for work.md",
+    "11 雅思学习/02 艾登英语的学习梳理/04 Eating breakfast.md",
     "11 雅思学习/02 艾登英语的学习梳理/03 cleaning up.md",
     "11 雅思学习/02 艾登英语的学习梳理/02 get up in the morning.md",
     "11 雅思学习/02 艾登英语的学习梳理/01 Introducing yourself.md",
@@ -161,9 +166,6 @@
     "11 雅思学习/01 keith口语课/35-useful-phrases.md",
     "11 雅思学习/01 keith口语课/15-useful-phrases.md",
     "11 雅思学习/01 keith口语课/10-useful-phrasal-verbs.md",
-    "00 聚焦任务/01 【一】雅思7.0以上.md",
-    "00 聚焦任务/02 【二】前端开发技能.md",
-    "00 聚焦任务/00 基础方法&每周回顾.md",
     "11 雅思学习/02 艾登英语的学习梳理/debate.md",
     "11 雅思学习/00 tell something in English/02. tell your hometown.md",
     "11 雅思学习/00 tell something in English/03. personality.md",
@@ -174,8 +176,6 @@
     "32 JAVA学习/01 多线程",
     "31 TS学习/01 标准解读/ECMA-262 解读.md",
     "31 TS学习/03 读书笔记/CSS - H5权威指南部分.md",
-    "31 TS学习/03 读书笔记/现代JS教程【DOM树】.md",
-    "31 TS学习/03 读书笔记/现代js教程 -【浏览器环境，规格】.md",
     "20 源代码解读/01 定时任务系统",
     "20 源代码解读",
     "30 算法与语言特性总结",
