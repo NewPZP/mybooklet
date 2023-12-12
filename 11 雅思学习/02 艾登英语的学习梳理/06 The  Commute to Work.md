@@ -1,0 +1,27 @@
+## Glossary
+- commute
+	- I have a long/short/terrible commute
+	- 
+- gas pedal
+	- She pushed the gas pedal to the floor because she was in a big hurry.
+- brake pedal
+- clutch 离合
+- mug 马克杯
+- rearview mirror 后视镜
+- side mirror
+- windshield 挡风玻璃
+- transmission 传动装置 变速器
+	- I take the transmission out of park and into reverse  p挡到r挡
+- out of park 
+	- I took the transmission out of park, but nothing happened because there wasn't any gas in the car
+	-  put the transmission into park
+- stick shift 手动挡汽车
+	- Driving a stick shift requires a lot of concentration for me because I'm always worried that I'll shift into reverse by accident
+- automatic transmission
+- onramp
+- freeway
+	- a driveway connects the street to your garage, an onramp connects the street to the freeway.
+## Cultural Note
+- All states require teachers in public schools to be licensed, which is frequently referred to as a “certification.” 
+- While majoring in a content area, future teachers typically also “enroll in” (register for) a teacher preparation program and take classes in education while in college.
+- 

@@ -12,6 +12,7 @@
 - garage
 - run late
 	- I didn’t have time to say goodbye to everyone at the lunch meeting because I was running late for my flight back to New York.
+	- I usually running late and today is no exception
 - today is no exception
 	- I usually receive a lot of emails and today is no exception.
 - low-fat or fat-free milk
