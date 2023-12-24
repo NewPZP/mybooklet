@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/08 The Commute Home and Running Errands.md",
+                "file": "01 项目实践基础训练/ideas/01 英语学习平台.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/08 The Commute Home and Running Errands.md",
+                "file": "01 项目实践基础训练/ideas/01 英语学习平台.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/08 The Commute Home and Running Errands.md",
+                "file": "01 项目实践基础训练/ideas/01 英语学习平台.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/08 The Commute Home and Running Errands.md"
+                "file": "01 项目实践基础训练/ideas/01 英语学习平台.md"
               }
             }
           }
@@ -159,44 +159,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f802b70c09775d8",
+  "active": "736fbb1523bec196",
   "lastOpenFiles": [
-    "11 雅思学习/02 艾登英语的学习梳理/07 At desk, on break, and at lunch.md",
-    "11 雅思学习/02 艾登英语的学习梳理/08 The Commute Home and Running Errands.md",
-    "11 雅思学习/02 艾登英语的学习梳理/05 Getting Dressed&Ready for work.md",
-    "01 项目ideas/02 分级语言学习平台.md",
-    "00 今年聚焦两件事/02 【二】代码功底训练.md",
-    "00 今年聚焦两件事/02 【二】代码功底训练.nd",
-    "00 今年聚焦两件事/02 【代码功底训练】",
-    "00 今年聚焦两件事/03【三】网站平台开发.md",
-    "11 雅思学习/02 艾登英语的学习梳理/04 Eating breakfast.md",
-    "11 雅思学习/02 艾登英语的学习梳理/03 cleaning up.md",
-    "11 雅思学习/02 艾登英语的学习梳理/02 get up in the morning.md",
+    "01 项目实践基础训练/ideas/02 分级语言学习平台.md",
+    "01 项目实践基础训练/ideas",
+    "01 项目实践基础训练/ideas/01 英语学习平台.md",
+    "20 源代码解读/01 任务系统/powerJob.md",
+    "30 理论课程学习/03 TS学习/03 读书笔记/现代javascirpt教程【六】-对象属性配置.md",
+    "30 理论课程学习/03 TS学习/03 读书笔记/现代javascirpt教程【八】-类.md",
     "11 雅思学习/02 艾登英语的学习梳理/01 Introducing yourself.md",
-    "11 雅思学习/02 艾登英语的学习梳理/06 The  Commute to Work.md",
-    "11 雅思学习/99 素材/Wenzhou.md",
-    "11 雅思学习/99 素材/Hangzhou.md",
-    "11 雅思学习/04 ask ai/Untitled.md",
-    "11 雅思学习/01 keith口语课/10-useful-phrasal-verbs.md",
-    "11 雅思学习/00 tell something in English/04. Messi.md",
-    "11 雅思学习/00 tell something in English/03. personality.md",
-    "11 雅思学习/00 tell something in English/02. tell your hometown.md",
-    "11 雅思学习/00 tell something in English/01. introduce yourself.md",
-    "00 今年聚焦两件事/01 【一】雅思7.0以上.md",
-    "00 今年聚焦两件事/Untitled.canvas",
-    "00 今年聚焦两件事/00 基础方法&每周回顾.md",
-    "00 今年聚焦两件事/02【二】网站平台开发.md",
-    "00 聚焦任务/04 【四】文章输出.md",
-    "00 聚焦任务/02 【二】前端开发技能.md",
-    "11 雅思学习/04 ask ai",
-    "11 雅思学习/01 keith口语课/part 3.md",
-    "11 雅思学习/01 keith口语课/advanced connectors for opinions.md",
-    "32 JAVA学习/01 多线程",
-    "20 源代码解读/01 定时任务系统",
-    "20 源代码解读",
-    "30 算法与语言特性总结",
-    "31 TS学习/01 标准解读",
-    "31 TS学习/03 读书笔记",
-    "23 数据库学习/01 从0到1数据库内核实战"
+    "30 理论课程学习/04 Python/01 官方标准解读/python版本 与 PEP.md",
+    "30 理论课程学习/04 Python/01 官方标准解读/PEP484 Type Hints 类型约束.md",
+    "30 理论课程学习/04 Python/01 官方标准解读/PEP 3148 futures.md",
+    "30 理论课程学习/04 Python/01 官方标准解读/PEP 0282 日志系统.md",
+    "30 理论课程学习/04 Python/01 官方标准解读/PEP 008 代码规范.md",
+    "30 理论课程学习/04 Python/01 官方标准解读/00 清单.md",
+    "30 理论课程学习/04 Python/01 官方标准解读",
+    "30 理论课程学习/04 Python",
+    "30 理论课程学习/02 JAVA学习/工具集/自动映射框架.md",
+    "30 理论课程学习/02 JAVA学习/工具集",
+    "30 理论课程学习/02 JAVA学习/Stream.md",
+    "30 理论课程学习/02 JAVA学习/01 多线程",
+    "30 理论课程学习/02 JAVA学习",
+    "30 理论课程学习/03 TS学习/03 读书笔记/现代js教程 -【浏览器环境，规格】.md",
+    "30 理论课程学习/03 TS学习/03 读书笔记/现代javascript教程【四】-数据类型.md",
+    "30 理论课程学习/03 TS学习/03 读书笔记/现代javascript教程【二】-代码质量.md",
+    "30 理论课程学习/03 TS学习/03 读书笔记/现代javascript教程【一】- 基础.md",
+    "30 理论课程学习/03 TS学习/03 读书笔记/现代javascirpt教程【十二】模块.md",
+    "30 理论课程学习/03 TS学习/03 读书笔记/现代javascirpt教程【十三】杂项.md",
+    "30 理论课程学习/03 TS学习/03 读书笔记/现代javascirpt教程【十一】Generator，高级 iteration.md",
+    "30 理论课程学习/03 TS学习/03 读书笔记/现代javascirpt教程【十】-Promise async await.md",
+    "30 理论课程学习/03 TS学习/03 读书笔记/现代javascirpt教程【五】-函数进阶.md",
+    "30 理论课程学习/03 TS学习/03 读书笔记/现代javascirpt教程【九】-错误处理.md",
+    "30 理论课程学习/03 TS学习/03 读书笔记/现代javascirpt教程【三】-对象.md",
+    "30 理论课程学习/03 TS学习/03 读书笔记/现代javascirpt教程【七】-原型继承.md",
+    "30 理论课程学习/03 TS学习/03 读书笔记",
+    "30 理论课程学习/03 TS学习/01 标准解读",
+    "30 理论课程学习/03 TS学习/01 33-JS-Concept",
+    "30 理论课程学习/03 TS学习",
+    "00 今年聚焦两件事/Untitled.canvas"
   ]
 }
