@@ -23,3 +23,11 @@
 - In most states, athletic trainers need a license or certification, although specific requirements vary by state
 
 ## 重点语句
+- with the dinner dishes done
+- My wife and I sit down on the couch to chill out
+- 'Hey, chill out' means relax, don't be so excited
+- I'm just chilling
+- At around 9
+- I turn the sound down when the commercials come on
+- I need to take the kitchen garbage out and dump the recycling bins as well
+- 
