@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "496cba085a8448eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00 今年聚焦两件事/00 基础方法&每周回顾.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "2f802b70c09775d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/10 relaxing, the mail, and the trash.md",
+                "file": "00 今年聚焦两件事/01 阶段目标/02【二】网站平台开发.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/10 relaxing, the mail, and the trash.md",
+                "file": "00 今年聚焦两件事/01 阶段目标/02【二】网站平台开发.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/10 relaxing, the mail, and the trash.md",
+                "file": "00 今年聚焦两件事/01 阶段目标/02【二】网站平台开发.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/10 relaxing, the mail, and the trash.md"
+                "file": "00 今年聚焦两件事/01 阶段目标/02【二】网站平台开发.md"
               }
             }
           }
@@ -161,11 +148,19 @@
   },
   "active": "2f802b70c09775d8",
   "lastOpenFiles": [
-    "11 雅思学习/02 艾登英语的学习梳理/09 Making and Eating Dinner, and Washing Up.md",
+    "00 今年聚焦两件事/00 入口/01 DOING.md",
+    "00 今年聚焦两件事/00 入口/00 总体目标.md",
+    "00 今年聚焦两件事/01 阶段目标/02【二】网站平台开发.md",
+    "00 今年聚焦两件事/01 阶段目标/01 【2024.6】雅思7.0以上.md",
+    "00 今年聚焦两件事/01 阶段目标/04 【四】成为开源commiter.md",
+    "00 今年聚焦两件事/01 阶段目标/02 【二】代码功底训练.md",
+    "00 今年聚焦两件事/00 入口",
+    "00 今年聚焦两件事/01 阶段目标",
+    "00 今年聚焦两件事/99 大致安排与回顾",
+    "00 今年聚焦两件事/00 目标方法回顾",
+    "11 雅思学习/02 艾登英语的学习梳理/11 getting ready for bed and going to sleep.md",
     "11 雅思学习/02 艾登英语的学习梳理/10 relaxing, the mail, and the trash.md",
-    "00 今年聚焦两件事/01 【一】雅思7.0以上.md",
-    "00 今年聚焦两件事/02 【二】代码功底训练.md",
-    "00 今年聚焦两件事/03【三】网站平台开发.md",
+    "11 雅思学习/02 艾登英语的学习梳理/09 Making and Eating Dinner, and Washing Up.md",
     "20 源代码解读/02 测试平台/02 任务调度/【源码解读】flowable核心实现.md",
     "20 源代码解读/03 容器",
     "20 源代码解读/02 测试平台/02 任务调度/【源码解读】chaosblade-box中的调度.md",
@@ -185,18 +180,10 @@
     "30 理论学习整理/04 Python/01 官方标准解读/PEP 0282 日志系统.md",
     "30 理论学习整理/04 Python/01 官方标准解读/PEP 008 代码规范.md",
     "11 雅思学习/02 艾登英语的学习梳理/08 The Commute Home and Running Errands.md",
-    "00 今年聚焦两件事/04 【四】成为开源commiter.md",
     "01 项目实践基础训练/ideas/01 英语学习平台.md",
     "01 项目实践基础训练/ideas/02 分级语言学习平台.md",
     "01 项目实践基础训练/ideas",
-    "20 源代码解读/01 任务系统/powerJob.md",
-    "30 理论学习整理/03 TS学习/03 读书笔记/现代javascirpt教程【六】-对象属性配置.md",
-    "30 理论学习整理/03 TS学习/03 读书笔记/现代javascirpt教程【八】-类.md",
     "30 理论学习整理/04 Python/01 官方标准解读",
-    "30 理论学习整理/04 Python",
-    "30 理论学习整理/02 JAVA学习/工具集",
-    "30 理论学习整理/02 JAVA学习/01 多线程",
-    "30 理论学习整理/02 JAVA学习",
     "00 今年聚焦两件事/Untitled.canvas"
   ]
 }
