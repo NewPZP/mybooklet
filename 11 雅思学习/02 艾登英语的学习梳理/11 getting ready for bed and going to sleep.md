@@ -1,10 +1,13 @@
 ## 重点词句
 - bedtime story
+	- when I was little, my mother would read me a bedtime story, I'm looking forward to having that ritual with my own kids someday.
 - ritual
 	- his morning ritual includes drinking a cup of coffee, eating banana, and take the dog for a walk
 - tap - faucet
 	- turn off the tap
 - towel - a soft piece of fabric that absorbs water and helps someone or something become dry
+- floss
+	- I floss and brush my teeth
 - beat - very tired; exhausted
 	- after working on the report for 14 hours, I was beat and wanted to go to sleep.
 - hamper - a container for dirty clothes
@@ -12,6 +15,7 @@
 - slippers - soft, warm shoes that are worn only inside the house
 - to pull back
 	- pull back the curtains to see who was at the front door
+	- pull back the covers, pull up the covers
 - covers - the layers of fabric that cover a bed
 - to fluff - to make something larger and softer by hitting or brushing it 
 - overhead - on the ceiling; over one's head
@@ -21,5 +25,14 @@
 	- she was so tired that she was nodding off during the meeting
 - fast asleep
 	- the boy was fast asleep when he got home
+- before long
+	- I nod off right away and before long, I'm fast asleep.
 
 ## 拓展
+- Whether you're relaxing in the backyard, gardening, enjoying the pool, or explore the great outdoors, here are some ways to keep you and your family healthy....
+- when grilling, use a meat thermometer to make sure that you cook meat and poultry thoroughly.
+- to avoid cross-contamination bacteria from one place to another
+- Binge drinking is associated with many health problems, including Motor vehicle crashes, Drowning, high blood pressure and other cardiovascular diseases
+- prevent skin cancer cells in the body. 
+- Avoid being outdoors during midday if the sun is intense
+- use sunscreen, cover up with clothing, wear a brimmed hat and wear sunglasses that block harmful rays.
