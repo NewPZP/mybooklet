@@ -1,0 +1,19 @@
+{
+	"nodes":[
+		{"id":"8ed679e785e84970","type":"text","text":"整体框架","x":-60,"y":-200,"width":250,"height":60},
+		{"id":"08fa48da4b62c9c2","type":"text","text":"原始框架搭建运行","x":255,"y":-283,"width":250,"height":60},
+		{"id":"b0c1a8652d07107e","type":"text","text":"自有网站开发","x":-340,"y":-40,"width":148,"height":60},
+		{"id":"eafcee7327a3018e","type":"text","text":"内容跌代","x":-60,"y":-70,"width":250,"height":60},
+		{"id":"e96245ace95be9c1","type":"text","text":"个人页","x":255,"y":-70,"width":250,"height":60},
+		{"id":"7b8fea753ab13b9e","type":"text","text":"专题导航页","x":255,"y":60,"width":250,"height":60},
+		{"id":"9b697c8557937d8a","type":"text","text":"灵感参考","x":-60,"y":160,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"089308b543148857","fromNode":"b0c1a8652d07107e","fromSide":"right","toNode":"8ed679e785e84970","toSide":"left"},
+		{"id":"167df4f5beb628a8","fromNode":"eafcee7327a3018e","fromSide":"right","toNode":"e96245ace95be9c1","toSide":"left"},
+		{"id":"896b0464180e40fe","fromNode":"eafcee7327a3018e","fromSide":"right","toNode":"7b8fea753ab13b9e","toSide":"left"},
+		{"id":"f4d63797ea0e6ab9","fromNode":"b0c1a8652d07107e","fromSide":"right","toNode":"eafcee7327a3018e","toSide":"left"},
+		{"id":"d760d3f629ffc5ed","fromNode":"8ed679e785e84970","fromSide":"right","toNode":"08fa48da4b62c9c2","toSide":"left"},
+		{"id":"e89a70cfb062032c","fromNode":"b0c1a8652d07107e","fromSide":"right","toNode":"9b697c8557937d8a","toSide":"left"}
+	]
+}

@@ -11,11 +11,14 @@
             "id": "2f802b70c09775d8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/11 getting ready for bed and going to sleep.md",
-                "mode": "source",
-                "source": false
+                "file": "00 聚焦/00【一】雅思7.0以上.canvas",
+                "viewState": {
+                  "x": 257.50000000000006,
+                  "y": 26.719999999999967,
+                  "zoom": 0
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/11 getting ready for bed and going to sleep.md",
+                "file": "00 聚焦/00【一】雅思7.0以上.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/11 getting ready for bed and going to sleep.md",
+                "file": "00 聚焦/00【一】雅思7.0以上.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +128,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/11 getting ready for bed and going to sleep.md"
+                "file": "00 聚焦/00【一】雅思7.0以上.canvas"
               }
             }
           }
@@ -148,17 +151,25 @@
   },
   "active": "2f802b70c09775d8",
   "lastOpenFiles": [
-    "00 今年聚焦两件事/01 阶段目标/01 【2024.6】雅思7.0以上.md",
-    "00 今年聚焦两件事/00 入口/01 DOING.md",
+    "00 聚焦/01【二】自有网站开发.canvas",
+    "00 聚焦/00【一】雅思7.0以上.canvas",
+    "00 聚焦/03【四】数据库技术.canvas",
     "00 今年聚焦两件事/00 入口/00 总体目标.md",
-    "00 今年聚焦两件事/01 阶段目标/02【二】网站平台开发.md",
+    "00 聚焦/02【三】编程语言.canvas",
+    "00 聚焦/04【五】成为commiter.canvas",
+    "01 项目实践基础训练/ideas/01 英语学习平台.md",
+    "01 项目实践基础训练/ideas/02 分级语言学习平台.md",
+    "01 项目实践基础训练/ideas/03 灵感参考.md",
+    "00 今年聚焦两件事/00 入口/01 DOING.md",
     "00 今年聚焦两件事/01 阶段目标/04 【四】成为开源commiter.md",
+    "00 今年聚焦两件事/01 阶段目标/01 【2024.6】雅思7.0以上.md",
+    "11 雅思学习/02 艾登英语的学习梳理/12 small talk about the weather.md",
+    "11 雅思学习/02 艾登英语的学习梳理/11 getting ready for bed and going to sleep.md",
     "00 今年聚焦两件事/01 阶段目标/02 【二】代码功底训练.md",
     "00 今年聚焦两件事/00 入口",
     "00 今年聚焦两件事/01 阶段目标",
     "00 今年聚焦两件事/99 大致安排与回顾",
     "00 今年聚焦两件事/00 目标方法回顾",
-    "11 雅思学习/02 艾登英语的学习梳理/11 getting ready for bed and going to sleep.md",
     "11 雅思学习/02 艾登英语的学习梳理/10 relaxing, the mail, and the trash.md",
     "11 雅思学习/02 艾登英语的学习梳理/09 Making and Eating Dinner, and Washing Up.md",
     "20 源代码解读/02 测试平台/02 任务调度/【源码解读】flowable核心实现.md",
@@ -178,12 +189,7 @@
     "30 理论学习整理/04 Python/01 官方标准解读/PEP 3148 futures.md",
     "30 理论学习整理/04 Python/01 官方标准解读/PEP484 Type Hints 类型约束.md",
     "30 理论学习整理/04 Python/01 官方标准解读/PEP 0282 日志系统.md",
-    "30 理论学习整理/04 Python/01 官方标准解读/PEP 008 代码规范.md",
-    "11 雅思学习/02 艾登英语的学习梳理/08 The Commute Home and Running Errands.md",
-    "01 项目实践基础训练/ideas/01 英语学习平台.md",
-    "01 项目实践基础训练/ideas/02 分级语言学习平台.md",
     "01 项目实践基础训练/ideas",
-    "30 理论学习整理/04 Python/01 官方标准解读",
-    "00 今年聚焦两件事/Untitled.canvas"
+    "30 理论学习整理/04 Python/01 官方标准解读"
   ]
 }
