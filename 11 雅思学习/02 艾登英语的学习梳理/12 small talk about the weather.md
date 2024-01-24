@@ -2,5 +2,27 @@
 - small talk
 - to shoot the breeze
 	- Dexter enjoyed shooting the breeze with his friends after a week  of hard walk.
-- cast about
+	- when I'm with my friends, I can just shoot the breeze all day long.
+- cast about 四处寻找
 	- When Margaret's brother told her about his big problems at work, she desperately cast about  for something she could tell him to improve the situation.
+- taboo - something that is forbidden
+	- Politics and religion are definitely taboo subjects, at least here in United States.
+- uncomfortable silences
+- humidity
+	- the humidity was very low yesterday, so the air felt very dry
+- muggy - humid, a condition in which the air feels very moist
+	- the air outside was so muggy that Brian could feel the moisture sticking to his skin
+- meteorologist
+- obsessed
+	- everyone is obsessed with the weather report
+- move in - to come in slowly; to arrive little by little
+	- Storm clouds began moving in blocking the sun
+- wind chill 风寒指数
+	- Even though the temperature was above freezing, the wind chill made it feel like it was below freezing
+- weather
+	- So ,nice weather we've been having
+	- It sure is a warm one out there today
+	- It's not the heat that's so bad, it's the humidity!
+## 拓展 - greenwashing
+- cover up or hide a mistake, problem or flaw by putting something appealing or correct in font of it so people can't easily see those problems.
+- American companies are trying to appeal to consumers by claiming that their products are earth-friendly or eco-safe, when it is not clear whether they are or not.
