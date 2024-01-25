@@ -1,0 +1,21 @@
+## 重点词句
+- toiletry
+	- Desmond needed to buy a few toiletries, such as shampoo and toothpaste.
+- prescription
+	- Juana got a prescription from her doctor for a stronger pain reliever when the ones she bought at the drugstore didn't get rid of her back pain.
+- medication
+	- Carmelo needed medication to treat his flu symptoms
+- allergy
+	- Latrice has an allergy to peanuts, causing her throat to become swollen whenever she eats something with peanuts in it.
+- hay fever
+	- When the pollen count is high, many people start get hay fever.
+- sneeze
+	- The room was very dusty and any one who entered it started sneezing.
+- up a storm
+	- Louisa and Ling had not seen each other in five years, and when they met up again, they talked up a storm.
+- antacid 反酸剂
+- Band-Aid 创口贴 权宜之计
+	- Alyssa had a small scratch on her finger, so she put a Band-Aid on it.
+- refill
+	- When the medicine for Kenneth's heart condition was gone, he went to store to get a refill.
+- pharmacist

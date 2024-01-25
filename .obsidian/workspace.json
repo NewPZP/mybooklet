@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/12 small talk about the weather.md",
+                "file": "11 雅思学习/02 艾登英语的学习梳理/13 Going to the Drugstore.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/12 small talk about the weather.md",
+                "file": "11 雅思学习/02 艾登英语的学习梳理/13 Going to the Drugstore.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/12 small talk about the weather.md",
+                "file": "11 雅思学习/02 艾登英语的学习梳理/13 Going to the Drugstore.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/12 small talk about the weather.md"
+                "file": "11 雅思学习/02 艾登英语的学习梳理/13 Going to the Drugstore.md"
               }
             }
           }
@@ -148,17 +148,20 @@
   },
   "active": "2f802b70c09775d8",
   "lastOpenFiles": [
-    "11 雅思学习/01 keith口语课/10-useful-phrasal-verbs.md",
     "11 雅思学习/02 艾登英语的学习梳理/12 small talk about the weather.md",
+    "11 雅思学习/02 艾登英语的学习梳理/13 Going to the Drugstore.md",
+    "00 聚焦/02【二】自有网站开发.canvas",
+    "00 聚焦/01【一】雅思7.0以上.canvas",
+    "00 聚焦/00【零】安排.canvas",
+    "00 聚焦/05【五】成为commiter.canvas",
+    "00 聚焦/04【四】数据库技术.canvas",
+    "00 聚焦/03【三】编程语言.canvas",
+    "11 雅思学习/01 keith口语课/10-useful-phrasal-verbs.md",
     "11 雅思学习/00 高频话题整理/Leonardo Da vinci.md",
     "11 雅思学习/00 高频话题整理/04. Messi.md",
     "11 雅思学习/00 高频话题整理/03. personality.md",
     "11 雅思学习/00 高频话题整理/01. introduce yourself.md",
     "11 雅思学习/00 高频话题整理/02. tell your hometown.md",
-    "00 聚焦/01【二】自有网站开发.canvas",
-    "00 聚焦/02【三】编程语言.canvas",
-    "00 聚焦/03【四】数据库技术.canvas",
-    "00 聚焦/04【五】成为commiter.canvas",
     "11 雅思学习/02 艾登英语的学习梳理/11 getting ready for bed and going to sleep.md",
     "11 雅思学习/02 艾登英语的学习梳理/01 Introducing yourself.md",
     "30 理论学习整理/01 数据库学习/01 从0到1数据库内核实战/7 节内存管理和线程模型.md",
@@ -166,7 +169,6 @@
     "30 理论学习整理/01 数据库学习/01 从0到1数据库内核实战/4-5节 SQL 引擎.md",
     "30 理论学习整理/01 数据库学习/01 从0到1数据库内核实战/3 节 索引结构.md",
     "30 理论学习整理/01 数据库学习/01 从0到1数据库内核实战/1~2 节 数据库内核实战.md",
-    "00 聚焦/00【一】雅思7.0以上.canvas",
     "00 今年聚焦两件事/00 入口/00 总体目标.md",
     "01 项目实践基础训练/ideas/01 英语学习平台.md",
     "01 项目实践基础训练/ideas/02 分级语言学习平台.md",
@@ -183,7 +185,6 @@
     "11 雅思学习/02 艾登英语的学习梳理/09 Making and Eating Dinner, and Washing Up.md",
     "20 源代码解读/02 测试平台/02 任务调度/【源码解读】flowable核心实现.md",
     "20 源代码解读/03 容器",
-    "20 源代码解读/02 测试平台/02 任务调度/【源码解读】chaosblade-box中的调度.md",
     "30 理论学习整理/01 数据库学习/03 mysql实验室",
     "30 理论学习整理/01 数据库学习/00 导航",
     "30 理论学习整理/01 数据库学习/02 pg实验室",
