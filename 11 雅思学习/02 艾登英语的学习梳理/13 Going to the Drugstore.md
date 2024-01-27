@@ -3,6 +3,7 @@
 	- Desmond needed to buy a few toiletries, such as shampoo and toothpaste.
 - prescription
 	- Juana got a prescription from her doctor for a stronger pain reliever when the ones she bought at the drugstore didn't get rid of her back pain.
+- on my way home / on my way to the hospital /on my way to buy a hamburger
 - medication
 	- Carmelo needed medication to treat his flu symptoms
 - allergy
@@ -11,6 +12,7 @@
 	- When the pollen count is high, many people start get hay fever.
 - sneeze
 	- The room was very dusty and any one who entered it started sneezing.
+	- I've got hay fever, So I'm sneezing up a storm every morning when I wake up.
 - up a storm
 	- Louisa and Ling had not seen each other in five years, and when they met up again, they talked up a storm.
 - antacid 反酸剂
@@ -19,3 +21,13 @@
 - refill
 	- When the medicine for Kenneth's heart condition was gone, he went to store to get a refill.
 - pharmacist
+- co-pay
+	- the insurance company will pay most of the bill, but Terrance still has to pay a co-pay of $10 for each visit with his doctor
+- HMO
+- to foot the bill
+	- Florencio likes to go out to dinner with friends, but doesn't like to foot the bill.
+	- Fortunately, I have a low co-pay, so my HMO foots most of the bill.
+- mat
+
+## 拓展 
+- At the pharmacy, about a meter and a half from the counter where you pick up your prescriptions, you may see a small sign or mat that reads: Please Wait Here/ You're NEXT/ Respect Patient Privacy
