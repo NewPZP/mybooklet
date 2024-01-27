@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/13 Going to the Drugstore.md",
+                "file": "01 开发实践/01 个人网站开发/00 前端框架搭建.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/13 Going to the Drugstore.md",
+                "file": "01 开发实践/01 个人网站开发/00 前端框架搭建.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/13 Going to the Drugstore.md",
+                "file": "01 开发实践/01 个人网站开发/00 前端框架搭建.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/13 Going to the Drugstore.md"
+                "file": "01 开发实践/01 个人网站开发/00 前端框架搭建.md"
               }
             }
           }
@@ -148,15 +148,23 @@
   },
   "active": "2f802b70c09775d8",
   "lastOpenFiles": [
-    "11 雅思学习/02 艾登英语的学习梳理/01 Introducing yourself.md",
+    "01 开发实践/01 个人网站开发/Untitled.md",
+    "01 开发实践/01 个人网站开发/00 前端框架搭建.md",
+    "01 开发实践/00 ideas/03 灵感参考.md",
+    "01 开发实践/01 个人网站开发",
+    "01 开发实践/00 ideas/02 分级语言学习平台.md",
+    "01 开发实践/00 ideas/01 英语学习平台.md",
+    "00 边做边学/00【零】安排.canvas",
+    "00 边做边学/02【二】自有网站开发.canvas",
+    "30 理论学习整理/01 数据库学习/00 导航/00 学习图谱.md",
+    "30 理论学习整理/02 JAVA学习/工具集/自动映射框架.md",
+    "00 边做边学/05【五】成为commiter.canvas",
+    "00 边做边学/04【四】数据库技术.canvas",
+    "00 边做边学/03【三】编程语言.canvas",
     "11 雅思学习/02 艾登英语的学习梳理/13 Going to the Drugstore.md",
+    "11 雅思学习/02 艾登英语的学习梳理/01 Introducing yourself.md",
     "11 雅思学习/02 艾登英语的学习梳理/12 small talk about the weather.md",
-    "00 聚焦/02【二】自有网站开发.canvas",
-    "00 聚焦/01【一】雅思7.0以上.canvas",
-    "00 聚焦/00【零】安排.canvas",
-    "00 聚焦/05【五】成为commiter.canvas",
-    "00 聚焦/04【四】数据库技术.canvas",
-    "00 聚焦/03【三】编程语言.canvas",
+    "00 边做边学/01【一】雅思7.0以上.canvas",
     "11 雅思学习/01 keith口语课/10-useful-phrasal-verbs.md",
     "11 雅思学习/00 高频话题整理/Leonardo Da vinci.md",
     "11 雅思学习/00 高频话题整理/04. Messi.md",
@@ -170,25 +178,17 @@
     "30 理论学习整理/01 数据库学习/01 从0到1数据库内核实战/3 节 索引结构.md",
     "30 理论学习整理/01 数据库学习/01 从0到1数据库内核实战/1~2 节 数据库内核实战.md",
     "00 今年聚焦两件事/00 入口/00 总体目标.md",
-    "01 项目实践基础训练/ideas/01 英语学习平台.md",
-    "01 项目实践基础训练/ideas/02 分级语言学习平台.md",
-    "01 项目实践基础训练/ideas/03 灵感参考.md",
     "00 今年聚焦两件事/00 入口/01 DOING.md",
     "00 今年聚焦两件事/01 阶段目标/04 【四】成为开源commiter.md",
     "00 今年聚焦两件事/01 阶段目标/01 【2024.6】雅思7.0以上.md",
-    "00 今年聚焦两件事/01 阶段目标/02 【二】代码功底训练.md",
     "00 今年聚焦两件事/00 入口",
     "00 今年聚焦两件事/01 阶段目标",
     "00 今年聚焦两件事/99 大致安排与回顾",
     "00 今年聚焦两件事/00 目标方法回顾",
-    "11 雅思学习/02 艾登英语的学习梳理/10 relaxing, the mail, and the trash.md",
-    "11 雅思学习/02 艾登英语的学习梳理/09 Making and Eating Dinner, and Washing Up.md",
-    "20 源代码解读/02 测试平台/02 任务调度/【源码解读】flowable核心实现.md",
     "20 源代码解读/03 容器",
     "30 理论学习整理/01 数据库学习/03 mysql实验室",
     "30 理论学习整理/01 数据库学习/00 导航",
     "30 理论学习整理/01 数据库学习/02 pg实验室",
-    "01 项目实践基础训练/ideas",
-    "30 理论学习整理/04 Python/01 官方标准解读"
+    "01 开发实践/00 ideas"
   ]
 }

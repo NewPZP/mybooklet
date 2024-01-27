@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"009d1c892d56d94e","x":-463,"y":-220,"width":143,"height":58,"type":"text","text":"2024"},
+		{"id":"8fe1614db0e9972a","x":-220,"y":-310,"width":160,"height":50,"type":"text","text":"1月"},
+		{"id":"c9629d8f2e33f459","x":-220,"y":-250,"width":160,"height":60,"type":"text","text":"2月"},
+		{"id":"070115364d81ed14","x":-220,"y":-162,"width":160,"height":60,"type":"text","text":"3月"},
+		{"id":"fa36d9bf9648b94d","x":-220,"y":-60,"width":160,"height":60,"type":"text","text":"4月"},
+		{"id":"b765a184e9fd9c4b","x":-220,"y":40,"width":160,"height":60,"type":"text","text":"5月"},
+		{"id":"0381154586fd000b","x":-220,"y":140,"width":160,"height":60,"type":"text","text":"6月 计划考雅思"},
+		{"id":"c7151139af63921f","x":135,"y":-311,"width":280,"height":120,"type":"text","text":"任务2\n1. 扇贝阅读 高频话题\n2. 油条口语 收集练习话题"},
+		{"id":"57aa5237e17efefe","x":135,"y":-480,"width":255,"height":130,"type":"text","text":"任务1：\n艾登英语  平均每天两篇 \n早上新学，中午复习前一天， 周末过一遍一周所学\n140+90+100+30"},
+		{"id":"d7d75cfd89ece0f0","x":142,"y":-144,"width":273,"height":144,"type":"text","text":"任务3:\n1. 个人网站开发"}
+	],
+	"edges":[
+		{"id":"9992c1cff7fdde35","fromNode":"009d1c892d56d94e","fromSide":"right","toNode":"8fe1614db0e9972a","toSide":"left"},
+		{"id":"587a35d903b9366a","fromNode":"009d1c892d56d94e","fromSide":"right","toNode":"c9629d8f2e33f459","toSide":"left"},
+		{"id":"a8e4edafec074179","fromNode":"8fe1614db0e9972a","fromSide":"right","toNode":"57aa5237e17efefe","toSide":"left"},
+		{"id":"a0344a4820743d03","fromNode":"009d1c892d56d94e","fromSide":"right","toNode":"070115364d81ed14","toSide":"left"},
+		{"id":"a2c194195109d9ed","fromNode":"009d1c892d56d94e","fromSide":"right","toNode":"fa36d9bf9648b94d","toSide":"left"},
+		{"id":"f577e679501d8e27","fromNode":"009d1c892d56d94e","fromSide":"right","toNode":"b765a184e9fd9c4b","toSide":"left"},
+		{"id":"cde0b97aa0736621","fromNode":"009d1c892d56d94e","fromSide":"right","toNode":"0381154586fd000b","toSide":"left"},
+		{"id":"9d6ece1f3f9e2c38","fromNode":"8fe1614db0e9972a","fromSide":"right","toNode":"c7151139af63921f","toSide":"left"},
+		{"id":"ab2430b2ff8e2b34","fromNode":"c9629d8f2e33f459","fromSide":"right","toNode":"d7d75cfd89ece0f0","toSide":"left"}
+	]
+}
