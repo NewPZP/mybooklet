@@ -1,0 +1,33 @@
+## 重点词句
+- go smoothly
+	- Even though Sherri was nervous about the exam, it went very smoothly and she passed.
+- mail a letter
+	- mail a letter to a friend living in Florida
+- book of stamps
+- roll
+	- a roll of stamps
+- Priority
+	- The document was sent by Priority Mail on Monday and arrive at its destination on Wednesday.
+- insurance
+	- she bought insurance in case it got damaged
+	- you want insurance with that?
+	- you can send it priority with tracking if you want to see when it gets there, you can send it insured if the contents are valuable
+	- OK, I'll take the insurance
+- step aside
+	- After placing his order, Jake stepped aside so the person behind him could order, too.
+	- then step aside to fill out the  insurance form
+	- step back up to the window
+- to be wave aside
+	- she was waved aside and told to wait at the other end of the counter until her food was ready.
+	- I was waved aside to fill out my form
+- Next in line
+- to be waited on 被人伺候
+	- Fifteen minutes passed before Nigel was waited on by an employee
+
+## 拓展
+- This was the single largest drop in mail “volume” (amount) in U.S. history.
+- the post office needs “cost-cutting measures” (actions to reduce spending), because of the large “deficits”.
+- No decision has been made yet to cut a mail delivery day. It is just one of several money-saving possibilities that the post office is considering
+- Most Americans take mail delivery services “for granted” (having not thought about it and assumed it will continue).
+- It takes a suggestion like this to remind people that the service they’ve grown up with could and may change in a significant way.
+- 

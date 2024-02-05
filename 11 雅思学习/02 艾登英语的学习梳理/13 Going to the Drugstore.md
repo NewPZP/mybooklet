@@ -31,3 +31,5 @@
 
 ## 拓展 
 - At the pharmacy, about a meter and a half from the counter where you pick up your prescriptions, you may see a small sign or mat that reads: Please Wait Here/ You're NEXT/ Respect Patient Privacy
+- government passed a set of laws to protect people’s personal medical information so that it would not be given to others without their permission.
+- 
