@@ -2,10 +2,11 @@
 - to pick someone's brain
 	- Dominique trusted her sister's opinions and she always picked her brain when she needed advice.
 	- can I pick your brain for a minute?
-- sticky situation
+- sticky situation - sensitive situation
 	- Lisa was in a sticky situation at work, and she did not know how to fix the problems she had created.
 - input - ideas or opinions one adds, often in a discussion
 	- Angelo is the sort of person who is always a little too quick to give others his input on solving their problems.
+	- Lucy wants to get my input on this problem
 - tactful
 	- Stephanie was not a very tactful person and frequently said things that made people angry.
 	- I have a sticky situation at work and I wanted to get your input.You're always so tactful.
@@ -13,6 +14,7 @@
 	- when Giovanni's friend had a problem, he gave her his two cents and let her know what he thought she should do to fix it.
 	- I'll give you my two cents.
 - now and then - occasionally; sometimes, but not always
+- get me wrong
 - go too far
 	- Tony likes to joke around, but he goes too far sometimes and teases people until they get upset.
 - unflattering
