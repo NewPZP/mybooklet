@@ -1,0 +1,36 @@
+## 重点词句
+- do battle
+	- Eileen did battle with her computer because she didn't know how to use the new features on the updated program.
+- to get behind the wheel - to drive a car 
+- aggressive
+- mild-mannered - meek or calm ; unlikely to start a conflict
+	- Dwight is mild-mannered and rarely shouts or gets angry
+	- What is it about getting behind the wheel that brings out people's aggressive side?
+- to commute
+	- Hye commutes to the local college every Monday, Wednesday, and Friday to attend classes.
+	- In L.A., people rely on the freeway to commute to their jobs or just to get around town.
+- stoplight - traffic light
+- drawback - disadvantage
+	- As much as Alexia liked having the day off from work, one drawback was that she needed to do housework now that she had the time
+- to gun engine
+	- Roberto gunned his engine and quickly drove past the other cars.
+- cut off
+	- The woman in the small red car cut off the driver of the large whit truck, forcing him to brake so that he would not hit her car.
+- passing lane - the passing lane 超车道
+- pile up - 连环撞车
+	- Four cars were involved in the pile up, but thankfully, no one was seriously hurt in the accident.
+- alternate - another option
+- surface street - 城市道路
+- crosswalk
+- to tailgate 
+	- The car tailgating Ferdinand's car was so close that it hit the back of his car when Ferdinand stopped quickly.
+- After you
+	- It is of course considered polite to let the other person go first
+- altruistically - politely; giving something to another without expecting anything in return
+	- sb. act altruistically
+- courteous
+## 结构
+- ... has its good and its bad. On the one hand ... , On the other hand, ....
+	- I think driving on the freeway has its good and its bad. On the one hand, there are no stoplights and the speed limit is over 55 miles per hour so you can get somewhere quickly. On the other hand, there are drawbacks, too. People like to gun their engines and cut off other cars to get ahead. 
+- As an alternate to the freeway, I sometimes take surface streets.
+- of course, ... have their drawbacks, too. ....If ...

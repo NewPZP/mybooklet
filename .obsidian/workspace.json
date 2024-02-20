@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 开发实践/01 学习平台开发/00 开发任务与日志.md",
+                "file": "11 雅思学习/02 艾登英语的学习梳理/16 Driving on the freeways.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 开发实践/01 学习平台开发/00 开发任务与日志.md",
+                "file": "11 雅思学习/02 艾登英语的学习梳理/16 Driving on the freeways.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 开发实践/01 学习平台开发/00 开发任务与日志.md",
+                "file": "11 雅思学习/02 艾登英语的学习梳理/16 Driving on the freeways.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 开发实践/01 学习平台开发/00 开发任务与日志.md"
+                "file": "11 雅思学习/02 艾登英语的学习梳理/16 Driving on the freeways.md"
               }
             }
           }
@@ -146,10 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2f802b70c09775d8",
+  "active": "736fbb1523bec196",
   "lastOpenFiles": [
-    "01 开发实践/01 学习平台开发/01 资料收集.md",
+    "11 雅思学习/03 句子文章结构练习",
+    "11 雅思学习/02 艾登英语的学习梳理/15 Problems at the office.md",
+    "11 雅思学习/02 艾登英语的学习梳理/14 Going to the Post Office.md",
+    "11 雅思学习/02 艾登英语的学习梳理/16 Driving on the freeways.md",
     "01 开发实践/01 学习平台开发/00 开发任务与日志.md",
+    "01 开发实践/01 学习平台开发/01 资料收集.md",
     "00 边做边学/01【一】雅思7.0以上.canvas",
     "00 边做边学/02【二】自有网站开发.canvas",
     "00 边做边学/00 日志.md",
@@ -159,11 +163,9 @@
     "01 开发实践/00 ideas/02 分级语言学习平台.md",
     "11 雅思学习/04 ask ai/Untitled.md",
     "00 边做边学/00【零】安排.canvas",
-    "11 雅思学习/02 艾登英语的学习梳理/15 Problems at the office.md",
     "00 边做边学/05【五】成为commiter.canvas",
     "00 边做边学/04【四】数据库技术.canvas",
     "00 边做边学/03【三】编程语言.canvas",
-    "11 雅思学习/02 艾登英语的学习梳理/14 Going to the Post Office.md",
     "11 雅思学习/02 艾登英语的学习梳理/13 Going to the Drugstore.md",
     "01 开发实践/01 个人网站开发/Untitled.md",
     "01 开发实践/00 ideas/03 灵感参考.md",
@@ -180,7 +182,6 @@
     "11 雅思学习/00 高频话题整理/02. tell your hometown.md",
     "11 雅思学习/02 艾登英语的学习梳理/11 getting ready for bed and going to sleep.md",
     "30 理论学习整理/01 数据库学习/01 从0到1数据库内核实战/7 节内存管理和线程模型.md",
-    "30 理论学习整理/01 数据库学习/01 从0到1数据库内核实战/6 节 Undo Redo log.md",
     "00 今年聚焦两件事/00 入口",
     "00 今年聚焦两件事/01 阶段目标",
     "00 今年聚焦两件事/99 大致安排与回顾",

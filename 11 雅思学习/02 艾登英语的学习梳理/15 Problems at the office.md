@@ -17,12 +17,14 @@
 - get me wrong
 - go too far
 	- Tony likes to joke around, but he goes too far sometimes and teases people until they get upset.
-- unflattering
+- not know when to quit
+	- when to stop, when not to go too far.
+- unflattering 贬低，flatter 反义词
 	- Deja's description of what happened was very unflattering to her friends and made them seem not only silly, but also mean.
 - to keep it to - not share 
 	- Wendell knew his opinion was unpopular, so he kept it to himself.
+- that's just it - now you've identified the problem
 - top brass - the most powerful managers in an org.
-- not know when to quit
 - clueless - unaware
 	- he is clueless about how to talk to people.
 - tough one
