@@ -1,0 +1,34 @@
+## 重点词句
+- in ages
+	- Shu had not watched her favorite movie in ages, and she had forgotten many of the details
+- buddy 
+	- Maurice did not have a large group of friends, but she did have a few good buddies.
+- swing by
+	- Anika swung by her brother's school to pick him up her way home/
+- make time
+	- Benton was very busy, but he still made time to meet his friends at a restaurant for lunch
+- what with this and that
+	- Pedro planned to got to the concert, but what with this and that at work, he couldn't make it in time to meet his friends.
+- to fall out to touch with
+	- Even though Melina and Rodger were good friends as children, they fell out of touch after Melina moved to a different city.
+- to pick up where one left off
+	- June had not seen her best friend in many years, but when they finally met again, they were able to pick up where they left off after just a few minutes of chatting.
+- make ends meet
+	- Mr. Stoughton and his family were able to make ends meet, but they did not have any extra money for vacations or other fun activities.
+- to touch base - to check in with someone briefly
+	- Dr. Holmen allowed her student to work on the project alone, but the student needed to touch base occasionally to let Dr. Holmen know things were progressing
+- pal
+	- Laticia and Stanley were close pals who had known each oterh since they were kids.
+- catch up
+	- Miles had not been in contact with his cousin for several years, but he was happy when he had a chance to catch up with her and find out how her life had been going.
+- age
+	- when we are children, we want to age quickly, but when we're adults, we don't want the years to go by  too quickly.
+- stretch - section
+- freight  train- carrying goods
+- produce - 农产品
+
+## 句子结构/语料
+- Originally,  the High line was a train that brought raw and manufactured goods across the city ,as well as milk, meat , produce.
+- The park includes walkways where people can stroll and jog. It has many benches where people can sit and enjoy the nice view. The park is also a place to enjoy nature. It includes 210 species of plants and flows. It is an excellent example of repurposing an old eyesore into something useful and beautiful.
+- When we  say good-bye to our friends, we always hope to keep in touch. But, what with this and that, it's sometimes hard to do.
+- I'm really looking forward to seeing these old pals and catching up after all this time.
