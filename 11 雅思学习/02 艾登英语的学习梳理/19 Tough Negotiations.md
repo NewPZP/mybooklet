@@ -1,0 +1,42 @@
+## 重点词句
+- what you would call - a good example of
+	- The food was not what you would call high quality, but it tasted fine.
+- tough negotiations
+	- It was a  tough negotiation, but Mrs. Redrick eventually managed to reach a deal that both sides were happy with.
+- renew - to make an agreement again,
+- lease
+	- Evelina signed a lease that would allow her to live in the apartment for two years.
+- be up - to expire
+	- The original agreement was up, so Hans needed to make a new agreement with the client.
+- hammer out the terms - to determine the conditions or details of an agreement
+	- Kamie managed to find an ideal business partner, but she still needed to hammer out the terms of their partnership.
+	- When my lease was up, the landlord and I sat down to hammer out the terms of a new lease.
+- break
+	- I'm going to give you a break on rent if you sign a two-year lease instead of just a one-year lease
+- in exchange for
+	- Brenda gave her classmate the candy from her lunchbox in exchange for the cookie from his.
+- win-win
+	- It was a win-win situation: both Kurt and his brother would get to go to the movie, and all Kurt needed to do was agree to watch it together.
+- counter-proposal
+	- Masako did not like the original conditions offered to her, so she made a counter-proposal that would be more be more beneficial to her.
+- final offer
+	- when the seller said that it was his final offer, lnga knew that she either need to accept it or find someone else to buy the product from.
+	- It is my final offer: I'll pay for your electricity for the fist 6 months of the lease, along with the other terms I mentioned before.
+- to drive a hard bargain - make it difficult to oppose
+	- Maximo drove a hard bargain, but his clients always walked away happy.
+- to bargain someone down
+	- I don't know how Sharlene is able to bargain the seller down to such a low price!
+- sign on the dotted line
+	- Once Dylan signed on the dotted line, the contract was complete.
+- Murphy's law
+- adage
+	- It is an old adage that says: "Anything that can go wrong, will go wrong \"
+- inevitable - 不可避免的
+## 句子结构/语料
+- It's not clear who came up with the term Murphy's law, Some people claim it was an engineer, while others say it was a scientist.
+- People have come up with variations of this saying, often to be funny, Here are few:
+	- If anything simply can not go wrong, it will anyway.
+	- The buddy  system is essential to your survival; it gives the enemy somebody else to shoot at.
+	- Technology is dominated by those who manage that they do not understand.
+	- Tell a man there are 300 billion stars in the universe and he'll believe you. Tell him a bench has wet paint on it and he'll to touch it to be sure.
+- 
