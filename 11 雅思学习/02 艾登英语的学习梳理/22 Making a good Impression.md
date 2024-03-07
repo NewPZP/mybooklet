@@ -1,0 +1,34 @@
+## 重点词句
+- headquarters - the main location of a business;
+- satellite office - an smaller office or part of a business that works under main office or company
+- the right fit
+	- Maddie quit her job at ice cream shop because she did not like dealing with customers and it just was not the right fit for her.
+- to keep an open mind
+- sound advice - good advice
+	- Jacqueline got sound advice from her father about how to organize her bills and save money
+- cocky - arrogant
+- to boast - to brag ; to tell others of one's good qualities or accomplishments, making them sound more important and impressive.
+	- After scoring well on her exam, Niesha boasted about the high score to all her classmates.
+- to make things up - to lie
+	- Burton was upset when he learned that his girlfriend had been making things up and was not being honest about whom she spent her time with.
+- meek - appearing shy and weak; too tame or mild in behavior
+	- Adelia was shy and meek,  and she almost never told others her opinion if she thought they might disagree.
+- co-worker
+- to walk all over someone - to use  or mistreat someone who will not stop one from doing so
+	- When the other students realized that Zandra would not argue with them, they started walking all over her and making her do their homework for them.
+- team player - someone who is able to work well with other people in completing tasks or reaching a goal
+	- Scotty works well when he is alone, but he is not a team player and cannot work well with other people.
+- to grab the limelight - to make oneself the focus of attention
+	- Even though the party was for someone else, Jillian grabbed the limelight and behaved as though the party was for her.
+## 语料句型
+- A 2008 nation survey of American adults asked which professions they thought had very great prestige. Here were the top answers, with the percentage of people indication that profession in parentheses:
+	- Firefighter(57%)
+	- Scientist(56%) ....
+- As you can see, firefighter and police officer are still held in high esteem, but athletes are not  considered so prestigious. It is also interesting to note that business executive is among the lowest ranked professions, almost as low as real estate brokers.
+- My interview is today. It is with a large corporation with hits headquarters in San Francisco, California. It also has satellite offices across the U.S. and in Europe.
+- be confident but not cocky
+- My brain stops working and my mouth keeps going.
+- I need to be respectful but not meek
+- I don't want them to think that I would let my co-workers walk all over me
+- I should show them that I'm a team player. Nobody likes a person who tries to grab the limelight all of the time, especially if they're new, like me.
+- confident, calm, respectful, professional, a team player.
