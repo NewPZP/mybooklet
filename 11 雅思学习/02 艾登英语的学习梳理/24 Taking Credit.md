@@ -1,0 +1,40 @@
+## 重点词汇
+- to take credit for - to say that a good result is because of one's actions when it is not
+	- Sherman did all the housework, but his sister took credit for it and told their parents that she did the housework instead.
+- campaign - a course of action; a series of actions taken to meet a specific goal
+	- The company starred a new campaign to improve sales for its newest product.
+- to pull something - to do something dishonest
+	- When here brother started to acting unusually nice, Marilee thought that he must be trying to pull something.
+- to have the nerve - to have the courage to do something unkind or dishonorable
+	- Louis did not want to believe that his son had the serve to steal from his own father.
+- to top it off - to make something bad even worse
+	- Yuriko had too much work for one person to do, and to top if off, she got the flu and had to do everything while feeling ill.
+- to slack off - to be lazy
+	- Even though Tom had home work due the next day, he decided to slack off and play games instead.
+- to lift a finger - to make any effort
+	- Mrs. Bratton needed to clean the entire house alone because her husband and children would not lift a finger to help.
+- to get away with it - to do something wrong without getting punished for it;
+	- Elliot cheated on his test, but the teacher did not know, so he got away with it.
+- fair-minded - able to judge a conflict fairly, without showing favor to any side.
+	- When her friends disagreed, Selma remained fair-minded and tried to help her friends resolve the conflict peacefully.
+- to step in - to interrupt
+	- Mr. Sumners needed to step in and stop his son and daughter from fighting.
+- to blow if off - to ignore something
+	- Charis was supposed to go to a meeting yesterday, but she blew it off because she didn't think it was very important.
+- fall out - the unexpected result of something, usually when that result is negative
+	- Jason ended the argument between his siblings, but the fall out was that both siblings were now mad at him.
+- to fight one's own battles
+- ticked off - angry; furious
+- to cool off - to calm down
+- That makes two of us. - I feel the same way.
+	- when kenesha said that she hated Mondays, her roommate said, "That makes two of us"
+- to floor - to hit some, knocking the down to the floor.
+
+## 语料/句型
+- working like a dog - working hard
+- let sleeping dogs lie - if you want to leave things alone
+- Call off the dogs! - If you want people to stop attacking or criticizing you
+- I thought he might try to pull something like this, but I didn't think he'd have the nerve to do that.
+- What a jerk! he slacks off for the last two weeks and doesn't lift a finger to help on any part of the project.
+- I'm just so ticked off right now I can't think.
+- We both need to cool off so we can think straight. Let's get some coffee and see what we can come up with.

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/22 Making a good Impression.md",
+                "file": "11 雅思学习/02 艾登英语的学习梳理/24 Taking Credit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/22 Making a good Impression.md",
+                "file": "11 雅思学习/02 艾登英语的学习梳理/24 Taking Credit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/22 Making a good Impression.md",
+                "file": "11 雅思学习/02 艾登英语的学习梳理/24 Taking Credit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/22 Making a good Impression.md"
+                "file": "11 雅思学习/02 艾登英语的学习梳理/24 Taking Credit.md"
               }
             }
           }
@@ -148,36 +148,38 @@
   },
   "active": "2f802b70c09775d8",
   "lastOpenFiles": [
-    "11 雅思学习/02 艾登英语的学习梳理/21 Getting an interview.md",
+    "11 雅思学习/02 艾登英语的学习梳理/23 A Visit to the doctor.md",
+    "11 雅思学习/02 艾登英语的学习梳理/24 Taking Credit.md",
+    "00 边做边学/01【一】雅思7.0以上.canvas",
+    "01 开发实践/01 学习平台开发/01 资料收集.md",
+    "01 开发实践/01 学习平台开发/00 开发任务与日志.md",
+    "01 开发实践/02 【VUE】开发Tips/00 开发记录.md",
+    "01 开发实践/03 【python】开发Tips",
+    "00 边做边学/03【三】探索发现.canvas",
+    "00 边做边学/02【二】自有网站开发.canvas",
+    "00 边做边学/03 【三】 发现新方法，新工具.md",
+    "00 边做边学/00 日志.md",
+    "30 理论学习整理/03 TS学习/03 读书笔记/现代js教程 -【浏览器环境，规格】.md",
+    "30 理论学习整理/03 TS学习/03 读书笔记/现代JS教程【DOM树】.md",
+    "30 理论学习整理/03 TS学习/03 读书笔记/CSS - H5权威指南部分.md",
+    "30 理论学习整理/03 TS学习/03 读书笔记/现代javascirpt教程【八】-类.md",
+    "30 理论学习整理/04 Python/01 官方标准解读/python版本 与 PEP.md",
+    "30 理论学习整理/04 Python/01 官方标准解读/PEP484 Type Hints 类型约束.md",
+    "30 理论学习整理/04 Python/01 官方标准解读/PEP 3148 futures.md",
+    "30 理论学习整理/04 Python/01 官方标准解读/PEP 0282 日志系统.md",
+    "30 理论学习整理/04 Python/01 官方标准解读/00 清单.md",
+    "30 理论学习整理/01 数据库学习/01 从0到1数据库内核实战/3 节 索引结构.md",
+    "30 理论学习整理/01 数据库学习/00 导航/00 学习图谱.md",
+    "01 开发实践/00 ideas/02 分级语言学习平台.md",
+    "01 开发实践/00 ideas/01 英语学习平台.md",
     "11 雅思学习/02 艾登英语的学习梳理/22 Making a good Impression.md",
+    "11 雅思学习/02 艾登英语的学习梳理/21 Getting an interview.md",
     "11 雅思学习/02 艾登英语的学习梳理/20 Formal Emails.md",
     "11 雅思学习/02 艾登英语的学习梳理/19 Tough Negotiations.md",
     "11 雅思学习/02 艾登英语的学习梳理/18 Seeing old friends.md",
     "11 雅思学习/02 艾登英语的学习梳理/02 get up in the morning.md",
-    "11 雅思学习/02 艾登英语的学习梳理/01 Introducing yourself.md",
-    "11 雅思学习/02 艾登英语的学习梳理/17 Reading the Newspaper.md",
-    "11 雅思学习/00 高频话题整理/Leonardo Da vinci.md",
-    "11 雅思学习/00 高频话题整理/04. Messi.md",
-    "11 雅思学习/00 高频话题整理/03. personality.md",
-    "11 雅思学习/00 高频话题整理/02. tell your hometown.md",
-    "11 雅思学习/00 高频话题整理/01. introduce yourself.md",
-    "11 雅思学习/01 keith口语课/15-useful-phrases.md",
-    "11 雅思学习/01 keith口语课/10-useful-phrasal-verbs.md",
-    "11 雅思学习/01 keith口语课/50 useful expressions.md",
-    "11 雅思学习/01 keith口语课/how to agree and disagree.md",
-    "11 雅思学习/01 keith口语课/inventions.md",
-    "11 雅思学习/01 keith口语课/Linking Words.md",
-    "11 雅思学习/01 keith口语课/part 3.md",
-    "11 雅思学习/01 keith口语课/stop-saying-maybe.md",
-    "11 雅思学习/01 keith口语课/stop-saying-very.md",
-    "11 雅思学习/01 keith口语课/synonyms for common Adjectives.md",
-    "11 雅思学习/01 keith口语课/talk-about-cities.md",
-    "11 雅思学习/01 keith口语课/talk-about-work.md",
-    "11 雅思学习/01 keith口语课/useful-idioms-for-any-topic.md",
-    "01 开发实践/02 vue 开发点滴",
+    "01 开发实践/02 【VUE】开发Tips",
     "11 雅思学习/03 句子文章结构练习",
-    "00 边做边学/01【一】雅思7.0以上.canvas",
-    "00 边做边学/02【二】自有网站开发.canvas",
     "01 开发实践/01 学习平台开发/01 数据流.canvas",
     "00 边做边学/00【零】安排.canvas",
     "00 边做边学/05【五】成为commiter.canvas",
@@ -189,7 +191,6 @@
     "00 今年聚焦两件事/99 大致安排与回顾",
     "00 今年聚焦两件事/00 目标方法回顾",
     "20 源代码解读/03 容器",
-    "30 理论学习整理/01 数据库学习/03 mysql实验室",
-    "30 理论学习整理/01 数据库学习/00 导航"
+    "30 理论学习整理/01 数据库学习/03 mysql实验室"
   ]
 }
