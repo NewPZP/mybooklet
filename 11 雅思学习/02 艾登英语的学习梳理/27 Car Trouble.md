@@ -1,0 +1,32 @@
+## 词汇
+- engine light
+- to pull over - to drive one's car to the edge of the road and park or stop it there
+	- Kimberly's cell phone rang, so she pulled over to the side of the road t answer the phone.
+- shoulder - the edge of a road
+- hood - a large cover on the front of a car which protects the engine and other important machines inside the car
+	- I popped the hook and looked to see what problem might be.
+- mechanic
+	- When Christopher's truck stopped suddenly while he was driving, Christopher took it to a mechanic to get it fixed right away.
+- overheat
+- steam - water vapor
+- radiator - a device of tool inside a car that cools hot water used to keep the car cool
+	- the car didn't overheat, since there was no steam coming out of the radiator
+- battery cable
+- tow - 牵引
+	- The car was parked in a place that did not allow parking, so it got a tow to the police yard.
+- fuel pump - a machine or tool inside of a car that sends fuel from the tank or container it is  stored into the engine.
+- transmission
+- tow truck
+	- the tow truck hooked a  heavy chain onto the car and towed it away.
+- to cost someone an arm and a leg
+	- The expensive medical tests cost Ivy an arm and a leg.
+- mind the gab
+- mind your parents
+- mind their manner
+- Do you mind?
+	- sometimes meaning stop doing that, this is a pretty forceful statement and is usually used when we're annoyed or angry about someone else's actions.
+
+## 语料
+- Needless to say, that's not the sort of thing one likes to see.
+- I barely know how to check the oil and the wiper fluid - but perhaps something would jump out at me.
+- I stared worrying about all the things it could be: .... 

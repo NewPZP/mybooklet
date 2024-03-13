@@ -1,0 +1,35 @@
+## 词汇
+- branch 
+	- The bank had customers in Pennsylvania, Ohio, and Indiana because those were the states that the bank had branches in.
+	- The local branch of my bank is located just a few blocks from where I live.
+- deposit
+	- Today I had to go make a deposit
+- block
+	- Mr. Ashbaugh lived one block away from his brother, so the two were able to walk to each other's house.
+- cash a check
+	- Brittney needed money to go shopping, so she cashed her paycheck before she went to the shopping mall.
+	- I'd like to deposit this payroll check into my checking account and cash this cashier's check.
+- teller - a bank employee who helps customers, helping them to put money into the bank and take money out, among other tasks.
+- bulletproof glass
+	- The important politician's car had windows made from bulletproof glass to protect him from an attack.
+- to speak up
+	- Mrs. Mease had poor hearing, so people need to speak up when they talked to her or she will not hear them.
+- payroll check
+	- The company paid its employees every two weeks, so Patrick received a payroll check twice a month.
+- cashier's check
+- to endorse
+	- Jeremy endorsed the check by signing his name on the back.
+- small bills
+	- Can I get that in small bills - tens and twenties?
+- to count out
+	- the cashier counted out the customer's change so that the customer could see that he received the correct amount of change.
+- to burn a hole in one's pocket
+	- The money was burning a hole in Quentin's pocket, so he decided to spend it right away.
+
+## 语料
+- Every one has been short on money at one time or another.
+- No matter how well you plan, unexpected things can happen and leave you strapped.
+- Whether it is because of poor economic times, low pay, or poor planning, people sometimes need to hit up friends or family to tide them over
+- get through their financial difficulties.
+- women have more of a tendency to give without ulterior motives
+- I waited for her to process my check.
