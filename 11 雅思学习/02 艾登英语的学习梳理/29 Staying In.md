@@ -1,0 +1,34 @@
+## 词汇
+- to stay in
+- low-key - quiet and calm, uneventful and not exciting
+	- Dwight wanted to keep his birthday celebration low-key, so he only invited a few close friends to enjoy a quiet evening of playing cards and watching movies.
+- video rental store
+- membership card
+	- Brianna did not have her membership card when she went to the gym and they wouldn't allow her to enter without it.
+- late fee 
+	- Wilmer returned the book three days late, so he was required to pay a late fee.
+- handy - useful; convenient; a quality that one can benefit from
+	- The new computer came with free technical support for 30 days, which came inn handy when Jelissa had trouble getting it to work.
+- order in - to call a restaurant and order food, having that food delivered to one's home
+	- Mrs. Piedra did not feel like going out to a restaurant to eat, so she told her husband that she wanted to order in.
+- take-out
+	- Most of the dishes on the restaurant menu were available for take-out.
+- delivery service
+- crapshoot - a gamble; a situation where the result cannot be predicted or guessed
+	- Kent likes to experiment with cooking and it's always a crapshoot what his family will be served for dinner.
+- slip - a piece of paper; a copy of receipt kept by the seller
+- starving
+- to veg out - to become very relaxed; to allow one's mind to relax completely
+	- after a long, busy day, Estenban wanted to sit on his couch and veg out.
+- hectic - chaotic; very busy; stressful, usually cased by having a large number of tasks to finish
+	- Mackenzie had a lot of work to do to prepare for her company's special event, so her entire day  was hectic.
+- mulled over - to look at closely and to think about very carefully.
+	- We mulled over the take-out menus.
+
+## 语料
+- Radio dramas were shot stories, usually 30 to 60 minutes long, in the form of a play, read by professional actors and actresses, with dramatic music and audio special effects.
+- Before the era of television, radio dramas was ...
+- The dramas or radio plays were sometimes adapted famous books and plays, and sometimes original stories.
+- By the late 1950s, however, with the advent of television, people listened to the radio less for entertainment, preferring instead to watch their dramas rather than just listen to them
+- there was a brief revival of the radio drama. in the form of a nationally broadcast series called the ....
+- With our movies and pizza, we were all set. There's nothing like a night at home, vegging out to get over a hectic week.
