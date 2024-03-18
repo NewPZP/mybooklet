@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/29 Staying In.md",
+                "file": "11 雅思学习/02 艾登英语的学习梳理/30 At the Art Exhibit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/29 Staying In.md",
+                "file": "11 雅思学习/02 艾登英语的学习梳理/30 At the Art Exhibit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/29 Staying In.md",
+                "file": "11 雅思学习/02 艾登英语的学习梳理/30 At the Art Exhibit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/29 Staying In.md"
+                "file": "11 雅思学习/02 艾登英语的学习梳理/30 At the Art Exhibit.md"
               }
             }
           }
@@ -148,49 +148,49 @@
   },
   "active": "2f802b70c09775d8",
   "lastOpenFiles": [
-    "11 雅思学习/02 艾登英语的学习梳理/28 Cashing a Check.md",
-    "11 雅思学习/02 艾登英语的学习梳理/29 Staying In.md",
-    "11 雅思学习/02 艾登英语的学习梳理/27 Car Trouble.md",
-    "11 雅思学习/02 艾登英语的学习梳理/26 At the movies.md",
-    "11 雅思学习/00 高频话题整理/01 【工作】.md",
-    "11 雅思学习/00 高频话题整理/03. personality.md",
-    "11 雅思学习/00 高频话题整理/02. tell your hometown.md",
-    "11 雅思学习/00 高频话题整理/01. introduce yourself.md",
-    "00 边做边学/2024-3.md",
+    "30 编程理论整理/04 Python/02 实践总结/【SQLAlchemy】多个不确定条件查询.md",
+    "11 雅思学习/02 艾登英语的学习梳理/30 At the Art Exhibit.md",
+    "30 编程理论整理/04 Python/00 checklist/知识点.md",
+    "30 编程理论整理/设计模式.md",
+    "30 编程理论整理/04 Python/00 checklist",
+    "00 边做边学/2024/2024-3.md",
+    "30 编程理论整理/04 Python/02 实践总结",
+    "20 AI 相关/00 资料收集/论文收集.md",
+    "20 AI 相关/01 阅读记录",
+    "00 边做边学/随笔/00 要学会区分缓急轻重，目前时间最多关注两个.md",
+    "00 边做边学/随笔/01 使事情连续.md",
+    "00 边做边学/随笔/02 AI 话术.md",
+    "00 边做边学/随笔",
+    "00 边做边学/2024",
+    "20 AI 相关/00 资料收集",
+    "20 AI 相关",
+    "20 源代码解读/01 任务系统/powerJob.md",
+    "20 源代码解读/02 测试平台/02 任务调度/【源码解读】flowable核心实现.md",
+    "20 源代码解读/02 测试平台/02 任务调度/【源码解读】chaosblade-box中的调度.md",
+    "20 源代码解读/02 测试平台/01 故障注入底层技术/jvm_sandbox.md",
+    "30 编程理论整理/03 TS学习/03 读书笔记/CSS - H5权威指南部分.md",
+    "30 编程理论整理/03 TS学习/03 读书笔记/现代JS教程【DOM树】.md",
+    "30 编程理论整理/03 TS学习/03 读书笔记/现代javascript教程【一】- 基础.md",
+    "30 编程理论整理/03 TS学习/03 读书笔记/现代javascript教程【四】-数据类型.md",
+    "30 编程理论整理/03 TS学习/03 读书笔记/现代javascirpt教程【五】-函数进阶.md",
+    "30 编程理论整理/03 TS学习/03 读书笔记/现代javascirpt教程【十一】Generator，高级 iteration.md",
+    "30 编程理论整理/03 TS学习/03 读书笔记/现代javascirpt教程【十三】杂项.md",
+    "30 编程理论整理/03 TS学习/03 读书笔记/现代javascirpt教程【十】-Promise async await.md",
+    "30 编程理论整理/03 TS学习/03 读书笔记/现代javascirpt教程【七】-原型继承.md",
+    "30 编程理论整理/03 TS学习/03 读书笔记/现代javascirpt教程【九】-错误处理.md",
+    "30 编程理论整理/03 TS学习/03 读书笔记/现代javascirpt教程【八】-类.md",
+    "30 编程理论整理/03 TS学习/01 标准解读/ECMA-262 解读.md",
+    "30 编程理论整理/02 JAVA学习/Stream.md",
+    "40 论文&标准阅读/00 资料收集",
+    "40 论文&标准阅读",
     "00 边做边学/01【一】雅思7.0以上.canvas",
     "00 边做边学/02【二】自有网站开发.canvas",
     "00 边做边学/03【三】探索发现.canvas",
-    "11 雅思学习/02 艾登英语的学习梳理/25 A trip to New York City.md",
-    "11 雅思学习/02 艾登英语的学习梳理/24 Taking Credit.md",
-    "11 雅思学习/02 艾登英语的学习梳理/23 A Visit to the doctor.md",
-    "01 开发实践/01 学习平台开发/01 资料收集.md",
-    "01 开发实践/01 学习平台开发/00 开发任务与日志.md",
-    "01 开发实践/02 【VUE】开发Tips/00 开发记录.md",
     "01 开发实践/03 【python】开发Tips",
-    "00 边做边学/03 【三】 发现新方法，新工具.md",
-    "30 理论学习整理/03 TS学习/03 读书笔记/现代js教程 -【浏览器环境，规格】.md",
-    "30 理论学习整理/03 TS学习/03 读书笔记/现代JS教程【DOM树】.md",
-    "30 理论学习整理/03 TS学习/03 读书笔记/CSS - H5权威指南部分.md",
-    "30 理论学习整理/03 TS学习/03 读书笔记/现代javascirpt教程【八】-类.md",
-    "30 理论学习整理/04 Python/01 官方标准解读/python版本 与 PEP.md",
-    "30 理论学习整理/04 Python/01 官方标准解读/PEP484 Type Hints 类型约束.md",
-    "30 理论学习整理/04 Python/01 官方标准解读/PEP 3148 futures.md",
-    "30 理论学习整理/04 Python/01 官方标准解读/PEP 0282 日志系统.md",
-    "30 理论学习整理/04 Python/01 官方标准解读/00 清单.md",
-    "30 理论学习整理/01 数据库学习/01 从0到1数据库内核实战/3 节 索引结构.md",
-    "01 开发实践/02 【VUE】开发Tips",
-    "11 雅思学习/03 句子文章结构练习",
     "01 开发实践/01 学习平台开发/01 数据流.canvas",
     "00 边做边学/00【零】安排.canvas",
     "00 边做边学/05【五】成为commiter.canvas",
     "00 边做边学/04【四】数据库技术.canvas",
-    "00 边做边学/03【三】编程语言.canvas",
-    "01 开发实践/01 学习平台开发",
-    "00 今年聚焦两件事/00 入口",
-    "00 今年聚焦两件事/01 阶段目标",
-    "00 今年聚焦两件事/99 大致安排与回顾",
-    "00 今年聚焦两件事/00 目标方法回顾",
-    "20 源代码解读/03 容器",
-    "30 理论学习整理/01 数据库学习/03 mysql实验室"
+    "00 边做边学/03【三】编程语言.canvas"
   ]
 }

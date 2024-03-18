@@ -1,0 +1,32 @@
+## Glossary
+- contemporary
+	- Gavin did  not like contemporary art much, and he preferred older artwork from the late 1800s and 1900s.
+- up and coming - new but becoming more popular or more successful
+	- Lizzy was an up and coming singer who already had many fans.
+- retrospective - a display that shows a range of artwork created over many years
+	- The retrospective included artwork that the artist first created over 15 years ago.
+- sculpture
+- mixed media
+	- Caterina worked with mixed media, usually using a combination of paint, ink and clay to create her artwork.
+- versatile
+	- Tomatoes are a versatile food that can be used in many type of dishes.
+- opening 
+	- many important people in the art field went to the opening of the artist's show.
+- wine and cheese reception
+	- After the play, the actors were invited to socialize at a wine and cheese reception.
+- gallery
+- art critic - someone whose job is to judge artwork;
+- curator - 馆长
+	- the curator knew a lot about every piece of artwork in the display and was happy to share his knowledge with people who came to view them.
+- gracious - polite
+- still to come - a phrase used to sate something has not occurred yet, but will come in future.
+	- Ken was very busy and had a large number of. tasks to finish, but busier days were still to come.
+	- And I thin her best work is still to come.
+
+## 语料
+- Here are five most..., along with the net price per year:...
+- you can se what four of the five school have in common: they're all universities dedicated to art and design.
+- I really want to .. and I Invite .. to come along. 
+- she is very .... , that's one of the reasons I like her work so much
+- I knew the curator and looked around for him. I spotted him talking with a group of people in the corner.
+- after a little while, the curator ....
