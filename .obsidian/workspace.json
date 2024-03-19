@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/30 At the Art Exhibit.md",
+                "file": "11 雅思学习/02 艾登英语的学习梳理/31 Getting up.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/30 At the Art Exhibit.md",
+                "file": "11 雅思学习/02 艾登英语的学习梳理/31 Getting up.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/30 At the Art Exhibit.md",
+                "file": "11 雅思学习/02 艾登英语的学习梳理/31 Getting up.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/30 At the Art Exhibit.md"
+                "file": "11 雅思学习/02 艾登英语的学习梳理/31 Getting up.md"
               }
             }
           }
@@ -148,12 +148,15 @@
   },
   "active": "2f802b70c09775d8",
   "lastOpenFiles": [
-    "30 编程理论整理/04 Python/02 实践总结/【SQLAlchemy】多个不确定条件查询.md",
+    "11 雅思学习/02 艾登英语的学习梳理/02 get up in the morning.md",
+    "11 雅思学习/02 艾登英语的学习梳理/31 Getting up.md",
+    "11 雅思学习/02 艾登英语的学习梳理/01 Introducing yourself.md",
+    "00 边做边学/2024/2024-3.md",
     "11 雅思学习/02 艾登英语的学习梳理/30 At the Art Exhibit.md",
+    "30 编程理论整理/04 Python/02 实践总结/【SQLAlchemy】多个不确定条件查询.md",
     "30 编程理论整理/04 Python/00 checklist/知识点.md",
     "30 编程理论整理/设计模式.md",
     "30 编程理论整理/04 Python/00 checklist",
-    "00 边做边学/2024/2024-3.md",
     "30 编程理论整理/04 Python/02 实践总结",
     "20 AI 相关/00 资料收集/论文收集.md",
     "20 AI 相关/01 阅读记录",
@@ -178,9 +181,6 @@
     "30 编程理论整理/03 TS学习/03 读书笔记/现代javascirpt教程【十】-Promise async await.md",
     "30 编程理论整理/03 TS学习/03 读书笔记/现代javascirpt教程【七】-原型继承.md",
     "30 编程理论整理/03 TS学习/03 读书笔记/现代javascirpt教程【九】-错误处理.md",
-    "30 编程理论整理/03 TS学习/03 读书笔记/现代javascirpt教程【八】-类.md",
-    "30 编程理论整理/03 TS学习/01 标准解读/ECMA-262 解读.md",
-    "30 编程理论整理/02 JAVA学习/Stream.md",
     "40 论文&标准阅读/00 资料收集",
     "40 论文&标准阅读",
     "00 边做边学/01【一】雅思7.0以上.canvas",

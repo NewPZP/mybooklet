@@ -1,0 +1,39 @@
+## Glossary
+- to go off
+	- her alarm clock went off very early this morning because she wanted to go running before class.
+- snooze button
+	- He is so lazy that sometimes he hits the snooze button seven or eight times before he gets up!
+- night owl
+- early bird
+- to splurge - to spend money on something that isn't necessary.
+	- Ice cream is my favorite food and I often splurge by buying the most expensive kind at the store.
+- mattress - the soft part of the bed that one sleeps on
+	- She said that she couldn't sleep very well last night because the mattress was too hard.
+- match - to have the same color or the colors that look good together
+- sheets
+- pillowcase
+- comforter
+	- when she was sick, she spent the whole day underneath her comforter trying to stay warm.
+- goose down - the very delicate, soft feathers of a goos
+	- A jacket made of goose down is much warmer than any other type jacket.
+- nightstand - a small table next to a bed, usually with a small drawer.
+- robe - bathrobe 浴衣
+- to make one's bed - to place sheets, blankets, comforters, pillows, and pillowcases where they belong on a bed
+- routine
+	- her morning routine includes eating breakfast, watching a morning news show, and taking the dog for a walk.
+- to sleep in - to sleep later than usual; to not wake up early
+	- I wish I could sleep in this Saturday but I have to drive my son to his soccer game.
+- feasibility - ability to complete
+- environmental impact
+- cost analyses
+- site selection
+- review the progress of projects
+
+## 语料
+- Architects may also help clients win construction bids, select contractors, and negotiate construction contracts.
+- Architects discuss with clients the objectives, requirements, and budget of a project.
+- On a weekday, I usually get up around ..., but I set my alarm to go off 6:20 so that I can hit the snooze button to sleep another 10 minutes.
+- I'm a night owl, not an early bird like she is, so ..
+- One reason it's so hard to get up is because ...
+- I splurged and bought a bed with a very soft, thick mattress.
+- When I get up, the first thing I do is put on my robe. ...Then, I usually make my bed .....,Sometime, though, I'm so tired that ... On those days, I wish I could sleep in all day.
