@@ -1,0 +1,23 @@
+## Glossary
+- skim milk - milk that has no fat
+	- When Delia decide to lose weight, she started drinking skim milk instead of whole milk.
+- fridge - short for refrigerator
+- frying pan
+- burner
+- stovetop 
+- toaster
+- spatula - a flat spoon with a long handle that is used to flip and move food in frying pan
+- cereal
+- silverware - forks, knives, and spoons
+- dishwashing detergent - soap used for washing dishes
+- sponge
+	- have you see the big sponge we use to wash the car?
+- to scrub
+	- After working all day on the big farm, he took a shower and scrubbed really hard to get rid of the smell.
+- drying rack -a plastic or wooden tray that holds wet dishes until they become dry.
+- sewage treatment
+	- Civil engineer design and supervise large construction projects, including roads, buildings, airports, tunnels, bridges, and systems for water supply and sewage treatment.
+- make a pot
+	- my roommate usually makes a pot when she wakes up for both of us since she gets up first.
+## Note
+- **When I have time**, I like to cook a hot breakfast, so I take out of the frying pan, pour a little oil in it, and turn on the front burner on the stovetop. While the eggs are cooking, I put two pieces of bread into the toaster. When the eggs are nice and brown on the edges, I use a spatula to put them on the plate. **Some mornings**, I have to **settle for** some cold cereal or just toast with jam, but it's nice to start they day with a sit-down meal when I get the chance.
