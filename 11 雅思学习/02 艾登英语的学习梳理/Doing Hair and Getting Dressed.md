@@ -28,5 +28,5 @@
 
 ## Note
 - An eye care professional will examine your eyes for signs of vision problems or eye diseases. It's the best way to find out if you need glasses or contacts lenses, or are in the early stage of a serious but treatable eye disease.
-- 
-	- 
+- I look in my closet for a skirt and blouse to match.
+- The office I work in is pretty casual so I don't need to wear a suit to work. On Fridays, we're allowed to be even more causal so most people wear jeans and sweaters to the office, but no one dares to show up in t-shirts and shorts.
