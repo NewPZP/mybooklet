@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/33 Eating Breakfast.md",
+                "file": "11 雅思学习/02 艾登英语的学习梳理/Doing Hair and Getting Dressed.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/33 Eating Breakfast.md",
+                "file": "11 雅思学习/02 艾登英语的学习梳理/Doing Hair and Getting Dressed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/33 Eating Breakfast.md",
+                "file": "11 雅思学习/02 艾登英语的学习梳理/Doing Hair and Getting Dressed.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 雅思学习/02 艾登英语的学习梳理/33 Eating Breakfast.md"
+                "file": "11 雅思学习/02 艾登英语的学习梳理/Doing Hair and Getting Dressed.md"
               }
             }
           }
@@ -148,8 +148,9 @@
   },
   "active": "2f802b70c09775d8",
   "lastOpenFiles": [
-    "00 边做边学/目标/2024.md",
     "11 雅思学习/02 艾登英语的学习梳理/33 Eating Breakfast.md",
+    "11 雅思学习/02 艾登英语的学习梳理/Doing Hair and Getting Dressed.md",
+    "00 边做边学/目标/2024.md",
     "00 边做边学/随笔/02 AI 话术.md",
     "00 边做边学/随笔/01 使事情连续.md",
     "00 边做边学/随笔/00 要学会区分缓急轻重，目前时间最多关注两个.md",
@@ -180,7 +181,6 @@
     "20 AI 相关/00 资料收集",
     "20 AI 相关",
     "20 源代码解读/01 任务系统/powerJob.md",
-    "20 源代码解读/02 测试平台/02 任务调度/【源码解读】flowable核心实现.md",
     "40 论文&标准阅读/00 资料收集",
     "40 论文&标准阅读",
     "00 边做边学/01【一】雅思7.0以上.canvas",

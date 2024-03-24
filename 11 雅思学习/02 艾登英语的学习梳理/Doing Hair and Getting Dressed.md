@@ -1,0 +1,32 @@
+## Glossary
+- gel - a thick liquid, usually for one's hair or skin
+- volume 
+	- My hair is always so straight and flat. I wish it were curly and had more volume.
+- bangs
+	- Her bangs are too long, They're hanging in front of her eyes and the make it difficult for her to see.
+- hairspray - a liquid sprayed on one's hair to hold it in the style that one wants
+	- He put on so much hairspray that his hair didn't move when the wind blew.
+- closet
+	- This closet is very organized. All of the clothes a separated by color and style.
+- casual
+	- I like to wear casual clothes on weekends because they are so comfortable.
+- suit
+- jeans
+	- I recommend wearing jeans to go horse riding. They are tough but comfortable.
+- shorts - pants with short legs, cut above the knee
+	- It's too hot to wear pants, but if I wear shorts, I'm afraid that insects will bit my legs.
+- dresser - a piece of  furniture that is used for storing clothing.
+	- When the dresser is empty, we know it's time to do laundry.
+- drawer
+- pantyhose - a thin piece of black or skin-colored clothing worn over a woman's legs and waist, usually with a suit, skirt, or dress.
+- tennis shoes - athletic shoes; comfortable shoes with shoelaces holding them closed
+- heels
+- spinach - 菠菜
+- nearsighted 
+- thorough
+	- A thorough eye exam is often the only way to detect the onset of these diseases.
+
+## Note
+- An eye care professional will examine your eyes for signs of vision problems or eye diseases. It's the best way to find out if you need glasses or contacts lenses, or are in the early stage of a serious but treatable eye disease.
+- 
+	- 
