@@ -1,0 +1,22 @@
+## Glossary
+- stand in line
+	- The enjoyed their trip to Disneyland but they didn't like standing in line for all of the rides.
+- make a deposit
+- paycheck
+- bank teller
+- balance
+	- They always to keep a balance of at least $500 so that they will have money if there is an emergency.
+- to load up
+	- When they heard that a storm was coming, they loaded up on batteries, fresh water, and candles.
+	- I pick up a cart as soon as I walk in and got to the produce department to load up on fruit, some apples and bananas.
+- checkout stands
+	- Can you see which checkout stand has the shortest line?
+- to ring someone up - to process a transaction
+	- The salesperson couldn't ring me up because the computer wasn't working
+- bagger
+	- I get into the shortest line and the cashier rings me up, She gives me my change and the bagger hands me my bags.
+## Note
+- Social workers help people cope with challenges in every stage of their lives.
+- The help with a wide range of situation, such as adopting a child or being diagnosed with a terminal illness.
+- Clinical social workers diagnose and  treat mental, behavioral, and emotional issues.
+- I left at work at exactly five o'clock because I wanted to make it to the bank before it closed at 5:30.
