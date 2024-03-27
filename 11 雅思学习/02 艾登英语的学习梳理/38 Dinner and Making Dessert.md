@@ -1,0 +1,23 @@
+## Glossary
+- napkin
+- place mat
+	- Please put a place mat under that pot so that it doesn't burn the table.
+- dessert
+- oven 烤炉
+- read-made
+	- Almost everything she buys is ready-made. I guess she doesn't like to cook.
+- cookie sheet - a rectangular piece of metal used to bake cookies in an oven
+- aluminum foil
+	- If you cover the edges of a pie with aluminum foil, they won't burn in the oven.
+- to do the dishes
+	- Whenever the kids do the dishes, they get soapy water all over the floor.
+- dough - the wet mixture of flour, sugar, eggs, and milk; bread, cookies, or cakes, that have not been cooked yet.
+- oven mitts
+	- Don't touch that hot pan without wearing oven mitts! you'll burn your hand.
+- Tupperware container
+## Note
+- A little time can go a long way in improving or maintaining good heath.
+- Even small steps can mean big rewards in preventing illness and injury.
+- When I get home, I change into my casual clothes and head for the kitchen.
+- Then I shape the dough into circles, put them on the cookie sheet, and put the pan into the oven.
+- That should make the day go by a little faster.
