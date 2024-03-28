@@ -1,0 +1,33 @@
+## Glossary
+- energetic
+	- Many people drink coffee when they want to feel energetic in the morning
+- rag - an old piece of fabric used to clean things
+- to dust
+	- Can you dust the top shelves for me? I can't reach that high.
+- to wipe
+	- The man, who had been walking the in the sun for an hour, wiped his hand over forehead to stop the sweat from getting into his eyes.
+- filthy
+	- Your shoes are filthy! please take them off before going inside.
+- vacuum
+- to pick up
+	- Please pick up your room! There are clothes, toys, and books all over the floor.
+- to put away
+	- After doing the laundry, Jim put away his shirts and socks.
+- to scrub
+	- This red wine won't come out of the white carpet no matter how hard I scrub.
+- newscast
+- to flip through the channels
+	- I was flipping through the channels but I stopped when I saw the news story about the plane crash.
+- commercial
+	- We always turn off the sound during commercials because they are so annoying.
+- reality show
+- remote - remote control
+	- The remote isn't working very well. Maybe it needs new batteries.
+- to thumb through
+	- She always thumb through a magazine while riding the bus.
+- veterinarian
+- ranche
+- unsanitary
+	- They work out doors in all kinds of weather and may have to perform surgery, often under unsanitary conditions.
+- Veterinarians who work in food safety and inspection must travel to farms, slaughterhouses, and food-processing plants.
+- 
