@@ -1,0 +1,32 @@
+## Note
+- cleanser - a liquid or  powder that is used to clean something
+- towel
+	- when she got out of the shower, she realized that all of the towels were being washed, so she didn't have anything to dry off.
+- toner - 爽肤水
+- moisturizer - 润肤膏
+- to comb
+	- Priscilla always cries when her mother combs her hair because she says it hurts.
+- to tie something back
+	- She always ties her hair back before to the gym to exercise
+- beat - tired; needing rest; exhausted
+	- After working on the farm all day, they were beat and went to bed early
+- to get undressed
+	- He didn't have enough energy to get undressed so he fell asleep with his clothes on.
+- hamper
+	- Don't leave those dirty clothes on the floor. Please put them in the hamper in the bathroom.
+- pajamas
+	- When his neighbor rang his doorbell at 3:00 a.m., he answered the door wearing his pajamas.
+- slippers
+	- When she comes home from work, she immediately takes off her uncomfortable high-heeled shoes and puts on her slippers.
+- to pull back
+	- Her brother pulled back the covers on her bed and put a frog int it.
+- covers
+	- Her husband always steals the covers when they're asleep, and then she wakes up cold in the middle of the night.
+- ritual
+	- her nighttime ritual is to drink a glass of warm milk and read one chapter in her book before going to sleep.
+- fast asleep - to sleep soundly; to sleep very well; to sleep in a way that one is unaware of anything else that is happening
+	- I did't hear your phone call early this morning because I was still fast asleep.
+- Another way to keep you and your pets healthy is to make sure you pets get their vaccines, is dewormed, and don't have fleas and ticks.
+- Regular veterinary visits are essential.
+- There are many benefits of owning a pet. The companionship of pets can help keep away loneliness and depression. Pets can increase your opportunities to exercise, participate in outdoor activities, and socialize.
+- By this time, I am pretty beat.
