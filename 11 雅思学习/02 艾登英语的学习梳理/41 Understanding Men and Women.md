@@ -1,0 +1,19 @@
+## Glossary
+- In my book
+	- People may not agree with me, but in my book, it's rude to not say "thank you" after receiving a gift.
+- idealized
+	- The story Omar told his family was an idealized version of how he and his girlfriend met.
+- chick flick
+	- Eva went with her two best friends to see the new chick flick because her husband did not like watching romance movies.
+- to get into the head of
+	- Ferdinand tried to get into the head of his best friend to determine why his friend was so angry.
+- Men are from Mars and women are from Venus.
+	- After Marcie and Lawrence could not agree on who was right, they agreed to disagree, saying that the misunderstanding could not be avoided because men are from Mars and women are from Venus.
+- mutual attraction
+- dependable character
+- emotional stability and maturity
+- pleasing disposition
+- industriousness
+- refinement, neatness
+- good financial prospect
+- chastity
