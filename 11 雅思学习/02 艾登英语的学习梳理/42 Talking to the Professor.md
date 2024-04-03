@@ -1,0 +1,15 @@
+## Note
+- family emergency
+	- Jamel's brother was in a car accident, so he left work early because of the family emergency.
+- specific
+	- The guidelines  for the paper were very specific and let the students know exactly how long the paper needed to be.
+- due
+	- The work was due on Wednesday, and any work given to the teacher after that day would be considered late.
+	- it's due in two weeks
+- syllabus - a list of rules and information about a class prepared by teacher/professor
+	- take a look at your syllabus
+- extra redit
+	- Delores had a low grade in class, so she completed extra credit work to improve it.
+- to pull up one's grade
+	- se pulled up her grade by getting her roommate to tutor her.
+- Here is perhaps one of the most well known, stories that illustrate the importance of punctuation.

@@ -1,6 +1,7 @@
 ## 参考材料
 - https://zhuanlan.zhihu.com/p/379910939
 -  band 9 IELTS speaking video
+- https://ielts.koolearn.com/20231208/862025.html
 
 ## 考试建议
 - 回答2-5句话！
