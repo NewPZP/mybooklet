@@ -1,0 +1,26 @@
+## Glossary
+- hours of operation
+	- the restaurant's hour of operation were 8:00 a.m. to 9:00 p.m., Monday through Saturday, but it was closed on Sunday.
+	- I called the library to check the hours of operation.
+- stacks
+	- Preston did not know which book he wanted to borrow, so he walked around, looking at the stacks until he saw a book that seemed interesting.
+- catalogue
+	- After looking at the books in the library catalogue, Frida learned that the library did not have the book she wanted to get.
+- to be checked out
+	- How many books can we check out at one time?
+- call number 
+	- the book's call number indicated that it could be found in the biography section of the library.
+- loan period
+	- Books have a loan period of three weeks, but DVDs have to be returned within one week.
+- due date
+	- The book's due date was last Friday, but Shaquana has not returned it yet, so it is now late.
+- bar code
+	- the bar code was damaged, so the computer did not know which product was being scanned.
+- to stamp
+	- The amusement park employee stamped the back of Alissa's hand with a red heart design to show that she had already paid to enter the park.
+- conscientious
+- hatchet
+- parking lot
+	- I parked my car in the library parking lot and walked in.
+- spot
+- To chop down means to kill a tree or large plant using a sharp object, typically an axe, which is like sharp metal knife but much stronger.
