@@ -1,0 +1,36 @@
+## Glossary
+- administrative assistant
+- want ad
+	- The want ad said that the company needed a new salesperson who could start work immediately.
+- classifieds
+	- Greg searched through the classifieds to find out if anyone was selling a car for a cheap price.
+- to narrow down
+	- Jacinda had difficulty choosing her favorite book, but she managed to narrow it down to two novels.
+- promising
+	- The team had won its first five games, so the results for the rest of the season looked promising.
+- personable
+	- Lila had many friends because she was so personable to everyone she meets.
+- perseverance
+	- Even though the company had to deal with many money and supply problems that year, the works had enough perseverance to work through the problems and keep the company going.
+- drawback
+	- The video game seemed like a good gift to buy my nephews, but the drawback was its high price
+	- She sounded like a hard worker and showed a lot of perseverance. The only drawback were that she was a little chatty and she also seemed a little disorganized.
+- chatty
+	- Karlene was quiet around people she did not know, but she was very chatty with her friends and could talk for hours.
+- capacity - in a specific role or position
+	- Teodoro had worked for the company for years in a sales capacity, but he knew very little about how the product was made.
+- rough around the edges
+	- Roger was a little rough around the edges, but he was actually very nice if you get to know him.
+- earnest - sincere; serious about one's intentions
+	- At first, Iona did not believe that her brother was actually sorry for upsetting her, but he was so earnest when he apologized that she realized he meant it.
+	- He was earnest and eager but didn't have the air of someone who had worked in a corporate environment.
+- corporate environment
+- bright - intelligent; smart; clever
+
+## head hunter
+- until recently, companies often paid a headhunter to find high-level employees
+- these headhunters may also help negotiate a compensation package - including salary, benefits, vacation time, stock options, and more
+- referral
+	- several new job-hunting websites allow job-seekers to sign up and offer a cash bounty for a  referral that results in getting a job
+- The amount of the bounty can range from a few hundred dollars to thousands of dollars.
+- 
