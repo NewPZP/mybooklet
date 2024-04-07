@@ -37,8 +37,5 @@
 	- **If... , then it's almost certain that...**  
 	- **If... , then I will invariably...**  
 	- **If... , then I guess this will probably...**
-## 别人怎么答
 
-
-## 我该怎么答
 
