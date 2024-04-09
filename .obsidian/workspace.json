@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 边做边学/2024/2024.4.md",
+                "file": "11 雅思学习/00 雅思拆解/05【口语part1】喜好.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 边做边学/2024/2024.4.md",
+                "file": "11 雅思学习/00 雅思拆解/05【口语part1】喜好.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 边做边学/2024/2024.4.md",
+                "file": "11 雅思学习/00 雅思拆解/05【口语part1】喜好.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 边做边学/2024/2024.4.md"
+                "file": "11 雅思学习/00 雅思拆解/05【口语part1】喜好.md"
               }
             }
           }
@@ -148,14 +148,17 @@
   },
   "active": "2f802b70c09775d8",
   "lastOpenFiles": [
-    "00 边做边学/随笔/00 要学会区分缓急轻重，目前时间最多关注两个.md",
+    "11 雅思学习/00 雅思拆解/04【口语part1】日常.md",
+    "11 雅思学习/00 雅思拆解/02【口语part1】概览.md",
+    "11 雅思学习/00 雅思拆解/00 方法策略.md",
+    "11 雅思学习/00 雅思拆解/03【口语part1】物品类.md",
+    "11 雅思学习/00 雅思拆解/05【口语part1】喜好.md",
     "00 边做边学/2024/2024.4.md",
+    "01 开发实践/01 学习平台开发/01 资料收集.md",
+    "00 边做边学/随笔/00 要学会区分缓急轻重，目前时间最多关注两个.md",
     "00 边做边学/2024",
     "00 边做边学/随笔/01 使事情连续.md",
     "00 边做边学/随笔/02 AI 话术.md",
-    "11 雅思学习/00 雅思拆解/03【口语part1】练习素材.md",
-    "11 雅思学习/00 雅思拆解/02【口语part1】概览.md",
-    "11 雅思学习/00 雅思拆解/00 方法策略.md",
     "30 前端/02 nextjs/00 概览.md",
     "30 前端/01 TS学习/03 读书笔记/现代javascript教程【二】-代码质量.md",
     "30 前端/04 高级知识点",
@@ -176,9 +179,6 @@
     "20 AI 相关/00 资料收集/论文收集.md",
     "11 雅思学习/02 艾登英语的学习梳理/43 A Trip to the library.md",
     "11 雅思学习/02 艾登英语的学习梳理/44 Hiring for a Job.md",
-    "11 雅思学习/02 艾登英语的学习梳理/42 Talking to the Professor.md",
-    "11 雅思学习/02 艾登英语的学习梳理/41 Understanding Men and Women.md",
-    "11 雅思学习/02 艾登英语的学习梳理/39 Cleaning and Relaxing.md",
     "push.sh",
     "40 后端/04 Python/00 checklist",
     "40 后端/04 Python/02 实践总结",

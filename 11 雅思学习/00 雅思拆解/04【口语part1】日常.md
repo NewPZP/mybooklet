@@ -1,0 +1,12 @@
+#### memory
+- What do you have to remember to do every day?
+	- I make it a point to remember daily tasks like taking vitamins, checking emails, and watering plants. These are my main duties, especially now I am not working or studying much.
+- Is it easy for you to forget to do these things?
+	- To assist my memory, I use reminders on my phone and keep a to-do list. I'm fairly organized and I am good at keeping tracking of the things I need to remember to do.
+- Are you good at memorizing things?
+	- My family and friends always say that I have a very good memory, a very strong memory and it's true; I can remember things really far back... even to when I was about 3 or 4 years old.
+- How do you help yourself to remember things?
+	- It's easy to forget things, so having these tools helps me stay organized and on top of my responsibilities. I am a very good planner, so I don't have many issues with this, but some of my friends heavily rely on such calendar reminders on their phones and organization tools.
+- Have you every forgotten something that was important?
+	- I've forgotten a few things yes. I have a habit of getting into long conversations with friends when we are out at restaurant or somewhere, then leaving my wallet or cellphone on the table. I've done this a few times - and once even lost it - as I went back and it was gone!
+- 
