@@ -23,3 +23,18 @@ A few month ago, I found myself in a bustling city square during a lively festiv
 So, at first, the intensity of the noise was <b><u>startling</u></b>. Navigating through the crowed streets,<b><u> I felt a twinge of annoyance</u></b>, actually, as the sounds merged into a chaotic symphony. However,<b><u> as I immersed myself in the festivities</u></b>, as I said before, my initial irritation<b><u> gave way to</u></b> a growing sense of excitement and community spirit. The shared joy and celebration <b><u>permeating</u></b> the air became infectious.
 
 So, basically, I went from <b><u>being in the kind of frame of  mind</u></b> when I wasn't in the mood for noise at all, to actually <b><u>getting carried away with the spirit of the occasion</u></b>. It just goes to show that sometimes we need to<b><u> shift our mood</u></b> when it comes to moving from one type of activity to another, or one state of mind to another, and I think that's very true when it comes to living in a big city where you are likely to be going from quite places  to noisy places, from stressful places to fun places - you have to learn to be adaptable - and <b><u>that's one of things that stood out that I took away with me that day</u></b>: it's good to be a little bit adaptable.
+
+
+#### Q: Describe an interesting conversation you had with an old person.
+You should say
+- Who you had it with
+- Where you had it 
+- What the conversation was
+- And explain how you felt about this conversation
+
+#### A:
+The <b><u>intriguing</u></b> conversation took place with my grandmother in the <b><u>cozy setting</u></b> of her living room. As we sat by the fireplace, she began to <b><u>reminisce</u></b> about here youth,<b><u> sharing of bygone eras and experiences that spanned decades</u></b>. The conversation<b><u> unfolded into</u></b> a fascinating journey through time, where she vividly described <b><u>a world marked by different values, customs, and historical events.</u></b>
+
+What started as a casual chat<b><u> evolved into</u></b> <b><u>a captivating exploration</u></b> of personal and societal changes over the years. Her narrative skillfully wove together tales of resilience, joy, and challenges, offering a unique perspective on life's evolution. The warmth in here voice and the sparkle in her eyes added an extra layer of richness to the storytelling.
+
+Engaging in this conversation was <b><u>a deeply enriching experience</u></b>, <b><u>fostering a stronger connection</u></b> between generations. It not only provided a window into the past but also instilled a profound sense of appreciation in me for the wisdom accumulated over a lifetime. As I listened to my grandmother's stories, I felt a blend of admiration, gratitude, and a renewed understanding of the continuity of through shared narratives. I reminded myself that in my future life, if I have grandchildren, it is important that tell them stories about my days, too.
