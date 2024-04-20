@@ -33,7 +33,7 @@ You should say
 - And explain how you felt about this conversation
 
 #### A:
-The <b><u>intriguing</u></b> conversation took place with my grandmother in the <b><u>cozy setting</u></b> of her living room. As we sat by the fireplace, she began to <b><u>reminisce</u></b> about here youth,<b><u> sharing of bygone eras and experiences that spanned decades</u></b>. The conversation<b><u> unfolded into</u></b> a fascinating journey through time, where she vividly described <b><u>a world marked by different values, customs, and historical events.</u></b>
+The <b><u>intriguing</u></b> conversation took place with my grandmother in the <b><u>cosy setting</u></b> of her living room. As we sat by the fireplace, she began to <b><u>reminisce</u></b> about here youth,<b><u> sharing of bygone eras and experiences that spanned decades</u></b>. The conversation<b><u> unfolded into</u></b> a fascinating journey through time, where she vividly described <b><u>a world marked by different values, customs, and historical events.</u></b>
 
 What started as a casual chat<b><u> evolved into</u></b> <b><u>a captivating exploration</u></b> of personal and societal changes over the years. Her narrative skillfully wove together tales of resilience, joy, and challenges, offering a unique perspective on life's evolution. The warmth in here voice and the sparkle in her eyes added an extra layer of richness to the storytelling.
 
