@@ -16,4 +16,4 @@
 	- Although I'm not working in advertising now, I recognize its influence on consumer behavior and its role in shaping perceptions. So, maybe I will, I'm not sure yet.
 - What kind of advertisements are shown in public places?
 	- Public spaces often show case diverse advertisements, utilizing mediums such as billboards and digital screens to convey messages about products, services, or social issues.
-- 
+
