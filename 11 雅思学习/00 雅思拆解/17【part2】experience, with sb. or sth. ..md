@@ -38,3 +38,15 @@ The <b><u>intriguing</u></b> conversation took place with my grandmother in the 
 What started as a casual chat<b><u> evolved into</u></b> <b><u>a captivating exploration</u></b> of personal and societal changes over the years. Her narrative skillfully wove together tales of resilience, joy, and challenges, offering a unique perspective on life's evolution. The warmth in here voice and the sparkle in her eyes added an extra layer of richness to the storytelling.
 
 Engaging in this conversation was <b><u>a deeply enriching experience</u></b>, <b><u>fostering a stronger connection</u></b> between generations. It not only provided a window into the past but also instilled a profound sense of appreciation in me for the wisdom accumulated over a lifetime. As I listened to my grandmother's stories, I felt a blend of admiration, gratitude, and a renewed understanding of the continuity of through shared narratives. I reminded myself that in my future life, if I have grandchildren, it is important that tell them stories about my days, too.
+
+#### Q: Describe an occasion when you heard someone complaining about something in a public place
+You should say:
+- Where and when it happened
+- What he/she complained about
+- What the result was
+- And explain how you felt about the experience
+<b><u>An occasion that comes to mind is</u></b> when I was at a local restaurant last month. <b><u>It was a cozy place</u></b> that I frequently visited, Known for its warm ambiance about delicious food. On this particular day, I <b><u>overheard</u></b> a customer at the adjacent table expressing dissatisfaction with the service.
+
+The individual was complaining about the  delay in receiving their order and <b><u>the perceived lack of attention from the staff</u></b>. They were <b><u>vocal about their discontent</u></b>, and it was apparent that they felt frustrated.<b><u> The result of the complaint was quite swift</u></b>; the restaurant manager promptly approached the table, apologized, and offered a <b><u>complimentary</u></b> dessert <b><u>as a gesture of goodwill</u></b>.
+
+Observing this scenario, I felt a mix of empathy for the customer and <b><u>an appreciation for the restaurant's responsiveness</u></b>. It highlighted the challenges business face in maintaining high standards consistently. While I sympathized with the customer's experience, <b><u>witnessing the restaurant's commitment to addressing concerns left me with a positive impression</u></b>. It emphasized the importance of effective communication and quick resolutions in customer service, contributing to my understanding of the dynamics in<b><u> service-oriented establishments</u></b>.
