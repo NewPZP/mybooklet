@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 雅思学习/00 雅思拆解/10【口语part2】 experience of being in a hurry，emergency,  accident.md",
+                "file": "30 前端/01 TS学习/03 现代js教程/01 基础.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 雅思学习/00 雅思拆解/10【口语part2】 experience of being in a hurry，emergency,  accident.md",
+                "file": "30 前端/01 TS学习/03 现代js教程/01 基础.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 雅思学习/00 雅思拆解/10【口语part2】 experience of being in a hurry，emergency,  accident.md",
+                "file": "30 前端/01 TS学习/03 现代js教程/01 基础.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 雅思学习/00 雅思拆解/10【口语part2】 experience of being in a hurry，emergency,  accident.md"
+                "file": "30 前端/01 TS学习/03 现代js教程/01 基础.md"
               }
             }
           }
@@ -148,32 +148,33 @@
   },
   "active": "a1ed9295bda3a9dd",
   "lastOpenFiles": [
-    "11 雅思学习/00 雅思拆解/17【part2】experience, with sb. or sth. ..md",
-    "11 雅思学习/00 雅思拆解/10【口语part2】 experience of being in a hurry，emergency,  accident.md",
-    "11 雅思学习/00 雅思拆解/13【口语part2】job，goal，skill，study.md",
-    "11 雅思学习/00 雅思拆解/08【口语part1】名人，人物.md",
-    "11 雅思学习/00 雅思拆解/11【口语part2】friends，relationship， help.md",
-    "11 雅思学习/00 雅思拆解/09【口语part1】科技，工具.md",
-    "11 雅思学习/00 雅思拆解/07 【口语part1】地点.md",
-    "11 雅思学习/00 雅思拆解/06 【口语part1】感受.md",
-    "11 雅思学习/00 雅思拆解/05【口语part1】喜好.md",
-    "11 雅思学习/00 雅思拆解/04【口语part1】日常.md",
-    "11 雅思学习/00 雅思拆解/03【口语part1】物品类.md",
-    "11 雅思学习/00 雅思拆解/02【口语part1】概览.md",
+    "40 后端/04 Python/02 实践总结/【SQLAlchemy】多个不确定条件查询.md",
+    "30 前端/01 TS学习/03 现代js教程/01 基础.md",
+    "30 前端/05 CSS/CSS - H5权威指南部分.md",
+    "30 前端/05 CSS",
+    "30 前端/01 TS学习/03 现代js教程/15 DOM树.md",
+    "30 前端/01 TS学习/03 现代js教程/14【浏览器环境，规格】.md",
+    "30 前端/01 TS学习/03 现代js教程/13 杂项.md",
+    "30 前端/01 TS学习/03 现代js教程/12 模块.md",
+    "30 前端/01 TS学习/03 现代js教程/11 Generator，高级 iteration.md",
+    "30 前端/01 TS学习/03 现代js教程/10 Promise async await.md",
+    "30 前端/01 TS学习/03 现代js教程/09 错误处理.md",
+    "30 前端/01 TS学习/03 现代js教程/08 类.md",
+    "30 前端/01 TS学习/03 现代js教程/07 原型继承.md",
+    "30 前端/01 TS学习/03 现代js教程/06 对象属性配置.md",
+    "30 前端/01 TS学习/03 现代js教程/05 函数进阶.md",
+    "30 前端/01 TS学习/03 现代js教程/04 数据类型.md",
+    "30 前端/01 TS学习/03 现代js教程/03 对象.md",
+    "30 前端/01 TS学习/03 现代js教程/02 代码质量.md",
+    "30 前端/01 TS学习/01 标准解读/ECMA-262 解读.md",
     "00 边做边学/2024/2024.4.md",
+    "11 雅思学习/00 雅思拆解/04【口语part1】日常.md",
+    "11 雅思学习/00 雅思拆解/05【口语part1】喜好.md",
+    "11 雅思学习/00 雅思拆解/13【口语part2】job，goal，skill，study.md",
     "11 雅思学习/00 雅思拆解/12【口语part2】place， buildings， site.md",
-    "11 雅思学习/01 keith口语课/talk-about-work.md",
-    "11 雅思学习/01 keith口语课/synonyms for common Adjectives.md",
-    "11 雅思学习/01 keith口语课/stop-saying-very.md",
-    "11 雅思学习/01 keith口语课/advanced connectors for opinions.md",
-    "11 雅思学习/01 keith口语课/advanced-vocabulary-for-ielts.md",
-    "11 雅思学习/01 keith口语课/advertisement.md",
-    "11 雅思学习/01 keith口语课/Best Idioms for IELTS.md",
-    "11 雅思学习/00 雅思拆解/16【part2】object，tools.md",
-    "00 边做边学/随笔/02 AI 话术.md",
-    "20 AI 相关/00 资料收集/论文收集.md",
-    "20 AI 相关/00 资料收集/最新大模型.md",
-    "20 AI 相关/02 大模型训练基础/00 概要.md",
+    "11 雅思学习/00 雅思拆解/11【口语part2】friends，relationship， help.md",
+    "11 雅思学习/00 雅思拆解/10【口语part2】 experience of being in a hurry，emergency,  accident.md",
+    "11 雅思学习/00 雅思拆解/17【part2】experience, with sb. or sth. ..md",
     "Untitled.canvas",
     "20 AI 相关/Untitled",
     "20 AI 相关/02 大模型训练基础",
@@ -185,7 +186,6 @@
     "40 后端",
     "push.sh",
     "40 后端/04 Python/00 checklist",
-    "40 后端/04 Python/02 实践总结",
     "00 边做边学/01【一】雅思7.0以上.canvas",
     "00 边做边学/02【二】自有网站开发.canvas",
     "00 边做边学/03【三】探索发现.canvas",
