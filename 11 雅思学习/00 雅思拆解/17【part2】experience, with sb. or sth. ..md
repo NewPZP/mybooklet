@@ -50,3 +50,15 @@ You should say:
 The individual was complaining about the  delay in receiving their order and <b><u>the perceived lack of attention from the staff</u></b>. They were <b><u>vocal about their discontent</u></b>, and it was apparent that they felt frustrated.<b><u> The result of the complaint was quite swift</u></b>; the restaurant manager promptly approached the table, apologized, and offered a <b><u>complimentary</u></b> dessert <b><u>as a gesture of goodwill</u></b>.
 
 Observing this scenario, I felt a mix of empathy for the customer and <b><u>an appreciation for the restaurant's responsiveness</u></b>. It highlighted the challenges business face in maintaining high standards consistently. While I sympathized with the customer's experience, <b><u>witnessing the restaurant's commitment to addressing concerns left me with a positive impression</u></b>. It emphasized the importance of effective communication and quick resolutions in customer service, contributing to my understanding of the dynamics in<b><u> service-oriented establishments</u></b>.
+
+#### Q: Describe an interesting activity you enjoyed most in your primary school.
+You should say:
+- What the activity was
+- How often you did it
+- Who you did it with
+- And explain why enjoyed doing it
+During my primary school years, one activity that <b><u>brought immense joy </u></b>was participating in the school's annual talent show. This event, eagerly anticipated each year, provided a platform for students to showcase their unique talent and skills. I engaged in it with enthusiasm, preparing for weeks to deliver a musical performance.
+
+The routine of  practicing and refining our act<b><u> became a regular part of my schedule</u></b> as the event approached. I collaborated with a group of friends who shared a passion for music, <b><u>turning our rehearsals into moments of laughter, creativity, and camaraderie.</u></b> The anticipation of performing in front of the entire school community<b><u> fueled our excitement</u></b>.
+
+What made this activity so enjoyable was <b><u>not just the thrill of being on stage but also the sense of unity</u></b> and shared accomplishment. <b><u>It fostered a spirit of collaboration and creativity</u></b>, allowing us to express ourselves beyond the confines of the classroom. The cheers from our classmates and teachers coupled with the satisfaction of a well-executed performance,<b><u> made this activity a cherished memory from my primary school days</u></b>. <b><u>It instilled in me the value of teamwork, self-expression</u></b>, and <b><u>the joy derived from sharing one's passions with others.</u></b>
