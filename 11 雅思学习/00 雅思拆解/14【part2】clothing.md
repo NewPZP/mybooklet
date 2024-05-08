@@ -1,0 +1,8 @@
+#### Q: Describe a uniform that you have worn.
+You should say:
+- What it is like
+- When you usually wear it
+- Who bought it for you
+- And explain how you feel about it
+
+I'd like to talk about a school uniform, well, a type of school uniform which is popular in Chinese schools. I've not really seen this kind of uniform in western schools, actually. It's a track suit.<b><u> Like a baggy, fashionable sort of track suit</u></b>,<b><u> often dark blue and white</u></b>. I actually like this uniform and I<b><u> think it's pretty practical</u></b> for both girls and boys and students of all ages. I wore this kind of uniform in middle school and high school. My parents bought it for me. I liked it to be honest. In fact, I think uniforms are a good thing in schools because it makes everyone a bit more equal. Children <b><u>can be pretty and competitive about things like</u></b> fashion and image, and I think that the school uniform <b><u>breaks down these barriers</u></b>. Also, it's easier for every one in the family, if you wear the same thing every day rather than having to worry about different clothes to wear each day. <b><u>So, for a variety of reasons I think</u></b> school uniforms are good, Also, it <b><u>give young people a sense of community and identity, </u></b>which is quite good for creating a unity, a common purpose and the feeling of being part of something - a team, in a way, really.<b><u> For all of these reasons I think </u></b>I felt good wearing my school uniform and I think <b><u>the track suit</u></b> is really good type of uniform for students.
