@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 雅思学习/00 雅思拆解/14【part2】clothing.md",
+                "file": "11 雅思学习/00 雅思拆解/11【口语part2】friends，relationship， help.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 雅思学习/00 雅思拆解/14【part2】clothing.md",
+                "file": "11 雅思学习/00 雅思拆解/11【口语part2】friends，relationship， help.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 雅思学习/00 雅思拆解/14【part2】clothing.md",
+                "file": "11 雅思学习/00 雅思拆解/11【口语part2】friends，relationship， help.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 雅思学习/00 雅思拆解/14【part2】clothing.md"
+                "file": "11 雅思学习/00 雅思拆解/11【口语part2】friends，relationship， help.md"
               }
             }
           }
@@ -148,13 +148,15 @@
   },
   "active": "843d92cd648c709d",
   "lastOpenFiles": [
+    "11 雅思学习/00 雅思拆解/14【part2】clothing.md",
+    "11 雅思学习/00 雅思拆解/16【part2】object，tools.md",
+    "30 前端/02 react&nextjs/00 概览.md",
+    "30 前端/03 vue/vue3.0 编程规范.md",
     "11 雅思学习/00 雅思拆解/12【口语part2】place， buildings， site.md",
     "11 雅思学习/00 雅思拆解/11【口语part2】friends，relationship， help.md",
     "11 雅思学习/00 雅思拆解/10【口语part2】 experience of being in a hurry，emergency,  accident.md",
     "11 雅思学习/00 雅思拆解/15【part2】hobbies， skills   and  feelings.md",
-    "11 雅思学习/00 雅思拆解/14【part2】clothing.md",
     "11 雅思学习/00 雅思拆解/17【part2】experience, with sb. or sth. ..md",
-    "11 雅思学习/00 雅思拆解/16【part2】object，tools.md",
     "11 雅思学习/00 雅思拆解/13【口语part2】job，goal，study.md",
     "Describe an interesting activity you enjoyed.md",
     "11 雅思学习/00 雅思拆解/09【口语part1】科技，工具.md",
@@ -164,7 +166,6 @@
     "40 后端/04 Python/02 实践总结/【SQLAlchemy】多个不确定条件查询.md",
     "40 后端/设计模式.md",
     "40 后端/04 Python/01 官方标准解读/PEP 008 代码规范.md",
-    "30 前端/02 nextjs/00 概览.md",
     "20 AI 相关/00 资料收集/最新大模型.md",
     "20 AI 相关/00 资料收集/论文收集.md",
     "20 AI 相关/02 大模型训练基础/00 概要.md",
@@ -173,7 +174,6 @@
     "00 边做边学/随笔/02 AI 话术.md",
     "00 边做边学/随笔/01 使事情连续.md",
     "00 边做边学/随笔/00 要学会区分缓急轻重，目前时间最多关注两个.md",
-    "11 雅思学习/00 雅思拆解/00 方法策略.md",
     "30 前端/05 CSS",
     "Untitled.canvas",
     "20 AI 相关/Untitled",
@@ -182,7 +182,7 @@
     "00 边做边学/2024",
     "30 前端/04 高级知识点",
     "30 前端/03 vue",
-    "30 前端/02 nextjs",
+    "30 前端/02 react&nextjs",
     "40 后端",
     "push.sh",
     "40 后端/04 Python/00 checklist",
