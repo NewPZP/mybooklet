@@ -26,3 +26,13 @@ To achieve this goal, I plan to start small by collaborating with local schools 
 T<b><u>he motivation behind this goal stems form a belief </u></b>that education is the cornerstone of personal and societal progress. Having been fortunate enough to receive quality education, I feel a sense of responsibility to contribute to creating similar opportunities for others. Witnessing the transformative effect education can have on individuals motivates me to work towards providing those opportunities to those who might not have easy access.
 
 In essence, this life-long goal is not just about establishing an organization; it's about being a catalyst for positive change and empowerment through education. It represents my commitment to contributing to a more equitable and enlightened world, where everyone, regardless of their background, has the chance to unlock their full potential.
+
+
+#### Q: Describe  something that helps you focus on work or study.
+You should say:
+- What it is 
+- How often you do it
+- When you start doing it
+- And explain how it helps you concentrate
+
+What really helps me focus on my studies is classical musical - light classical music. I always<b><u> put violin or cello music on</u></b> when I am studying, or clarinet music. I don't put it on loudly. I just<b><u> put it on in the background</u></b>, and I choose really calm concertos and pieces of music that are not too fast or too erratic. This <b><u>helps my mind detach from the stresses and strains of daily life</u></b>, and  helps to make my thought calm and focused. It's a habit I've had for many years, which started, I think, when I was in high school, and a teacher recommended it. I began doing it in my dorm at university almost every time I had to study and I found it worked wonderfully. In those days I used to listen to music on headphones, because I shared the dorm with others, but now I have my own room. I play it on speakers from my computer. I am a person who needs to be a quiet place when I am studying -  a place where I cannot hear the sound of traffic on the roads or anything like this - so putting on calming, relaxing classical music an also <b><u>help to drown out of the sound of the city </u></b>that might come in though the window. So, yeah, this is my main method of concentrating and relaxing when I really need to focus on studies and shut out the outside world.
