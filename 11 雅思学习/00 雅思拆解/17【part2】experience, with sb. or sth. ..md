@@ -71,3 +71,16 @@ You should say:
 - And explain how you felt about it
 
 The Time I helped someone I'd like to talk about was a recent event actually. It was only a week ago. I was on the subway station platform not far from Wang Fu Jing in Beijing, and I saw two elderly foreigners standing looking at a map and <b><u>looking really confused and a bit concerned</u></b>. I thought maybe they spoke English and so I approached them and asked if I could do anything to help. They were very grateful actually, and they were looking for the snack street in Wangfujing, and trying to work out which exit to get out of the subway from. <b><u>I ended up walking with them to the correct exit</u></b>, and then they invited me to join them. They were an American couple on holiday. I showed them the<b><u> snack stalls and fried scorpions</u></b> and other more interesting snacks, then I introduced them to a small restaurant that I thought they would appreciate more. A local Beijing restaurant. We had duck and pancakes and several other simple typical vegetables dishes. I talked to them about my hometown, which is Tianjin, and they told me about their holiday so far. They had been in Guilin and Shanghai before coming to Beijing-they were doing a 3-week tour of China. So, I felt great about this experience and it's lucky I had the free time to not only help them but take them out to dinner and share a meal with them, and good conversation. Also, of course, I got to practice my English!
+
+#### Q: Describe a time when you bought something from a street or outdoor market.
+You should say:
+- Where it is 
+- How you knew it
+- What kind of thing you bought there
+- And explain how you felt about this experience
+I once visited <b><u>a bustling outdoor market nestled in the heart of the city</u></b>. This vibrant market was<b><u> renowned for its eclectic mix of stalls</u></b>, selling everything from <b><u>handcrafted jewelry</u></b> to <b><u>vintage clothing</u></b>. <b><u>The ambiance was magnetic</u></b>, drawing in locals and tourists alike. I stumbled upon this market through recommendations from friends who praised its unique offerings.
+
+<b><u>As I strolled through the labyrinth of stalls</u></b>, my attention was captivated by a quaint artisan selling handmade leather goods, Intrigued, I <b><u>engaged in a conversation with</u></b> the craftsman, learning about his <b><u>meticulous</u></b> process and the stories woven into each piece. Eventually, I <b><u>couldn't resist the allure of </u></b>a beautifully crafted leather wallet, and I decide to make a purchase.
+
+The entire experience was not just about buying an item; it was a sensory journey. The vibrant colors,<b><u> the myriad of scents from street food </u></b>vendors, and the <b><u>melodic chatter</u></b> of buyers and sellers created a rich tapestry of sensations. The act of purchasing an item became a memorable adventure, leaving me with not just a tangible product but a profound connection to the craftsmanship and the vibrant spirit of the market. The wallet, now a daily companion, <b><u>serves as a tangible reminder of that enriching experience</u></b>.
+

@@ -11,9 +11,6 @@
 
 While the experience was undoubtedly stressful,<b><u> the successful execution of my tasks within the hurried timeframe left me with a sense of accomplishment.</u></b> It highlighted my ability to <b><u>remain composed</u></b> under pressure and make quick, effective decisions. However, the<b><u> overall feeling was a mix of relief and adrenaline</u></b>, as I pondered the necessity of adapting to unexpected situations in the professional realm. I hope I can<b><u> further nurture and maintain this life skill</u></b>! I think that life is often full of these kinds of pressures and challenges and everyone should <b><u>develop their own capacity to deal with hurried and highly tense and stressful situations</u></b>
 
-#### My Answer:
-
-
 #### Q: Describe a time when you were very busy.
 You should say
 - When it happened
