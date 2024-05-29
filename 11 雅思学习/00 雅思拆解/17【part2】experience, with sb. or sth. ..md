@@ -106,3 +106,18 @@ Several years back, I <b><u>embarked on a highly anticipated trip</u></b> to Par
 The delay, although initially <b><u>exasperating</u></b>, unfolded into a unique experience of its own. Stranded at airport, I found myself engaged in conversations with fellow travelers<b><u> facing similar predicaments.</u></b> We<b><u> shared anecdotes, travel aspirations</u></b>, and even discovered common interests. This impromptu camaraderie transformed the delay from an inconvenience into a shared adventure of sorts.
 
 Upon finally arriving in Paris, the initial frustration gave way to a profound sense of gratitude perspective. The delay, while interrupting my carefully planned itinerary, allowed me to<b><u> appreciate the unpredictability of travel </u></b>and <b><u>savor the journey</u></b> itself, beyond the destination. In retrospect, the detour proved to be an unexpected enrichment, demonstrating that the essence of travel often lies in the unscripted moments and connections forged along the way.
+#### Q: Describe a time when you found something that somebody lost.
+You should say:
+- What it was
+- Where and when it happened
+- What happened then
+- And explain how you felt about this experience
+
+ List and found incidents<b><u> often unfold in the most unexpected moments </u></b>of you lives. One such episode occurred when I stumbled upon a misplaced wallet during my evening stroll in the local park. The wallet, lying inconspicuously on a bench, revealed not just its material contents but the potential to make someone's day better.
+
+The finding took place <b><u>on a serene Saturday evening</u></b>. <b><u>As the sun dipped below the horizon</u></b>, casting warm hues across the park, I noticed the wallet<b><u> left unattended</u></b>. Curiosity led me to inspect its contents, revealing identification cards, credit cards, and a modest sum of cash. Recognizing the potential stress and inconvenience the loss might cause, I decide to<b><u> play the role of an unwitting good Samaritan</u></b>.
+
+Driven by a sense of responsibility, I took the wallet to the park's information center, leaving it with the staff. I hoped that the wallet's owner would <b><u>retrace their steps</u></b> to find it or, better yet, receive a call from the information center.
+
+The feeling that accompanied this discovery was one of moral satisfaction. While I did not witness the wallet's owner reclaiming their possession, the act of doing the right thing<b><u> imparted a sense of goodwill</u></b>. It underscored the significance of small gestures in fostering a sense of community and reminded me of the<b><u> collective responsibility </u></b>we all share in making our surroundings more secure and being more compassionate to our fellow man.
+
