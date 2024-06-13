@@ -1,0 +1,8 @@
+## What will you do if you find something lost by others?
+- The fist thing to do is try to absolutely try to find out any possible clues about whom the item might belong to, such as the ID card or some contact information. So that I can reach the person and return the item. I guess anyone who has lost something important might be quite anxious and worried.
+## Do you report to the police when finding something lost by others? Why?
+- I'd say yes if it's necessary. I mean in most situations, there's the lost and found office, where we can leave the item, so that the owner could com and reclaim it later. The <b><u>police forces</u></b> have their own duties, and it's<b><u> a waste of public resources</u></b> to bother them with <b><u>non-relevant issues</u></b>.
+## Have you ever lost things?
+- Yes, sure. I guess everyone <b><u>could have </u></b>lost something, and I can't be <b><u>exempted</u></b>. When I was a child, I often forget where I had left my favorite toys, and ended up losing them. As a student, I used to lose books and even my experiment reports. The worst thing I've lost so far is an iPhone, which is still quite painful to think about.
+## Will you post on social media if you lost your item?
+- Yes, <b><u>provided that it's necessary</u></b>. Sometimes to send a tweet can definitely<b><u> help with retrieving the item</u></b>, <b><u>as there are great chances that</u></b> the one who has found the item may read my tweet so that they can send it back to me. Sometimes I'm just too sad about my loss, and therefore <b><u>making a public complaint</u></b>.

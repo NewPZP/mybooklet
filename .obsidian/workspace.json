@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "75070ae813e9da07",
+        "id": "6357e03fd5e8c718",
         "type": "tabs",
         "children": [
           {
-            "id": "843d92cd648c709d",
+            "id": "a1e0703855cf37ba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11 雅思学习/00 话题练习/01 Time management.md",
+                "file": "02 IETLS/03 雅思课/02 刘薇/02 Art.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "11 雅思学习/00 话题练习/01 Time management.md",
+                "file": "02 IETLS/03 雅思课/02 刘薇/02 Art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "11 雅思学习/00 话题练习/01 Time management.md",
+                "file": "02 IETLS/03 雅思课/02 刘薇/02 Art.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "11 雅思学习/00 话题练习/01 Time management.md"
+                "file": "02 IETLS/03 雅思课/02 刘薇/02 Art.md"
               }
             }
           }
@@ -146,44 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "843d92cd648c709d",
+  "active": "a1e0703855cf37ba",
   "lastOpenFiles": [
-    "11 雅思学习/04 2024.1题库/02【口语part1】概览.md",
-    "11 雅思学习/04 2024.1题库/00 方法策略.md",
-    "11 雅思学习/03 雅思课/02 刘薇/01 Time management.md",
-    "11 雅思学习/00 话题练习/01 Time management.md",
-    "11 雅思学习/03 雅思课/02 刘薇/04 Mirros.md",
+    "02 IETLS/03 雅思课/02 刘薇/01 Time management.md",
+    "02 IETLS/03 雅思课/02 刘薇/00 Dreams.md",
+    "02 IETLS/03 雅思课/02 刘薇/02 Art.md",
+    "02 IETLS/03 雅思课/02 刘薇/04 Mirros.md",
+    "02 IETLS/03 雅思课/02 刘薇/05 Lost and Found.md",
+    "2024-06-14.md",
+    "01 projects/01 英语学习平台/00 特性.md",
+    "30【理论学习】前端/03 vue&nuxtjs/vue3.0 编程规范.md",
+    "01 projects/03 fastapi examples",
+    "01 projects/02 vue exmaples",
     "00 边做边学/2024/2024.6.md",
-    "11 雅思学习/00 话题练习/00【爱好】jump rope.md",
-    "11 雅思学习/03 雅思课/02 刘薇/02 Art.md",
-    "40 后端/04 Python/02 实践总结/【SQLAlchemy】多个不确定条件查询.md",
-    "40 后端/04 Python/02 实践总结/【SQLAlchemy】进阶.md",
-    "40 后端/04 Python/01 官方标准解读/PEP484 Type Hints 类型约束.md",
-    "40 后端/04 Python/01 官方标准解读/PEP 0282 日志系统.md",
-    "40 后端/04 Python/01 官方标准解读/PEP 3148 futures.md",
-    "40 后端/04 Python/01 官方标准解读/PEP 008 代码规范.md",
-    "11 雅思学习/04 2024.1题库/14【part2】clothing.md",
-    "11 雅思学习/04 2024.1题库/11【口语part2】friends，relationship， help.md",
-    "11 雅思学习/04 2024.1题库/10【口语part2】 experience of being in a hurry，emergency,  accident.md",
-    "11 雅思学习/04 2024.1题库/09【口语part1】科技，工具.md",
-    "11 雅思学习/04 2024.1题库/08【口语part1】名人，人物.md",
-    "11 雅思学习/04 2024.1题库/07 【口语part1】地点.md",
-    "11 雅思学习/04 2024.1题库/06 【口语part1】感受.md",
-    "11 雅思学习/04 2024.1题库/05【口语part1】喜好.md",
-    "11 雅思学习/04 2024.1题库/04【口语part1】日常.md",
-    "11 雅思学习/04 2024.1题库/03【口语part1】物品类.md",
-    "11 雅思学习/03 雅思课/02 刘薇/00 Dreams.md",
-    "11 雅思学习/03 雅思课/02 刘薇/99 总结.md",
-    "11 雅思学习/03 雅思课/02 刘薇",
-    "11 雅思学习/03 雅思课/01 lina",
-    "11 雅思学习/03 雅思课",
-    "11 雅思学习/00 话题练习",
+    "03 源码阅读",
+    "00 边做边学/2024/2024.5.md",
+    "00 边做边学/2024/2024.4.md",
+    "00 边做边学/随笔/00 要学会区分缓急轻重，目前时间最多关注两个.md",
+    "00 边做边学/随笔/02 AI 话术.md",
+    "00 边做边学/随笔/01 使事情连续.md",
+    "40【理论学习】后端/01 Python/01 官方标准解读/PEP484 Type Hints 类型约束.md",
+    "01 projects/01 英语学习平台",
+    "01 projects/02 【VUE】开发Tips/00 开发记录.md",
+    "20【理论学习】AI/00 资料收集/最新大模型.md",
+    "02 IETLS/00 话题练习/01 Time management.md",
+    "02 IETLS/03 雅思课/03 lina/Untitled.md",
+    "02 IETLS/04 2024.1题库/02【口语part1】概览.md",
+    "11 雅思学习/04 2024.1题库/00 方法策略.md",
+    "02 IETLS/00 话题练习/00【爱好】jump rope.md",
+    "40【理论学习】后端/01 Python/02 实践总结/【SQLAlchemy】多个不确定条件查询.md",
+    "40【理论学习】后端/01 Python/02 实践总结/【SQLAlchemy】进阶.md",
+    "40【理论学习】后端/01 Python/01 官方标准解读/PEP 0282 日志系统.md",
+    "40【理论学习】后端/01 Python/01 官方标准解读/PEP 3148 futures.md",
+    "02 IETLS/03 雅思课/02 刘薇",
+    "02 IETLS/03 雅思课/03 lina",
+    "02 IETLS/03 雅思课",
+    "02 IETLS/00 话题练习",
     "11 雅思学习/03 刘薇雅思课/口语part1",
     "11 雅思学习/03 刘薇雅思课",
-    "11 雅思学习/05 练习库/part03",
-    "11 雅思学习/05 练习库/part02",
-    "11 雅思学习/05 练习库/part01",
-    "11 雅思学习/05 练习库",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "00 边做边学/01【一】雅思7.0以上.canvas",
