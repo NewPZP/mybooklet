@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 ongoing/01 计划/2024.6.md",
+                "file": "02 IETLS/03 雅思课/02 刘薇/06 Cinema.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 ongoing/01 计划/2024.6.md",
+                "file": "02 IETLS/03 雅思课/02 刘薇/06 Cinema.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 ongoing/01 计划/2024.6.md",
+                "file": "02 IETLS/03 雅思课/02 刘薇/06 Cinema.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 ongoing/01 计划/2024.6.md"
+                "file": "02 IETLS/03 雅思课/02 刘薇/06 Cinema.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "a1e0703855cf37ba",
   "lastOpenFiles": [
-    "01 projects/01 vue exmaples/01 【nuxt】portfolio.md",
+    "02 IETLS/03 雅思课/02 刘薇/05 Lost and Found.md",
+    "02 IETLS/03 雅思课/02 刘薇/06 Cinema.md",
     "00 ongoing/01 计划/2024.6.md",
+    "01 projects/01 vue exmaples/01 【nuxt】portfolio.md",
     "01 projects/03 langchain examples",
     "00 ongoing/02 归档/2024.5.md",
     "00 ongoing/01 计划",
@@ -161,7 +163,6 @@
     "02 IETLS/03 雅思课/02 刘薇/01 Time management.md",
     "02 IETLS/03 雅思课/02 刘薇/00 Dreams.md",
     "02 IETLS/03 雅思课/02 刘薇/04 Mirros.md",
-    "02 IETLS/03 雅思课/02 刘薇/05 Lost and Found.md",
     "2024-06-14.md",
     "01 projects/05 英语学习平台/00 特性.md",
     "30【理论学习】前端/03 vue&nuxtjs/vue3.0 编程规范.md",

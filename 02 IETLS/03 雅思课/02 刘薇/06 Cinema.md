@@ -1,0 +1,8 @@
+## Did you usually go to the cinema when you were a kid?
+- Yes, I did. Both of my parents are passionate movie-goers and they often took me to the cinema. I my memory, I went to the cinema at least on a monthly basis when I was a child, after all there were not so many movies that were made for children.
+## Do you usually go to the cinema with you friends?
+- I'd say not really. I'm often quite immersed into the plots when watching a movie, and my emotion gets affected accordingly, which seems to be something private that I'd only love to share with my girlfriend. With my friends, I'd prefer doing something more interactive, like holding a party or displaying some games. 
+## Do you still enjoy watching the movies you loved as a child?
+-  The answer is yes, but the enjoyment has changed. I mean when I was a child, I felt excited and amazed at the plots and characters of cartoons. But now when I review those movies, I feel more touched as I had a lot of sweet memories watching them in my childhood.
+## Do you prefer watching movies at home or at the cinema?
+- To watch movies at the cinema is absolutely a more tempting idea for me. The iMax screen, the hi-fi stereo and the dark environment together can enable me get immersed into the movie deeper and have a much better experience. Though I can't enjoy the freedom to pause and fast forward as I'm watching a movie at home, I'd love to go to the cinema especially for those blockbusters.
