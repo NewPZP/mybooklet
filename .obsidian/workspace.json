@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 IETLS/03 雅思课/02 刘薇/07 Taking photos.md",
+                "file": "02 IETLS/03 雅思课/02 刘薇/08 Street Market.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 IETLS/03 雅思课/02 刘薇/07 Taking photos.md",
+                "file": "02 IETLS/03 雅思课/02 刘薇/08 Street Market.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 IETLS/03 雅思课/02 刘薇/07 Taking photos.md",
+                "file": "02 IETLS/03 雅思课/02 刘薇/08 Street Market.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 IETLS/03 雅思课/02 刘薇/07 Taking photos.md"
+                "file": "02 IETLS/03 雅思课/02 刘薇/08 Street Market.md"
               }
             }
           }
@@ -148,9 +148,10 @@
   },
   "active": "a1e0703855cf37ba",
   "lastOpenFiles": [
+    "02 IETLS/03 雅思课/02 刘薇/07 Taking photos.md",
+    "02 IETLS/03 雅思课/02 刘薇/08 Street Market.md",
     "02 IETLS/03 雅思课/02 刘薇/05 Lost and Found.md",
     "02 IETLS/03 雅思课/02 刘薇/06 Cinema.md",
-    "02 IETLS/03 雅思课/02 刘薇/07 Taking photos.md",
     "00 ongoing/01 计划/2024.6.md",
     "01 projects/01 vue exmaples/01 【nuxt】portfolio.md",
     "01 projects/03 langchain examples",
@@ -181,7 +182,6 @@
     "02 IETLS/04 2024.1题库/02【口语part1】概览.md",
     "11 雅思学习/04 2024.1题库/00 方法策略.md",
     "02 IETLS/00 话题练习/00【爱好】jump rope.md",
-    "40【理论学习】后端/01 Python/02 实践总结/【SQLAlchemy】多个不确定条件查询.md",
     "02 IETLS/03 雅思课/02 刘薇",
     "02 IETLS/03 雅思课/03 lina",
     "Untitled.canvas",
