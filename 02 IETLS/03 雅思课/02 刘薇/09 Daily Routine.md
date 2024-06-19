@@ -1,0 +1,9 @@
+## What is your daily study routine?
+- I usually get up early so that <b><u>I can either</u></b> read some online articles to update my knowledge about society<b><u> or at least</u></b> memorize some new words, as I believe my memory is in the best condition in the early morning.<b><u> After that</u></b> I usually attend lectures for the whole day, <b><u>sometimes</u></b> I do experiments instead, which can be both fun and challenging. In the evening, I have to finish my assignments. I guess I can say I have a pretty busy study routine.
+## Have you ever changed your routine?
+- Yes, sure. But <b><u>for most of the time</u></b>, my changes have been made <b><u>passively</u></b>.<b><u> As my school schedule changes, I have to adjust my study routine accordingly</u></b>. While the academic burden is pretty heavy, <b><u>it's  more necessary for me</u></b> to seek for chances to <b><u>let off the steam by engaging in relaxing activities</u></b>, such as playing sports. And when the final week approaches, I'll often have to <b><u>burn the midnight oil</u></b> to review.
+
+## Do you think it is important to have a daily routine for you study?
+- Yes, I do. I believe in the effect of time, while having a reasonable and productive routine<b><u> plays a significant role</u></b>. <b><u>With such a routine to follow</u></b>, I can make better use of my time<b><u> without lingering aimlessly</u></b>. More importantly, it serves as a record of my progress, so that<b><u> I can be reminded of how much I have stepped forward each day</u></b>.
+## What part of your day do you like best?
+- My favorite part of the day is the evening because I <b><u>have free time to pursue my hobbies and interests</u></b>. During the day, <b><u>it is my obligation to</u></b> attend classes and complete my homework <b><u>whereas</u></b> in the evening, I can choose what l like to do. I may go out with my friends, visit some new places in the city or just relax in my dorm.

@@ -1,7 +1,7 @@
 ## Do you like taking photos?
 - Yes, definitely. I find photography a great way to <b><u>record the dribs and drabs of life</u></b>, therefore an album of photos can help us <b><u>recall a lot of sweet and significant moments</u></b>. In addition, a nicely-taken photo can be a piece of art work, which not only provides us with a different angle to look at the world, but probably tells a touching story as well.
 ## Do you like taking selfies?
-- No, I'm afraid not. I've never been enthusiastic about it. Even when I'm doing it, I often feel too embarrassed to strike the pose or put on an exaggerative smile facing my own phone. Only when I'd asked by my parents or some really close friends would I do it.
+- No, I'm afraid not. I've never been enthusiastic about it. Even when I'm doing it, I often feel too embarrassed to<b><u> strike the pose or put on an exaggerative smile</u></b> facing my own phone. Only when I'd asked by my parents or some really close friends would I do it.
 ## What is your favorite family photo?
 - It's the photo that was taken when I was 2 or 3 years old. In the photo, both of my parents are sitting in front of a flowerbed. My mother leans on my father's shoulder, <b><u>while</u></b> my father is holding me in his strong arms. My parents are smiling happily, <b><u>but I seem to be looking at something</u></b> curiously and trying to reach it. The photo <b><u>captured the loving and happy moments </u></b>of my family.
 ## Do you want to improve your photography skills?
