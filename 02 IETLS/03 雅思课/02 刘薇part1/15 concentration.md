@@ -1,0 +1,8 @@
+## Is it difficult for you to stay focused on something?
+- That depends on what the environment is like at the time. For example, if it is quiet, then I can concentrate with no problems at all. And it is usually quiet in the office/classroom, so normally my job could be done smoothly and I'm quite self-directed as well. But if it is loud and there is a lot going on, then it can be a serious challenge.
+## What do you do help you concentrate?
+- I simply remove distractions, usually physically. For example, if I'm at my work, I will only have the working stuff on my desk, and my phone will definitely be the first to be removed. I also wear my <b><u>earbuds</u></b> to<b><u> cancel out any noise</u></b> that could be distracting. So that really <b><u>helps me concentrate on whatever the matter at hand is</u></b>.
+## What may distract you when you're trying to stay focused
+- For a long time, the main distraction is people's talking, whether they are talking to me or taking next to me. My mind just <b><u>keeps straying from what I should focus on</u></b> and I couldn't help it. It's extremely distracting and I<b><u> can't get away from it</u></b>.
+## When do you need to be focused?
+- I suppose I have to be focused when I'm studying, especially maths. I r<b><u>eally need to build up my ability to focus</u></b> there because I often lose track of whatever is the calculation that I'm supposed to be making. Also, I have to focus at the gym. You've got to pay attention, or you could end up hurting yourself or other people around you if you are not careful enough.

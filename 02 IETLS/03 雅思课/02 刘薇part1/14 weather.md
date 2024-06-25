@@ -1,0 +1,8 @@
+## What kind of weather do you like most?
+- It depends what I'm doing really. If I'm doing something outdoors, I hope the weather to be sunny but not scorching because I will <b><u>sweat buckets</u></b> after a while. But if I'm staying inside, I love listening to the rain beating against the window and<b><u> the wind howling outside</u></b>. It makes me calm and feel at peace. 
+## What is the weather like in your hometown?
+- I'm from a coastal city in southeast China so the thing people always complain about is the typhoon and the rain. But since my hometown is located in the subtropics, we don't get very harsh winters and it hardly ever snows. I thing temperate is the word to describe out climate - neither too hot, nor too cold.
+## Is there any difference in the weather in different parts of  your country?
+- Yes, climate is quite different in north and south China, and t<b><u>he most distinctive difference</u></b> between them lies in the season of winter. Generally, the lowest temperature in north China, say, Heilongjiang Province, in winter it can be minus 40 degrees Celsius, while in the warm south, like Hainan Province, it is still 20 degrees Celsius in January.
+## Do you prefer dry or wet weather?
+- I mostly prefer cool weather that is most common during spring or autumn. Hot and wet weather often makes me feel sweaty and <b><u>sluggish</u></b>. And the clothes would<b><u> cling damply to my skin</u></b>, which is absolutely uncomfortable. Moderate humidity and temperature enable me to wear comfortable clothing and it is delightful to go outdoors to spend time with my friends or even play sports.

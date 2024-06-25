@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 IETLS/03 雅思课/02 刘薇/12 websites.md",
+                "file": "02 IETLS/03 雅思课/02 刘薇part1/17 Getting lost.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 IETLS/03 雅思课/02 刘薇/12 websites.md",
+                "file": "02 IETLS/03 雅思课/02 刘薇part1/17 Getting lost.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 IETLS/03 雅思课/02 刘薇/12 websites.md",
+                "file": "02 IETLS/03 雅思课/02 刘薇part1/17 Getting lost.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 IETLS/03 雅思课/02 刘薇/12 websites.md"
+                "file": "02 IETLS/03 雅思课/02 刘薇part1/17 Getting lost.md"
               }
             }
           }
@@ -146,44 +146,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1e0703855cf37ba",
+  "active": "736fbb1523bec196",
   "lastOpenFiles": [
-    "02 IETLS/03 雅思课/02 刘薇/11 Car.md",
-    "02 IETLS/03 雅思课/02 刘薇/12 websites.md",
-    "02 IETLS/03 雅思课/02 刘薇/09 Daily Routine.md",
-    "02 IETLS/03 雅思课/02 刘薇/10 Handwriting.md",
+    "02 IETLS/03 雅思课/02 刘薇part1/05 Lost and Found.md",
+    "02 IETLS/03 雅思课/02 刘薇part1/04 Mirros.md",
+    "02 IETLS/03 雅思课/02 刘薇part1/01 Time management.md",
+    "02 IETLS/03 雅思课/02 刘薇part1/00 Dreams.md",
+    "02 IETLS/03 雅思课/02 刘薇part1/17 Getting lost.md",
+    "02 IETLS/03 雅思课/02 刘薇part1/16 Apps.md",
+    "02 IETLS/03 雅思课/02 刘薇part1/15 concentration.md",
     "00 ongoing/01 计划/2024.6.md",
+    "04 projects/01 vue exmaples/01 【nuxt】portfolio.md",
+    "02 IETLS/99 素材/书 收集.md",
+    "02 IETLS/03 雅思课/02 刘薇part1/12 websites.md",
+    "02 IETLS/03 雅思课/02 刘薇part1/11 Car.md",
+    "02 IETLS/03 雅思课/02 刘薇part1/10 Handwriting.md",
+    "02 IETLS/03 雅思课/02 刘薇part1/06 Cinema.md",
+    "02 IETLS/03 雅思课/02 刘薇part1/14 weather.md",
+    "02 IETLS/00 话题练习/00【爱好】jump rope.md",
+    "02 IETLS/00 话题练习/01 Time management.md",
+    "30【理论学习】前端/03 vue&nuxt3/vue3.0 编程规范.md",
     "01 知识输入整理/01 开源项目/01 2024 开源项目参考.md",
+    "02 IETLS/03 雅思课/02 刘薇part1/13 Science.md",
+    "02 IETLS/03 雅思课/02 刘薇part1/09 Daily Routine.md",
     "01 知识输入整理/02 阅读",
     "01 知识输入整理/01 开源项目",
     "01 知识输入整理",
-    "02 IETLS/03 雅思课/02 刘薇/07 Taking photos.md",
-    "02 IETLS/03 雅思课/02 刘薇/08 Street Market.md",
-    "02 IETLS/03 雅思课/02 刘薇/05 Lost and Found.md",
-    "02 IETLS/03 雅思课/02 刘薇/06 Cinema.md",
-    "04 projects/01 vue exmaples/01 【nuxt】portfolio.md",
+    "02 IETLS/03 雅思课/02 刘薇part1/07 Taking photos.md",
+    "02 IETLS/03 雅思课/02 刘薇part1/08 Street Market.md",
     "04 projects/03 langchain examples",
     "00 ongoing/02 归档/2024.5.md",
     "00 ongoing/01 计划",
     "00 ongoing/02 归档",
     "00 ongoing/02 归档/2024.4.md",
     "00 ongoing/随笔/00 要学会区分缓急轻重，目前时间最多关注两个.md",
-    "02 IETLS/03 雅思课/02 刘薇/02 Art.md",
     "04 projects/04 binge一个爬虫",
-    "02 IETLS/03 雅思课/02 刘薇/01 Time management.md",
-    "02 IETLS/03 雅思课/02 刘薇/00 Dreams.md",
-    "02 IETLS/03 雅思课/02 刘薇/04 Mirros.md",
-    "2024-06-14.md",
-    "04 projects/05 英语学习平台/00 特性.md",
-    "30【理论学习】前端/03 vue&nuxtjs/vue3.0 编程规范.md",
     "04 projects/02 fastapi examples",
     "04 projects/01 vue exmaples",
     "03 源码阅读",
-    "00 ongoing/随笔/02 AI 话术.md",
-    "00 ongoing/随笔/01 使事情连续.md",
-    "40【理论学习】后端/01 Python/01 官方标准解读/PEP484 Type Hints 类型约束.md",
-    "01 projects/02 【VUE】开发Tips/00 开发记录.md",
-    "20【理论学习】AI/00 资料收集/最新大模型.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "00 边做边学/01【一】雅思7.0以上.canvas",
