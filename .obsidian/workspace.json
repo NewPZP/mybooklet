@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 ongoing/01 计划/2024.6.md",
+                "file": "02 IETLS/03 雅思课/02 刘薇part1/18 Headphones.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 ongoing/01 计划/2024.6.md",
+                "file": "02 IETLS/03 雅思课/02 刘薇part1/18 Headphones.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 ongoing/01 计划/2024.6.md",
+                "file": "02 IETLS/03 雅思课/02 刘薇part1/18 Headphones.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 ongoing/01 计划/2024.6.md"
+                "file": "02 IETLS/03 雅思课/02 刘薇part1/18 Headphones.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "a1e0703855cf37ba",
   "lastOpenFiles": [
-    "01 知识输入整理/03 网站收藏/UI.md",
+    "00 ongoing/01 计划/2024.6.md",
+    "02 IETLS/03 雅思课/02 刘薇part1/18 Headphones.md",
     "02 IETLS/03 雅思课/02 刘薇part1/17 Getting lost.md",
+    "01 知识输入整理/03 网站收藏/UI.md",
     "01 知识输入整理/03 网站收藏",
     "02 IETLS/03 雅思课/02 刘薇part1/05 Lost and Found.md",
     "02 IETLS/03 雅思课/02 刘薇part1/04 Mirros.md",
@@ -157,7 +159,6 @@
     "02 IETLS/03 雅思课/02 刘薇part1/00 Dreams.md",
     "02 IETLS/03 雅思课/02 刘薇part1/16 Apps.md",
     "02 IETLS/03 雅思课/02 刘薇part1/15 concentration.md",
-    "00 ongoing/01 计划/2024.6.md",
     "04 projects/01 vue exmaples/01 【nuxt】portfolio.md",
     "02 IETLS/99 素材/书 收集.md",
     "02 IETLS/03 雅思课/02 刘薇part1/12 websites.md",
@@ -180,7 +181,6 @@
     "00 ongoing/02 归档/2024.5.md",
     "00 ongoing/01 计划",
     "00 ongoing/02 归档",
-    "00 ongoing/02 归档/2024.4.md",
     "04 projects/04 binge一个爬虫",
     "04 projects/02 fastapi examples",
     "04 projects/01 vue exmaples",

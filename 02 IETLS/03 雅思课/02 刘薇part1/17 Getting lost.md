@@ -1,7 +1,8 @@
 ## Have you ever got lost?
-
+- Yes, unfortunately I've been lost before. Once I was visiting my friends in another city. <b><u>Even though</u></b> they gave me really specific directions, I <b><u>ended up</u></b> going the wrong way. <b><u>Instead of just turning around,</u></b> I tried to find a different route and finally made it! <b><u>But I had to admit that for a moment</u></b> I completely lost myself.
 ## How can you find your way when you are lost?
-
+- I use the Internet whenever I feel like I'm lost.<b><u> I'm of the view that</u></b> many map apps on our smartphones <b><u>are the best things since sliced bread</u></b>. <b><u>Gone are the days </u></b>when asking people about directions was<b><u> our sole option</u></b>. With these map apps, one could get the exact locations of various spots and the shortest and the smartest route to get there. They are just amazing and helpful!
 ## Can you read a map when you get lost?
-
+- I feel a bit proud to say that map reading <b><u>can be my thing</u></b>. I can<b><u> easily interpret different geographical locations</u></b> portrayed on the map. So I can read and find my way in some unfamiliar places with the help of a map.
 ## Have you ever helped someone who got lost?
+- Yes, I've done that <b><u>a couple of times</u></b>. Since I live in <b><u>a renowned historical city</u></b><b><u>, it's common to meet with tourists asking for directions</u></b>. Just a few weeks ago, I helped a young woman with her little girl find the museum they were looking for. I could tell they were really nervous to approach me, but<b><u> I was happy for being helpful</u></b>.
