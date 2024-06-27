@@ -3,6 +3,6 @@
 ## What type of  headphones do you use?
 - I'm a big fan of wireless headphones. When I use ones with wires, they always <b><u>get tangled up and sometimes they fall out</u></b>. So I have earbuds that I can use Bluetooth. It's so convenient. I also find that<b><u> the sound quality is superb</u></b>. The sound is crisp, and the built-in microphone doesn't pick up my breathing when making phone calls.
 ## When would you use headphones?
-- 
-
+- I used headphones <b><u>whenever</u></b> I want to listen to music without bothering anyone. For example, I usually commute to school/office, so I use headphones so that I don't disturb the other passengers. I also like to use headphones for phone calls. I can walk around while talking on the phone, not to mention that I won't<b><u> suffer from a sore arm</u></b>.
 ## In what conditions you won't be using headphones?
+- I don't use headphones if I really need to focus. Sometimes, listening to music can be more distracting than helpful. <b><u>In this case</u></b> I would take out my headphones and just work in silence. <b><u>Other times</u></b>, I don't use headphones if I'm in public because I want <b><u>to be aware of my surrounding for safety concerns</u></b>.

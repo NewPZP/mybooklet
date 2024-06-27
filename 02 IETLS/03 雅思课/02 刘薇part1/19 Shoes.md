@@ -1,0 +1,9 @@
+## Do you like buying shoes?
+- Honestly,<b><u> I don't really like</u></b> buying shoes<b><u> that much</u></b>. Finding the right style and size can take a long time. I always feel tired after I've been browsing for an hour. So<b><u> I don't buy them that often,</u></b> <b><u>maybe a couple of times per year</u></b>. I get a few pairs <b><u>and then I'm good for l long time.</u></b>
+## Have you ever bought shoes online?
+- Yes, I've bought shoes online. <b><u>I wouldn't  recommend it</u></b>, since you can't try on the shoes and every website's sizing chart can be different. I can be hard to find which shoes will actually suit you and to make a refund or exchange can also be troublesome. <b><u>But a nice thing about online shoe-shopping is that</u></b> you have more choices with affordable prices.
+
+## How much money do you usually spend on shoes?
+- I usually spend about 500 Yuan on a pair of shoes<b><u> since I consider the quality of shoes as the most important factor when buying them</u></b>. It's worth it  for they will last a long time. Cheaper shoes <b><u>are more budget-friendly</u></b>, but they <b><u>wear out</u></b> much quicker. When you have to replace them pretty often, it actually costs you more<b><u> in the long run</u></b>.
+## Which do you prefer, fashionable shoes or comfortable shoes?
+- <b><u>For me</u></b>, comfort <b><u>is always a priority</u></b>. Fashionable shoes undoubtedly look eye-catching even from a distance but<b><u> as it's said the devil is in the details</u></b>, they <b><u>mostly lack cushioning</u></b> and<b><u> may rub one's heels</u></b>. So even though it might be cool to have a pair of high heels, I would much rather have shoes that are comfy to walk in. <b><u>In the long run</u></b>, comfortable shoes are better for your feet anyways.

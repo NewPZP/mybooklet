@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 IETLS/03 雅思课/02 刘薇part1/18 Headphones.md",
+                "file": "02 IETLS/03 雅思课/02 刘薇part1/20 Colors.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 IETLS/03 雅思课/02 刘薇part1/18 Headphones.md",
+                "file": "02 IETLS/03 雅思课/02 刘薇part1/20 Colors.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 IETLS/03 雅思课/02 刘薇part1/18 Headphones.md",
+                "file": "02 IETLS/03 雅思课/02 刘薇part1/20 Colors.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 IETLS/03 雅思课/02 刘薇part1/18 Headphones.md"
+                "file": "02 IETLS/03 雅思课/02 刘薇part1/20 Colors.md"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "a1e0703855cf37ba",
   "lastOpenFiles": [
-    "00 ongoing/01 计划/2024.6.md",
+    "02 IETLS/03 雅思课/02 刘薇part1/19 Shoes.md",
+    "02 IETLS/03 雅思课/02 刘薇part1/20 Colors.md",
     "02 IETLS/03 雅思课/02 刘薇part1/18 Headphones.md",
+    "00 ongoing/01 计划/2024.6.md",
     "02 IETLS/03 雅思课/02 刘薇part1/17 Getting lost.md",
     "01 知识输入整理/03 网站收藏/UI.md",
     "01 知识输入整理/03 网站收藏",
@@ -176,9 +178,7 @@
     "01 知识输入整理/01 开源项目",
     "01 知识输入整理",
     "02 IETLS/03 雅思课/02 刘薇part1/07 Taking photos.md",
-    "02 IETLS/03 雅思课/02 刘薇part1/08 Street Market.md",
     "04 projects/03 langchain examples",
-    "00 ongoing/02 归档/2024.5.md",
     "00 ongoing/01 计划",
     "00 ongoing/02 归档",
     "04 projects/04 binge一个爬虫",
