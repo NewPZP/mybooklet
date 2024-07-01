@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 IETLS/03 雅思课/02 刘薇part1/28 Mobile Phone.md",
+                "file": "02 IETLS/00 话题练习/02 Work.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 IETLS/03 雅思课/02 刘薇part1/28 Mobile Phone.md",
+                "file": "02 IETLS/00 话题练习/02 Work.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 IETLS/03 雅思课/02 刘薇part1/28 Mobile Phone.md",
+                "file": "02 IETLS/00 话题练习/02 Work.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 IETLS/03 雅思课/02 刘薇part1/28 Mobile Phone.md"
+                "file": "02 IETLS/00 话题练习/02 Work.md"
               }
             }
           }
@@ -146,15 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1e0703855cf37ba",
+  "active": "736fbb1523bec196",
   "lastOpenFiles": [
-    "02 IETLS/03 雅思课/02 刘薇part1/27 Collecting things.md",
+    "02 IETLS/03 雅思课/02 刘薇part1/00 Dreams.md",
+    "02 IETLS/00 话题练习/02 Work.md",
+    "02 IETLS/00 话题练习/01 Time management.md",
+    "02 IETLS/00 话题练习/00【爱好】jump rope.md",
+    "00 ongoing/01 计划/2024.7.md",
     "02 IETLS/03 雅思课/02 刘薇part1/28 Mobile Phone.md",
+    "02 IETLS/03 雅思课/02 刘薇part1/27 Collecting things.md",
     "02 IETLS/03 雅思课/02 刘薇part1/26 TV programs.md",
     "02 IETLS/03 雅思课/02 刘薇part1/25 Public gardens and parks.md",
     "02 IETLS/03 雅思课/02 刘薇part1/24 City or country.md",
     "02 IETLS/03 雅思课/02 刘薇part1/23 Spending time with others.md",
-    "00 ongoing/01 计划/2024.7.md",
     "00 ongoing/02 归档/2024.5.md",
     "00 ongoing/02 归档/2024.6.md",
     "04 projects/06 任务系统从0开始",
@@ -172,10 +176,6 @@
     "01 知识输入整理/03 网站收藏/UI.md",
     "01 知识输入整理/03 网站收藏",
     "02 IETLS/03 雅思课/02 刘薇part1/04 Mirros.md",
-    "02 IETLS/03 雅思课/02 刘薇part1/01 Time management.md",
-    "02 IETLS/03 雅思课/02 刘薇part1/00 Dreams.md",
-    "02 IETLS/03 雅思课/02 刘薇part1/16 Apps.md",
-    "04 projects/01 vue exmaples/01 【nuxt】portfolio.md",
     "01 知识输入整理/02 阅读",
     "01 知识输入整理/01 开源项目",
     "01 知识输入整理",
