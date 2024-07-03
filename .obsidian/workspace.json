@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 IETLS/00 话题练习/02 Work.md",
+                "file": "02 IETLS/00 话题练习/03 Accommodation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 IETLS/00 话题练习/02 Work.md",
+                "file": "02 IETLS/00 话题练习/03 Accommodation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 IETLS/00 话题练习/02 Work.md",
+                "file": "02 IETLS/00 话题练习/03 Accommodation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 IETLS/00 话题练习/02 Work.md"
+                "file": "02 IETLS/00 话题练习/03 Accommodation.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "736fbb1523bec196",
+  "active": "a1e0703855cf37ba",
   "lastOpenFiles": [
-    "02 IETLS/03 雅思课/02 刘薇part1/00 Dreams.md",
     "02 IETLS/00 话题练习/02 Work.md",
+    "02 IETLS/00 话题练习/03 Accommodation.md",
+    "02 IETLS/03 雅思课/02 刘薇part1/00 Dreams.md",
     "02 IETLS/00 话题练习/01 Time management.md",
     "02 IETLS/00 话题练习/00【爱好】jump rope.md",
     "00 ongoing/01 计划/2024.7.md",
@@ -175,7 +176,6 @@
     "02 IETLS/03 雅思课/02 刘薇part1/10 Handwriting.md",
     "01 知识输入整理/03 网站收藏/UI.md",
     "01 知识输入整理/03 网站收藏",
-    "02 IETLS/03 雅思课/02 刘薇part1/04 Mirros.md",
     "01 知识输入整理/02 阅读",
     "01 知识输入整理/01 开源项目",
     "01 知识输入整理",
