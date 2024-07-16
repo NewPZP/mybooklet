@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 IETLS/00 雅思真题/03 Accommodation.md",
+                "file": "02 IETLS/00 雅思真题/02 Accommodation.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 IETLS/00 雅思真题/03 Accommodation.md",
+                "file": "02 IETLS/00 雅思真题/02 Accommodation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 IETLS/00 雅思真题/03 Accommodation.md",
+                "file": "02 IETLS/00 雅思真题/02 Accommodation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 IETLS/00 雅思真题/03 Accommodation.md"
+                "file": "02 IETLS/00 雅思真题/02 Accommodation.md"
               }
             }
           }
@@ -146,13 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1e0703855cf37ba",
+  "active": "736fbb1523bec196",
   "lastOpenFiles": [
-    "02 IETLS/00 雅思真题/02 Work.md",
-    "02 IETLS/00 雅思真题/01 Time management.md",
-    "02 IETLS/00 雅思真题/03 Accommodation.md",
-    "02 IETLS/00 雅思真题/99【爱好】jump rope.md",
+    "02 IETLS/00 雅思真题/00 AI Prompt.md",
+    "02 IETLS/00 雅思真题/04 Exciting activities.md",
+    "02 IETLS/00 雅思真题/03 Staying at home.md",
+    "02 IETLS/00 雅思真题/02 Accommodation.md",
+    "02 IETLS/00 雅思真题/01 Work.md",
     "00 ongoing/01 计划/2024.7.md",
+    "30【理论学习】前端/03 vue&nuxt3/【Nuxt3】 入门.md",
+    "02 IETLS/00 雅思真题/98 Time management.md",
+    "02 IETLS/00 雅思真题/04Exciting activities",
+    "02 IETLS/05 单词短语/01 7 月份新学.md",
+    "02 IETLS/04 2024.1题库/12【口语part2】place， buildings， site.md",
+    "02 IETLS/05 单词短语",
+    "02 IETLS/04 2024.1题库/11【口语part2】friends，relationship， help.md",
+    "02 IETLS/04 2024.1题库/06 【口语part1】感受.md",
+    "02 IETLS/04 2024.1题库/04【口语part1】日常.md",
+    "02 IETLS/00 雅思真题/99【爱好】jump rope.md",
     "02 IETLS/03 雅思课/02 刘薇part1/00 Dreams.md",
     "02 IETLS/03 雅思课/02 刘薇part1/28 Mobile Phone.md",
     "02 IETLS/03 雅思课/02 刘薇part1/27 Collecting things.md",
@@ -166,15 +177,6 @@
     "02 IETLS/03 雅思课/02 刘薇part1/22 Sports.md",
     "02 IETLS/03 雅思课/02 刘薇part1/21 weekends.md",
     "02 IETLS/03 雅思课/02 刘薇part1/20 Colors.md",
-    "02 IETLS/03 雅思课/02 刘薇part1/05 Lost and Found.md",
-    "02 IETLS/03 雅思课/02 刘薇part1/19 Shoes.md",
-    "02 IETLS/03 雅思课/02 刘薇part1/18 Headphones.md",
-    "02 IETLS/03 雅思课/02 刘薇part1/17 Getting lost.md",
-    "02 IETLS/03 雅思课/02 刘薇part1/15 concentration.md",
-    "02 IETLS/03 雅思课/02 刘薇part1/14 weather.md",
-    "02 IETLS/03 雅思课/02 刘薇part1/13 Science.md",
-    "02 IETLS/03 雅思课/02 刘薇part1/10 Handwriting.md",
-    "01 知识输入整理/03 网站收藏/UI.md",
     "01 知识输入整理/03 网站收藏",
     "01 知识输入整理/02 阅读",
     "01 知识输入整理/01 开源项目",
@@ -182,8 +184,6 @@
     "04 projects/03 langchain examples",
     "00 ongoing/01 计划",
     "00 ongoing/02 归档",
-    "04 projects/04 binge一个爬虫",
-    "04 projects/02 fastapi examples",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "00 边做边学/01【一】雅思7.0以上.canvas",
