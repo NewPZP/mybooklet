@@ -22,7 +22,7 @@ The kitchen is the heart of our home, where my family spends the most time. We l
 ---
 
 **Answer 3:**
-For us, the dining room <b><u>is where we spend the majority of our time</u></b>. We believe in the importance of family meals, so we make it a point to have dinner together every night. The dining room is elegantly furnished with a large table that can seat all of us comfortably. We <b><u>often end up lingering there</u></b>, talking about our day and <b><u>sharing stories long after the meal is over</u></b>. <b><u>It's a special place for creating memories</u></b>.
+For us, the dining room <b><u>is where we spend the majority of our time</u></b>. We believe in the importance of family meals, so we <b><u>make it a point</u></b> to have dinner together every night. The dining room is elegantly furnished with a large table that can seat all of us comfortably. We <b><u>often end up lingering there</u></b>, talking about our day and <b><u>sharing stories long after the meal is over</u></b>. <b><u>It's a special place for creating memories</u></b>.
 
 ---
 

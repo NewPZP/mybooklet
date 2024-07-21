@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 IETLS/00 雅思真题/02 Accommodation.md",
+                "file": "02 IETLS/00 雅思真题/12 Classmate.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 IETLS/00 雅思真题/02 Accommodation.md",
+                "file": "02 IETLS/00 雅思真题/12 Classmate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 IETLS/00 雅思真题/02 Accommodation.md",
+                "file": "02 IETLS/00 雅思真题/12 Classmate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 IETLS/00 雅思真题/02 Accommodation.md"
+                "file": "02 IETLS/00 雅思真题/12 Classmate.md"
               }
             }
           }
@@ -146,12 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "736fbb1523bec196",
+  "active": "a1e0703855cf37ba",
   "lastOpenFiles": [
+    "02 IETLS/00 雅思真题/11 Childhood memory.md",
+    "02 IETLS/00 雅思真题/10 Internet.md",
+    "02 IETLS/00 雅思真题/09 E-book.md",
+    "02 IETLS/00 雅思真题/08 The area you live in.md",
+    "02 IETLS/00 雅思真题/07 Home Town.md",
+    "02 IETLS/00 雅思真题/06 Sharing.md",
+    "02 IETLS/00 雅思真题/05 Ask for help.md",
+    "02 IETLS/00 雅思真题/12 Classmate.md",
     "02 IETLS/00 雅思真题/00 AI Prompt.md",
     "02 IETLS/00 雅思真题/04 Exciting activities.md",
-    "02 IETLS/00 雅思真题/03 Staying at home.md",
+    "02 IETLS/04 2024.1题库/02【口语part1】概览.md",
     "02 IETLS/00 雅思真题/02 Accommodation.md",
+    "02 IETLS/00 雅思真题/03 Staying at home.md",
     "02 IETLS/00 雅思真题/01 Work.md",
     "00 ongoing/01 计划/2024.7.md",
     "30【理论学习】前端/03 vue&nuxt3/【Nuxt3】 入门.md",
@@ -167,16 +176,7 @@
     "02 IETLS/03 雅思课/02 刘薇part1/00 Dreams.md",
     "02 IETLS/03 雅思课/02 刘薇part1/28 Mobile Phone.md",
     "02 IETLS/03 雅思课/02 刘薇part1/27 Collecting things.md",
-    "02 IETLS/03 雅思课/02 刘薇part1/26 TV programs.md",
-    "02 IETLS/03 雅思课/02 刘薇part1/25 Public gardens and parks.md",
-    "02 IETLS/03 雅思课/02 刘薇part1/24 City or country.md",
-    "02 IETLS/03 雅思课/02 刘薇part1/23 Spending time with others.md",
-    "00 ongoing/02 归档/2024.5.md",
-    "00 ongoing/02 归档/2024.6.md",
     "04 projects/06 任务系统从0开始",
-    "02 IETLS/03 雅思课/02 刘薇part1/22 Sports.md",
-    "02 IETLS/03 雅思课/02 刘薇part1/21 weekends.md",
-    "02 IETLS/03 雅思课/02 刘薇part1/20 Colors.md",
     "01 知识输入整理/03 网站收藏",
     "01 知识输入整理/02 阅读",
     "01 知识输入整理/01 开源项目",
