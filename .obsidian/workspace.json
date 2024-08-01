@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 IETLS/00 雅思真题/37 school and workplace.md",
+                "file": "04 出海/01 项目/01 【nuxt】portfolio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 IETLS/00 雅思真题/37 school and workplace.md",
+                "file": "04 出海/01 项目/01 【nuxt】portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 IETLS/00 雅思真题/37 school and workplace.md",
+                "file": "04 出海/01 项目/01 【nuxt】portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 IETLS/00 雅思真题/37 school and workplace.md"
+                "file": "04 出海/01 项目/01 【nuxt】portfolio.md"
               }
             }
           }
@@ -148,41 +148,41 @@
   },
   "active": "a1e0703855cf37ba",
   "lastOpenFiles": [
-    "02 IETLS/00 雅思真题/36 staying up late.md",
-    "02 IETLS/00 雅思真题/35 T-shirts.md",
-    "02 IETLS/00 雅思真题/34 outer space.md",
-    "02 IETLS/00 雅思真题/33 art.md",
-    "02 IETLS/00 雅思真题/32 weekends.md",
-    "02 IETLS/00 雅思真题/31 relax.md",
-    "02 IETLS/00 雅思真题/30 Life stages.md",
-    "02 IETLS/00 雅思真题/29 jewelry.md",
-    "02 IETLS/00 雅思真题/28 keys.md",
-    "02 IETLS/00 雅思真题/27 library.md",
-    "02 IETLS/00 雅思真题/26 News.md",
-    "02 IETLS/00 雅思真题/25 Science.md",
-    "02 IETLS/00 雅思真题/24 daily routine.md",
-    "02 IETLS/00 雅思真题/23 sports.md",
-    "02 IETLS/00 雅思真题/22 holidays.md",
-    "02 IETLS/00 雅思真题/37 school and workplace.md",
-    "02 IETLS/00 雅思真题/00 AI Prompt.md",
-    "02 IETLS/00 雅思真题/21 mobile phone.md",
-    "20【理论学习】AI/02 大模型训练基础/00 概要.md",
-    "04 projects/00 出海/01 个站搭建.md",
-    "04 projects/00 出海/00 参考资料.md",
-    "02 IETLS/00 雅思真题/02 Accommodation.md",
-    "02 IETLS/00 雅思真题/01 Work.md",
-    "04 projects/00 出海",
-    "02 IETLS/00 雅思真题/20 morning routines.md",
-    "02 IETLS/00 雅思真题/19 shopping.md",
-    "02 IETLS/00 雅思真题/18 weather.md",
+    "04 出海/00 资料/00 参考资料.md",
+    "04 出海/00 资料/01 个站搭建.md",
+    "00 ongoing/01 计划/2024.8.md",
+    "04 出海/01 项目/01 【nuxt】portfolio.md",
+    "02 英语学习/00 雅思真题/38 happiness.md",
+    "02 英语学习/00 雅思真题/00 AI Prompt.md",
+    "00 ongoing/02 归档/2024.7.md",
+    "04 出海/05 英语学习平台/00 特性.md",
+    "02 英语学习/99 素材/Wenzhou.md",
+    "02 英语学习/99 素材/Hangzhou.md",
+    "02 英语学习/99 素材/书 收集.md",
+    "02 英语学习/04 2024.1题库/07 【口语part1】地点.md",
+    "02 英语学习/05 单词短语/01 7 月份新学.md",
+    "02 英语学习/04 2024.1题库/05【口语part1】喜好.md",
+    "02 英语学习/04 2024.1题库/03【口语part1】物品类.md",
+    "02 英语学习/04 2024.1题库/02【口语part1】概览.md",
+    "02 英语学习/03 雅思课/02 刘薇part1/15 concentration.md",
+    "02 英语学习/03 雅思课/02 刘薇part1/14 weather.md",
+    "02 英语学习/03 雅思课/02 刘薇part1/13 Science.md",
+    "02 英语学习/03 雅思课/02 刘薇part1/12 websites.md",
+    "02 英语学习/03 雅思课/02 刘薇part1/11 Car.md",
+    "02 英语学习/03 雅思课/02 刘薇part1/10 Handwriting.md",
+    "02 英语学习/03 雅思课/02 刘薇part1/09 Daily Routine.md",
+    "02 英语学习/03 雅思课/02 刘薇part1/08 Street Market.md",
+    "02 英语学习/03 雅思课/02 刘薇part1/07 Taking photos.md",
+    "02 英语学习/03 雅思课/02 刘薇part1/04 Mirros.md",
+    "04 出海/00 资料",
     "02 IETLS/00 雅思真题/04Exciting activities",
-    "02 IETLS/05 单词短语",
-    "04 projects/06 任务系统从0开始",
+    "02 英语学习/05 单词短语",
+    "04 出海/06 任务系统从0开始",
     "01 知识输入整理/03 网站收藏",
     "01 知识输入整理/02 阅读",
     "01 知识输入整理/01 开源项目",
     "01 知识输入整理",
-    "04 projects/03 langchain examples",
+    "04 出海/03 langchain examples",
     "00 ongoing/01 计划",
     "Untitled.canvas",
     "Untitled 1.canvas",
