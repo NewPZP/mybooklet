@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00 ongoing/01 计划/2024.8.md",
+                "file": "02 英语学习/00 雅思真题/04 Exciting activities.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00 ongoing/01 计划/2024.8.md",
+                "file": "02 英语学习/00 雅思真题/04 Exciting activities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00 ongoing/01 计划/2024.8.md",
+                "file": "02 英语学习/00 雅思真题/04 Exciting activities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00 ongoing/01 计划/2024.8.md"
+                "file": "02 英语学习/00 雅思真题/04 Exciting activities.md"
               }
             }
           }
@@ -148,8 +148,13 @@
   },
   "active": "a1e0703855cf37ba",
   "lastOpenFiles": [
-    "02 英语学习/00 雅思真题/00 AI Prompt.md",
+    "02 英语学习/00 雅思真题/03 Staying at home.md",
+    "02 英语学习/00 雅思真题/02 Accommodation.md",
+    "02 英语学习/00 雅思真题/01 Work.md",
+    "02 英语学习/00 雅思真题/04 Exciting activities.md",
     "02 英语学习/00 雅思真题/56 money.md",
+    "02 英语学习/00 雅思真题/00 AI Prompt.md",
+    "00 ongoing/01 计划/2024.8.md",
     "02 英语学习/00 雅思真题/55 crowed place.md",
     "02 英语学习/00 雅思真题/54 feel bored.md",
     "02 英语学习/00 雅思真题/53 advertising.md",
@@ -169,11 +174,6 @@
     "02 英语学习/00 雅思真题/39 chocolate.md",
     "02 英语学习/00 雅思真题/38 happiness.md",
     "02 英语学习/00 雅思真题/98 Time management.md",
-    "03 出海/01 项目/01 【nuxt】portfolio.md",
-    "03 出海/00 资料/00 参考资料.md",
-    "00 ongoing/01 计划/2024.8.md",
-    "00 ongoing/02 归档/2024.4.md",
-    "04 出海/00 资料/01 个站搭建.md",
     "03 出海/00 资料",
     "02 IETLS/00 雅思真题/04Exciting activities",
     "02 英语学习/05 单词短语",

@@ -1,6 +1,6 @@
 ### 1. Are you a person who likes to stay at home?
 
-1. Yes, I am definitely a person who loves to stay at home. I find it to be a sanctuary where I can relax and recharge. The peace and quiet of my home environment are ideal for unwinding after a hectic day at work. It’s a place where I can indulge in my hobbies without any distractions. Being at home allows me to focus on self-care and personal growth.
+1. Yes, I am definitely a person who loves to stay at home. <b><u>I find it to be a sanctuary where I can relax and recharge</u></b>. The peace and quiet of my home environment <b><u>are ideal for unwinding after a hectic day at work</u></b>. It’s a place where<b><u> I can indulge in my hobbies</u></b> without any distractions. Being at home allows me to focus on self-care and personal growth.
 
 2. While I enjoy socializing, I do prefer spending a lot of my time at home. I appreciate the comfort and familiarity it offers. My home is a space that I’ve tailored to my tastes and needs, which makes it a perfect retreat. The ability to control my surroundings, from lighting to ambiance, is a big plus. Home is where I can truly be myself.
 
@@ -18,7 +18,7 @@
 
 3. At home, I dedicate a lot of time to my hobby of gardening. I find it therapeutic to take care of my plants and watch them grow. It’s a peaceful activity that allows me to connect with nature. I also enjoy listening to music and playing the guitar. Music is a big part of my life, and playing the guitar helps me relax and express myself.
 
-4. When I stay at home, I usually spend time on my computer, either working or gaming. I have a passion for technology and enjoy learning new things online. Additionally, I like to exercise and do yoga to stay fit and healthy. Home workouts have become a regular part of my routine. It’s convenient and helps me stay in shape.
+4. When I stay at home, I usually spend time on my computer,<b><u> either working or gaming</u></b>. I <b><u>have a passion for technology</u></b> and enjoy learning new things online. Additionally, I like to exercise and do yoga to stay fit and healthy.<b><u> Home workouts</u></b> have become a regular part of my routine. It’s convenient and helps me stay in shape.
 
 5. I enjoy spending quality time with my family when I’m at home. We often play board games, watch movies, or cook together. These moments are precious and help strengthen our bond. Apart from family time, I like to read and write. Writing is a way for me to express my thoughts and creativity. It’s a fulfilling activity that I cherish.
 
@@ -44,7 +44,7 @@
 
 4. I enjoyed drawing and painting. Art was a big part of my childhood, and I loved expressing myself through colors and shapes. I had a dedicated space for my art projects at home. Besides drawing, I also enjoyed making crafts and DIY projects. These activities allowed me to be creative and have fun.
 
-5. I frequently played outside in the backyard. Whether it was climbing trees, playing catch, or riding my bike, I loved being active and exploring the outdoors. It was a carefree and adventurous time. I also enjoyed playing with my pets. Spending time with them was always a highlight of my day.
+5. I frequently played outside in the backyard. Whether it was climbing trees, playing catch, or riding my bike, <b><u>I loved being active and exploring the outdoors</u></b>.<b><u> It was a carefree and adventurous time.</u></b> I also enjoyed playing with my pets. Spending time with them was always a highlight of my day.
 
 ### 5. Would you like to stay at home a lot in the future?
 
@@ -52,7 +52,7 @@
 
 2. Not really, I prefer a mix of home and outdoor activities. While I enjoy the comfort of home, I also value social interactions and exploring new places. Too much time at home can make me feel isolated. Therefore, I try to maintain a healthy balance that keeps me both relaxed and engaged with the world. It’s all about finding the right mix.
 
-3. I think I would, especially if I achieve my goal of becoming a freelancer. Working from home would give me the flexibility to set my own schedule and create a comfortable work environment. It’s a lifestyle that appeals to me, allowing for more personal freedom and creativity. The ability to work from anywhere is also a huge plus.
+3. I think I would, especially if I achieve my goal of becoming a freelancer. Working from home would<b><u> give me the flexibility to set my own schedule</u></b> and create a comfortable work environment.<b><u> It’s a lifestyle that appeals to me, allowing for more personal freedom and creativity</u></b>. The ability to work from anywhere <b><u>is also a huge plus</u></b>.
 
 4. I would like to stay at home a lot, as I enjoy home improvement projects and gardening. These activities bring me joy and satisfaction. Plus, being at home allows me to create a space that truly reflects my personality and interests. It’s a fulfilling way to spend my time and make my living environment more enjoyable.
 
