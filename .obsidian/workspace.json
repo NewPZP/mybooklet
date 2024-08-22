@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 英语学习/00 雅思真题/04 Exciting activities.md",
+                "file": "02 英语学习/00 雅思真题/55 crowed place.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 英语学习/00 雅思真题/04 Exciting activities.md",
+                "file": "02 英语学习/00 雅思真题/55 crowed place.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 英语学习/00 雅思真题/04 Exciting activities.md",
+                "file": "02 英语学习/00 雅思真题/55 crowed place.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 英语学习/00 雅思真题/04 Exciting activities.md"
+                "file": "02 英语学习/00 雅思真题/55 crowed place.md"
               }
             }
           }
@@ -148,15 +148,20 @@
   },
   "active": "a1e0703855cf37ba",
   "lastOpenFiles": [
+    "02 英语学习/00 雅思真题/00 AI Prompt.md",
+    "02 英语学习/00 雅思真题/55 crowed place.md",
+    "02 英语学习/00 雅思真题/54 feel bored.md",
+    "02 英语学习/00 雅思真题/56 money.md",
+    "04 学习记录/00 nuxt3 tutorial/01.md",
+    "04 学习记录/00 nuxt3 tutorial",
+    "03 出海/01 项目/01 【nuxt】portfolio.md",
+    "04 学习记录",
+    "03 出海/00 资料/00 参考资料.md",
+    "02 英语学习/00 雅思真题/04 Exciting activities.md",
     "02 英语学习/00 雅思真题/03 Staying at home.md",
     "02 英语学习/00 雅思真题/02 Accommodation.md",
     "02 英语学习/00 雅思真题/01 Work.md",
-    "02 英语学习/00 雅思真题/04 Exciting activities.md",
-    "02 英语学习/00 雅思真题/56 money.md",
-    "02 英语学习/00 雅思真题/00 AI Prompt.md",
     "00 ongoing/01 计划/2024.8.md",
-    "02 英语学习/00 雅思真题/55 crowed place.md",
-    "02 英语学习/00 雅思真题/54 feel bored.md",
     "02 英语学习/00 雅思真题/53 advertising.md",
     "02 英语学习/00 雅思真题/52 singing.md",
     "02 英语学习/00 雅思真题/51 color.md",
@@ -170,10 +175,6 @@
     "02 英语学习/00 雅思真题/43 flowers.md",
     "02 英语学习/00 雅思真题/42 math.md",
     "02 英语学习/00 雅思真题/41 music.md",
-    "02 英语学习/00 雅思真题/40 challenges.md",
-    "02 英语学习/00 雅思真题/39 chocolate.md",
-    "02 英语学习/00 雅思真题/38 happiness.md",
-    "02 英语学习/00 雅思真题/98 Time management.md",
     "03 出海/00 资料",
     "02 IETLS/00 雅思真题/04Exciting activities",
     "02 英语学习/05 单词短语",
@@ -182,8 +183,6 @@
     "01 知识输入整理/02 阅读",
     "01 知识输入整理/01 开源项目",
     "01 知识输入整理",
-    "04 出海/03 langchain examples",
-    "00 ongoing/01 计划",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "00 边做边学/01【一】雅思7.0以上.canvas",
