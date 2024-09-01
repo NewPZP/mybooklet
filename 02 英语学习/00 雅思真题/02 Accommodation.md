@@ -1,11 +1,11 @@
-## Are the transport facilities in your city very good?
+## 1. Are the transport facilities in your city very good?
 - The transport facilities in my city <b><u>are quite good, though there is room for improvement</u></b>. The metro system is fast and reliable, but the buses can be crowded and occasionally run late. On the plus side, the city is well-connected with numerous bike lanes and pedestrian-friendly zones. Recently,<b><u> electric scooters</u></b> have also<b><u> become a popular and convenient option</u></b> for <b><u>short-distance travel</u></b>. Despite some issues, the overall system is functional and improving.
 
 - Transport facilities in my city are<b><u> fairly developed</u></b>. We have <b><u>a robust public transportation system</u></b>, including an efficient metro and an extensive bus network. <b><u>However, during peak hours</u></b>, the services can become overcrowded. The city is also <b><u>making strides towards sustainable transport</u></b> by introducing electric buses and expanding the bike-sharing program. These initiatives are <b><u>aimed at reducing the carbon footprint and promoting a greener city</u></b>.
 - I would say the transport facilities in my city <b><u>are adequate but not exceptional</u></b>. The metro and bus services are reliable, <b><u>yet they sometimes suffer from delays and overcrowding</u></b>. On the positive side, the city offers<b><u> a comprehensive network of carpooling options</u></b> and <b><u>dedicated lanes for buses</u></b>, which help in managing traffic better. Moreover, recent developments like smart traffic management systems are being implemented to improve efficiency. Despite the challenges, the city is<b><u> moving towards a smarter and more integrated transport system</u></b>
 - Transport facilities in my city h<b><u>ave their strengths and weaknesses</u></b>. The metro system is the backbone, providing quick and efficient travel across the city. However, the bus network is not as reliable, often leading to long waits. On the brighter side, the city is well-equipped with numerous bike paths and a growing number of electric vehicle charging stations. The government is also investing in smart city technologies to enhance traffic flow and reduce travel times.<b><u> Overall, while there are areas that need improvement, </u></b>the city is <b><u>progressively enhancing its transport infrastructure</u></b>.
 
-## Which room does your family spend most of the time in?
+## 2. Which room does your family spend most of the time in?
 
 - In our family, we spend most of our time in the living room. It's a spacious and cozy area where we gather to watch TV, play board games, or simply chat. The large windows<b><u> let in plenty of natural light</u></b>, making it a pleasant place to relax. We've also decorated it with comfortable sofas and a coffee table, which makes it perfect for family bonding and entertaining guests.
 
@@ -21,7 +21,7 @@
 
 - In our household, the family room is the most frequented space. It’s a versatile area designed for relaxation and entertainment, with a big-screen TV, gaming consoles, and comfortable seating. We often watch movies, play video games, or have family discussions there. The room also has a fireplace, which makes it a cosy spot during the winter months. It's a perfect blend of comfort and fun, making it<b><u> our favorite place to unwind</u></b>.
 
-## Do you live in a house or a flat?
+## 3. Do you live in a house or a flat?
 
 
 - I live in a flat in the city center. It’s a modern, high-rise building with excellent amenities like a gym, swimming pool, and 24-hour security. Living in a flat <b><u>is very convenient because everything I need is within walking distance, including shops, restaurants, and public transport</u></b>. The view from my balcony is spectacular, overlooking the city skyline. It’s the perfect place for someone who enjoys an urban lifestyle.
@@ -38,7 +38,7 @@
 
 - I live in a penthouse flat on the top floor of a downtown building. It’s a luxurious space with <b><u>floor-to-ceiling windows</u></b> and <b><u>a private terrace</u></b>. The flat is designed with modern, high-end finishes and <b><u>has stunning views of the city</u></b>. Living here provides a mix of comfort and prestige, with easy access to exclusive shops, fine dining, and cultural events. It’s ideal for someone who appreciates luxury and convenience.
 
-## Do you plan to live here for a long time?
+## 4. Do you plan to live here for a long time?
 
 - Yes, I plan to live here for a long time. My flat<b><u> is conveniently located near my workplace and has all the amenities I need</u></b>. Additionally, I’ve<b><u> built a strong network</u></b> of friends and community connections in this neighborhood. Moving would disrupt the comfortable and stable lifestyle I’ve established here. I see myself staying in this flat for the foreseeable future.
 
@@ -54,7 +54,7 @@
 
 - Yes, I intend to live here for a long time. My penthouse flat offers unparalleled luxury and convenience, making it an ideal home. I love the modern design, the stunning views, and the prime location. Unless there are significant changes in my life or career, I can’t imagine wanting to move anywhere else. This flat meets all my current and foreseeable future needs.
 
-## Do you live alone or with your family?
+## 5. Do you live alone or with your family?
 
 - I live alone in a small flat in the city center. This arrangement suits my independent lifestyle and busy work schedule. Living alone gives me the freedom to manage my space and time as I please, without any interruptions. It also allows me to focus on my career and personal projects without distractions. Although it can be lonely at times, I enjoy the peace and solitude.
 
@@ -69,7 +69,7 @@
 
 
 - I live with my<b><u> extended family</u></b> in <b><u>a large, multi-generational house</u></b>. This includes my parents, siblings, and grandparents. It’s a traditional arrangement that allows us to <b><u>maintain close family ties</u></b> and support each other. Living with multiple generations means we share household duties and learn from each other's experiences. It’s a vibrant and dynamic environment, full of love and care.
-## How long have you lived there?
+## 6. How long have you lived there?
 
 
 - I've lived in my current flat for about three years. I moved here shortly after starting my job in the city, as it’s conveniently located near my office. Over the years,<b><u> I've grown quite attached to the area and developed a routine that suits my lifestyle</u></b>. It’s been a comfortable and convenient place to live.
@@ -86,7 +86,7 @@
 
 - I have been living in this house for almost 20 years. My parents bought it when I was a child, and I’ve grown up here. The familiarity of the house and neighborhood brings a sense of comfort and nostalgia. It’s been a constant in my life, and I appreciate the sense of continuity it provides.
 
-## What do you usually do in your house/flat/room?
+## 7. What do you usually do in your house/flat/room?
 
 
 - In my flat, I spend a lot of time working from home. I have a dedicated home office where I complete my tasks and attend virtual meetings. Outside of work, I enjoy cooking in my kitchen, trying out new recipes, and experimenting with different cuisines. Additionally, I like to unwind by watching movies or reading books in the living room. It’s a comfortable and productive space for both work and leisure.
@@ -103,7 +103,7 @@
 
 - In my house, I enjoy spending time in the home gym. I’ve<b><u> set up a variety of exercise equipment</u></b>, and I work out regularly to stay fit. When I’m not exercising, I like to cook in the kitchen, experimenting with healthy recipes. Evenings are usually spent in the living room, where I watch TV series or read novels. My house provides a great environment for maintaining a healthy and balanced lifestyle.
 
-## Which is your favorite room in your home?
+## 8. Which is your favorite room in your home?
 
 
 - My favorite room in my home is the living room. It’s a spacious and inviting area where my family and I gather to relax and spend time together. I love the comfortable sofas and the large windows that let in plenty of natural light. <b><u>It’s the perfect place to unwind after a long day</u></b>, watch movies, or have meaningful conversations with my loved ones. The<b><u> cozy ambiance</u></b> makes it my favorite spot in the house.
@@ -120,7 +120,7 @@
 
 - My favorite room is the sunroom. It’s a bright and airy space with large windows that overlook the garden. I love spending my mornings there,<b><u> sipping coffee</u></b> and enjoying the view. The natural light<b><u> makes it a perfect spot for reading, writing, or simply relaxing</u></b>. The connection to nature and the serene environment make the sunroom my favorite place in the house.
 
-## What 's the difference between where you are living now and where you lived in the past? (If you want to say you have not lived elsewhere)
+## 9. What 's the difference between where you are living now and where you lived in the past? (If you want to say you have not lived elsewhere)
 
 
 - Currently, I live in a bustling city apartment, whereas I used to live in a quiet suburban house. The city apartment is much smaller, but it’s conveniently located near my workplace and various amenities. In contrast, my suburban house had more space, including a garden and a garage, which provided a peaceful environment<b><u> but required a long commute</u></b>. The shift to urban living has made my life more dynamic and accessible.
@@ -137,7 +137,7 @@
 
 - Currently, I live in a<b><u> modern duplex </u></b>with my partner, but I used to live with my parents in a traditional family home. The duplex is contemporary and<b><u> has an open-plan layout</u></b>, while the family home had a more traditional,<b><u> compartmentalized design</u></b>. The move has given me more independence and privacy, allowing me to decorate and organize the space according to my preferences. However, I sometimes miss the<b><u> warmth and familiarity of my childhood home</u></b>.
 
-## What can you see when you look out the window of your room?
+## 10. What can you see when you look out the window of your room?
 
 
 - When I look out the window of my room, I can see<b><u> a beautiful cityscape</u></b>. My apartment is on a high floor, so I have an <b><u>unobstructed view of the skyline</u></b>, including <b><u>towering skyscrapers </u></b>and<b><u> bustling streets</u></b> below. At night, the city lights create a <b><u>mesmerizing scene</u></b> that I never tire of. The view is especially stunning during sunsets when the sky is painted in vibrant colors.
@@ -154,7 +154,7 @@
 
 - When I look out my window, I see the mountains in the distance. Living in a rural area, the view <b><u>is dominated by rolling hills and dense forests</u></b>. The changing seasons bring different colors and moods to the landscape, from lush green in the summer to a blanket of snow in the winter. It’s a <b><u>breathtaking and ever-changing panorama</u></b> that I find incredibly inspiring and peaceful.
 
-## Would you be willing to live in the countryside in the future?
+## 11. Would you be willing to live in the countryside in the future?
 
 
 - Yes, I would be willing to live in the countryside in the future. I find the idea of a peaceful, natural environment very appealing. <b><u>The slower pace of life and the opportunity to be closer to nature are significant draws for me</u></b>. It would also be a great place to raise a family, offering a safe and healthy environment for children. While I enjoy the conveniences of city life, I believe the tranquility of the countryside would<b><u> provide a refreshing change</u></b>.
