@@ -3,7 +3,7 @@
 # 目标目录
 INPUT_DIR="./"
 # 输出文件名
-OUTPUT_FILE="output.pdf"
+OUTPUT_FILE="雅思part1合集_1.pdf"
 
 # 创建一个临时目录，保存带章节标题的临时文件
 TEMP_DIR=$(mktemp -d)
