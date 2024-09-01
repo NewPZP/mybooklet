@@ -1,7 +1,7 @@
 
 ## 1. Do you like cakes or desserts?
 
-1. As someone who grew up in a small village in Wenzhou, my taste buds have always leaned towards our local delicacies rather than Western-style cakes. However, the fast-paced life of a programmer in a big city has introduced me to a variety of desserts that I've come to appreciate. I particularly enjoy light, fruity desserts that offer a refreshing break from hours of staring at code. That being said, nothing beats the nostalgia of traditional Wenzhou sweet treats, especially when I'm feeling homesick after a long day at work.
+1. As someone who grew up in a small village in Wenzhou,<b><u> my taste buds have always leaned towards our local delicacies rather than Western-style cakes.</u></b> However, the fast-paced life of a programmer in a big city has introduced me to a variety of desserts that I've come to appreciate. I particularly enjoy light, fruity desserts that offer a refreshing break from hours of staring at code. <b><u>That being said, nothing beats the nostalgia of traditional Wenzhou sweet treats</u></b>, especially when I'm feeling homesick after a long day at work.
 
 2. To be honest, as a health-conscious individual with a regular skipping and jogging routine, I try to limit my intake of sugary foods. However, I do have a soft spot for certain desserts, particularly those that incorporate fresh, seasonal fruits. I find that these lighter options provide a nice energy boost during long coding sessions without the guilt associated with heavier, cream-based cakes. Interestingly, my preference for fruity desserts aligns well with my dream of becoming a freelancer, as they offer a quick, refreshing treat that doesn't induce a food coma and hinder productivity.
 
