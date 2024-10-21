@@ -1,0 +1,24 @@
+## 重点词句
+- to kick back and relax
+	- After a long, tiring day of work, Nicholas wanted to do nothing but kick back and relax for the rest of the evening.
+- to dread - to feel anxiety about something that will happen in the future
+	- The student did not do well on her test,  and she dreaded the day when she would find out the grade she got on it.
+- hectic
+- on the fritz - broken
+	- The television was on the fritz and would not show a clear picture.
+- go off - to ring ,buzz
+	-The cell phone ringer will go off whenever someone sends a new text message to your phone number.
+- make-up - cosmetics; powders and paints used on the face to improve appearance
+- one foot out the door - on one's way out
+- no luck
+- purse
+- to hunt around
+	- Roland did not know where his cell phone was, but he hunted around his room until he found it.
+- dump out
+	- The child dumped out the bag of candy onto the table and counted the number of pieces.
+- frantic - panicked; very worried
+	-  When she heard that her uncle had gotten into a car accident, Takako became frantic until she learned that he was not seriously hurt.
+- to serve (one) right
+	-  After all the teasing Dominic did, it served him right when his sister finally lost her temper and poured a glass of water over his head.
+- absent-minded
+	-  Melissa was absent-minded as she walked down the busy street, not seeing the people stopped in front her and running into them.

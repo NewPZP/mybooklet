@@ -13,10 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 英语学习/00 雅思真题/02 Accommodation.md",
+                "file": "02 英语学习/02 艾登英语的学习梳理/46 Getting ready to go.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "46 Getting ready to go"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "02 英语学习/00 雅思真题/02 Accommodation.md",
+                "file": "02 英语学习/02 艾登英语的学习梳理/45 A Camping Trip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 45 A Camping Trip"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "02 英语学习/00 雅思真题/02 Accommodation.md",
+                "file": "02 英语学习/02 艾登英语的学习梳理/45 A Camping Trip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 45 A Camping Trip"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 英语学习/00 雅思真题/02 Accommodation.md"
-              }
+                "file": "02 英语学习/02 艾登英语的学习梳理/46 Getting ready to go.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 46 Getting ready to go"
             }
           }
         ],
@@ -146,44 +162,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "508960a956c30c58",
+  "active": "a1e0703855cf37ba",
   "lastOpenFiles": [
-    "02 英语学习/00 雅思真题/雅思part1合集_1.pdf",
-    "02 英语学习/00 雅思真题/output.pdf",
-    "02 英语学习/00 雅思真题/雅思part1合集.pdf",
-    "02 英语学习/00 雅思真题/00 AI Prompt.markdown",
-    "02 英语学习/00 雅思真题/01 Work.md",
-    "02 英语学习/00 雅思真题/topdf.sh",
-    "02 英语学习/00 雅思真题/00 AI Prompt.md",
-    "04 学习记录/00 nuxt3 tutorial/01.md",
-    "03 出海/01 项目/01 【nuxt】portfolio.md",
-    "03 出海/00 资料/00 参考资料.md",
-    "02 英语学习/00 雅思真题/02 Accommodation.md",
-    "02 英语学习/00 雅思真题/03 Staying at home.md",
-    "02 英语学习/00 雅思真题/09 E-book.md",
-    "02 英语学习/00 雅思真题/to_pdf.py",
-    "02 英语学习/00 雅思真题/07 Home Town.md",
-    "02 英语学习/00 雅思真题/06 Sharing.md",
-    "02 英语学习/00 雅思真题/05 Ask for help.md",
-    "02 英语学习/00 雅思真题/04 Exciting activities.md",
-    "02 英语学习/00 雅思真题/49 cake or dessert.md",
-    "02 英语学习/00 雅思真题/48 Memory.md",
-    "02 英语学习/00 雅思真题/54 feel bored.md",
+    "02 英语学习/02 艾登英语的学习梳理/45 A Camping Trip.md",
+    "02 英语学习/02 艾登英语的学习梳理/13 Going to the Drugstore.md",
     "02 英语学习/00 雅思真题/98 Time management.md",
-    "02 英语学习/00 雅思真题/56 money.md",
-    "02 英语学习/00 雅思真题/99【爱好】jump rope.md",
-    "02 英语学习/00 雅思真题/27 library.md",
-    "02 英语学习/00 雅思真题/24 daily routine.md",
-    "02 英语学习/00 雅思真题/23 sports.md",
-    "02 英语学习/00 雅思真题/16 pen or pencil.md",
+    "00 ongoing/2024.10.md",
+    "01 赚钱项目/01 AI 视频/资料.md",
+    "02 英语学习/00 雅思真题/01 Work.md",
+    "02 英语学习/00 雅思真题/04 Exciting activities.md",
+    "02 英语学习/00 雅思真题/48 Memory.md",
+    "02 英语学习/00 雅思真题/雅思part1合集_1.pdf",
+    "02 英语学习/00 雅思真题/54 feel bored.md",
+    "02 英语学习/00 雅思真题/46 sunglasses.md",
+    "02 英语学习/00 雅思真题/34 outer space.md",
     "02 英语学习/00 雅思真题/15 numbers.md",
-    "02 英语学习/00 雅思真题/18 weather.md",
-    "02 英语学习/00 雅思真题/22 holidays.md",
-    "04 学习记录/00 nuxt3 tutorial",
-    "04 学习记录",
-    "03 出海/00 资料",
-    "02 IETLS/00 雅思真题/04Exciting activities",
-    "02 英语学习/05 单词短语",
+    "02 英语学习/00 雅思真题/05 Ask for help.md",
+    "02 英语学习/00 雅思真题/02 Accommodation.md",
+    "03 前端项目训练/04 html_css_projects/00 资料.md",
+    "03 前端项目训练/03 30jsprojects/00 资料.md",
+    "03 前端项目训练/04 html_css_projects",
+    "02 英语学习/03 雅思课/01 keith口语课/10-useful-phrasal-verbs.md",
+    "02 英语学习/99 素材/Hangzhou.md",
+    "02 英语学习/99 素材/书 收集.md",
+    "02 英语学习/04 2024.1题库/14【part2】clothing.md",
+    "02 英语学习/04 2024.1题库/13【口语part2】job，goal，study.md",
+    "02 英语学习/04 2024.1题库/17【part2】experience, with sb. or sth. ..md",
+    "02 英语学习/04 2024.1题库/16【part2】object，tools.md",
+    "02 英语学习/04 2024.1题库/15【part2】hobbies， skills   and  feelings.md",
+    "02 英语学习/04 2024.1题库/08【口语part1】名人，人物.md",
+    "02 英语学习/04 2024.1题库/07 【口语part1】地点.md",
+    "01 赚钱项目/01 AI 视频",
+    "04 出海/00 参考",
+    "01 赚钱项目",
+    "03 前端项目训练/03 30jsprojects",
+    "03 前端项目训练/02 布局",
+    "03 出海/01 awesome portfolios/03 3d portfolio",
+    "00 ongoing/00",
+    "02 英语学习/00 雅思真题/output.pdf",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "00 边做边学/01【一】雅思7.0以上.canvas",
