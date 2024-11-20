@@ -15,11 +15,11 @@
 - buzzer – an electronic device that makes a long, continuous buzzing sound, similar to that of a flying insect like a fly 
 	* Many TV game shows use a buzzer when participants answer a question incorrectly
 
-- to drive (someone) nuts – to make someone angry, irritated, or crazy 
+- <b><u>to drive (someone) nuts</u></b> – to make someone angry, irritated, or crazy 
 	* Please stop singing that song over and over again. You’re driving me nuts!
 
 - early riser – a person who enjoys waking up early in the morning 
 	* Because Samuel is an early riser, he usually makes breakfast for his wife so that she can sleep a little later.
 
 - to sleep in – to sleep later than usual 
-	* Teenagers love to sleep in on weekends. Sometimes they don’t wake up until noon!
+	* Teenagers <b><u>love to sleep in on weekends</u></b>. Sometimes they don’t wake up until noon!

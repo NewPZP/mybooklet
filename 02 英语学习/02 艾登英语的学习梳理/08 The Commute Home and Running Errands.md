@@ -4,18 +4,18 @@
 - merge
 	- Merging onto the freeway was one of the scariest parts of learning how to drive
 - stop-and-go
-	- Southern California is well known for its stop-and-go traffic in the morning hours.
+	- Southern California is well known for its <b><u>stop-and-go traffic in the morning hours</u></b>.
 - stall
 	- Her car stalled in the middle of the street so she had to ask other people to help her push it to the side of the road.
 - fast lane
 	- Grandpa always gets frustrated when he sees a slow-moving car in the fast lane.
 - back up
-	- The accident has backed up traffic for four miles. Hopefully the police will clear the accident soon so that cars can begin moving again.
+	- The accident has <b><u>backed up traffic for four miles</u></b>. Hopefully the police will clear the accident soon so that cars can begin moving again.
 - surface streets
 - fridge – short for refrigerator;
 - checkout stand  收银台
 - load up
-	- As soon as we load up the car with these suitcases, we’ll be ready to drive to the airport.
+	- As soon as we <b><u>load up the car with these suitcases</u></b>, we’ll be ready to drive to the airport.
 
 ## Culture -  lawyers
 - juris 法学博士
@@ -34,7 +34,7 @@
 - there’s a stalled car in the fast lane near La Brea
 - The shoulder is the part of the freeway where you can stop your car and not get in the way of anyone else.
 - the car is “backing up traffic all the way to Hoover.” 
-- get off the freeway and to take surface streets for the rest of the trip.
+- get off the freeway and to<b><u> take surface streets</u></b> for the rest of the trip.
 - intersection - at the corner of two streets.
 - “I get through the” checkout “line pretty quickly”
 - groceries

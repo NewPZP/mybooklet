@@ -1,0 +1,60 @@
+## 参考
+- https://www.fastersmarter.io/166-why-relying-on-talent-alone-will-fail-you/
+
+## 词句
+- with<b><u> clear intent</u></b>, strong relationships, and <b><u>a fair amount of practice</u></b>, we can be successful.
+-  Andrew is a former NFL quarterback<b><u> known for his exceptional leadership</u></b> and<b><u> strategic thinking</u></b> on the field
+-  As a quarterback, clear communication is crucial with your teammates, your coaches, the press, and your fans
+- Are there <b><u>specific strategies and tactics</u></b> you've found help you communicate more effectively with clarity and accuracy when you're <b><u>in those high stress situations</u></b>?
+- Walking in a <b><u>professional locker room</u></b> I had to earn <b><u>veterans</u></b> respect so they would listen to me.
+- I have to show guys I'm<b><u> holding up my end of the bargain</u></b> so that when I ask you to, that you feel like there's a respect there, so I very much believed in that with my teammates.
+- I mean, <b><u>pointing fingers</u></b> was not going to be a good thing, especially not towards teammates.
+- try to be as authentic as possible
+- But really, many of us go into these high stress situations thinking about what we want to say, not necessarily about the relationship we need to build in advance of it.
+- The relationship is<b><u> at the core of locker room culture</u></b>. 
+-  Of going out there together. You internalize that very early on when you play team sports. I can't succeed without you, you can't succeed without me. We've got to<b><u> put the work in</u></b>.
+- Many of us find ourselves in situations in our lives, our careers, where it's <b><u>really intense around us</u></b>. What do you do to stay calm? How do you<b><u> center yourself</u></b>? 
+-  I can certainly<b><u> look back</u></b> and <b><u>think of times</u></b> I did not feel very calm. 
+- And I think one, as a player, I learned that it was okay to play emotionally. I enjoyed, that's part of what made sports fun, <b><u>the highs and the lows</u></b>
+- Now, when you walk in the huddle and call a play, you've got to sort of become a clinician.
+-  I think there's a romantic notion I held growing up, you know, that <b><u>you rise to the occasion</u></b>,<b><u> you rise to these great moments</u></b>.
+- I really internalized that at Stanford with how we practiced. I mean, practice had a sense of urgency, had pressure. There were stakes at practice. I mean, there was competitive. We learned to compete against each other.
+-  Can I control my breathing to call a play clearly succinctly with some level of positive affect to my teammates, so we have a collective belief we can go and <b><u>get this fourth down</u></b> or <b><u>score a touchdown</u></b> here, right?
+-  I mean, if I've got a high stakes meeting where I'm trying to sell or present something, maybe it <b><u>makes sense to</u></b> practice with somebody and get some feedback.
+- My <b><u>hunch</u></b> is you've spent many, many more hours in practice than you have in the actual game. 
+- There's a <b><u>great line</u></b> from Marvin Harrison, a wide receiver, <b><u>Hall of Famer</u></b>, who I didn't play with. But he was on the Colts, you know, sort of my <b><u>fandom</u></b> of middle school, high school. And he said, I get paid to practice. I play a game for free, right? And I love that.
+-  you hear stories about their intensity of practice and I wanted to<b><u> embody that as well</u></b>. 
+- But it's really the pre work where we're earning our money and <b><u>earning our keep</u></b>.
+-  eyes are on you
+- You know, you have to earn it. I always thought I had to be the best teammate I could be before being a <b><u>decent leader</u></b>.
+- you can't avoid <b><u>certain levels of conflict</u></b>.
+- I felt like I could go play with my personality and it <b><u>didn't have to be a mirror image of what Jim Harbaugh was.</u></b> So that <b><u>had a profound impact on</u></b> me. 
+- I'm not <b><u>stamping my ego on</u></b> who I think they should be, but empowering them.
+- How did you learn to lean into that
+-  I like to joke that my class is like a high school chemistry class, where sometimes the experiments blow up and sometimes they don't, and you learn in either case, and you have to have that environment.
+-  I did not seal myself off in a vacuum
+-  it was an odd feeling
+-  So I wrote some stuff down, but word<b><u> leaked out</u></b> during the Saturday night preseason game, with about seven, eight minutes left to go.
+- But it sounds like you did some things that were very wise. One, you spent some time thinking about it in advance, uh, <b><u>in terms of what</u></b> you might communicate and you <b><u>reached out to others</u></b>.
+-  I'm hearing <b><u>a theme across all your answers that it's about</u></b> connection
+- And a lot of us can think about that when we<b><u> make career moves</u></b>. Connecting with others we know, thinking about<b><u> how we want to message it </u></b>is really important.
+- congratulations are in order
+- share a little bit about what you studied and what maybe one or two <b><u>takeaways</u></b> you had.
+- I did spend a lot of time thinking about the role sports plays and how kids grow up in this country and how sports and K<b><u> through 12 education intertwine</u></b>, which in this country<b><u> is a big deal</u></b>.
+-  get back into an academic setting with cool people
+- I needed my perspective to be challenged.
+-  I have learned <b><u>not to rush to judgment </u></b>unless I feel like I am the expert, expert, but it's probably worth asking someone to do some research about things.
+- <b><u>part of the reason I love my job </u></b>is just to be around really<b><u> smart people engaging in really interesting ideas</u></b>.
+- How do you approach that <b><u>dual task</u></b>?
+- And are there <b><u>specific life lessons</u></b> you try to<b><u> inculcate in </u></b>your students?
+- I think without being too explicit about the life lessons you learn, like<b><u> showing up on time</u></b>, <b><u>showing up ready for practice</u></b>, you need to do that to win the game, right?
+- You need to<b><u> practice with urgency</u></b>.
+- They're in<b><u> conflict with each other</u></b> and a minute later, they're<b><u> collaborating with each other</u></b>. Like it's a, you know, I think there are really<b><u> powerful lessons</u></b> that exist in there and <b><u>frankly</u></b> part of my at least my personal challenge is to start drawing those lessons out more.
+- You have always struck me as somebody who is very <b><u>articulate</u></b>
+- I grew up in an amazing <b><u>household</u></b> with a mom and dad that, you know, <b><u>imbued with</u></b> love and books, fun and sports.
+- And my mom is an incredibly empathic person, incredibly empathic woman. And there's a lot of care and <b><u>a lot of tenderness from he</u></b>r. And so<b><u> I learned a lot from both of them in separate ways.</u></b>
+- And direct and cut through the fluff.  直截了当，切中要害。
+- And<b><u> leave zero room for</u></b> ambiguity,
+- And it was okay if I didn't have the perfect answer. It was a safe place to have, a psychologically safe space, a direct communication, a listener. If he was wronged by me, he would share it. There was no<b><u> sugarcoating</u></b> it.
+-  What are the <b><u>first three ingredients</u></b> that <b><u>go into a successful communication recipe</u></b>?
+- Thank you for<b><u> sharing your insights that come from a very different domain</u></b>, but they directly apply to how we live our lives, how we manage our careers.

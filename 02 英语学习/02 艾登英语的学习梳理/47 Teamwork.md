@@ -1,0 +1,23 @@
+## 词句
+- sound okay
+- preoccupied
+	- Douglas was unable to focus on the teacher’s lesson because he was preoccupied with the argument he had with his friend earlier in the day
+	- You seem preoccupied today. What's up?
+- to put other people down
+	- Earl is very talented, but he often put other people down just to make himself look better.
+	-  Well, he doesn't know how to express his opinion without putting other people down.
+- immature
+	-  He sounds a little immature.
+- diplomatic - sensitive or polite; able to talk with people in a way that keeps everyone happy
+	-  Todd had a very diplomatic way of speaking and almost never got into any arguments
+	-  He doesn't know how to be diplomatic with people.
+- to get the better of -  to win against; to cause someone to behave in a way that he or she does not want to, but can’t help but behave
+	- Mrs. Lerch tried not to get angry, but her employees got the better of her and she yelled at them during a meeting.
+- fed up – tired of; feeling too annoyed or bothered to allow a situation to continue
+	- Leonel was fed up with his cousin’s bad attitude, so he stopped talking to her for a few days until he could calm down.
+- to run interference  – to calm down the people on both sides of an argument; to talk to a difficult person so that other people do not need to
+	-  Susie’s best friend and boyfriend do not like each other, so Susie has to run interference between them whenever they met at parties.
+	-  I keep having to run interference when our discussions get too heated.
+- to put up with – to tolerate; to accept someone or something without being happy about it
+	- Even though Florence thought her husband’s brother was annoying, she put up with him because they were now related through marriage.
+	- 

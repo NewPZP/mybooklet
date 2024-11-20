@@ -1,0 +1,26 @@
+## 词句
+- get-together – an informal social event where many people who know each other meet; an arranged meeting among a group of people
+	- Garth planned to have a get-together with some friends who used to go to the same school he attended.
+- There were many people at the Ellers <b><u>family reunion</u></b>, and many of the relatives there were meeting each other for the first time.
+- immediate family – the family members who one is most closely related to; one's spouse (husband or wife), children (sons and daughters), siblings (brothers and sisters), and parents (mother and father)
+	-  Yvonne had a small immediate family, which only consisted of her father and one brother.
+- Theo did not expect his girlfriend to <b><u>show up</u></b> at his baseball game, so he was surprised when he saw her there.
+- potluck – a meal for which each guest brings an item of food to share with the other guests
+	-  The church <b><u>held a potluck</u></b> after the service ended, and many of the church members brought their favorite foods to share with everyone else.
+- catering – food that is brought to an event by a restaurant, cook, or other professional supplier of food
+	- Since the company picnic included so many people, the company arranged for catering instead of asking the employees and their families to bring dishes to share.
+- casserole - a type of food in which different foods, including meat, rice, pasta, and/or vegetables, are combined and cooked together in one container
+	- The casserole was made with chicken, pasta, broccoli, and cheese, all combined into one baking dish.
+- chips and dip
+	-  Isabelle’s parties are always simple, with a few good friends and simple food, like chips and dip.
+-  Juliana was the <b><u>guest of honor</u></b> at the art gallery reception.
+-  Latrisha told her friends a funny <b><u>anecdote</u></b> about something that had happened to her last week.
+-  Someone always <b><u>brings up old childhood memories</u></b> or <b><u>a funny anecdote from the old days</u></b>.
+- overwhelming – difficult to accept because of the large size or demanding nature of something; causing a feeling of helplessness
+	-  The amount of work Don needed to complete was <b><u>overwhelming</u></b> and he did not know if he could finish all of it <b><u>by the deadline</u></b>.
+## Dog days of Summer
+- people “associated” (connected in their minds) hot summer weather with one of the brightest stars in the night sky, Sirius, which is also called the Dog Star.
+-  People believed that because Sirius was close to the sun during the summer months, that caused the “sweltering” (feeling uncomfortably hot) temp
+- <b><u>Not surprisingly</u></b>, “comedians” (people whose job is to make people laugh) like to <b><u>make jokes abou</u></b>t the hot weather.
+- Here are a few punchlines from popular comedians that may make you laugh or at least “chuckle”
+- with the entire audience shouting it at the comedian “in unison” (at the same time)

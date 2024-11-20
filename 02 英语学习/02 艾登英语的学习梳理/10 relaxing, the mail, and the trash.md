@@ -25,9 +25,8 @@
 ## 重点语句
 - with the dinner dishes done
 - My wife and I sit down on the couch to chill out
-- 'Hey, chill out' means relax, don't be so excited
 - I'm just chilling
 - At around 9
-- I turn the sound down when the commercials come on
-- I need to take the kitchen garbage out and dump the recycling bins as well
+- I turn the sound down <b><u>when the commercials come on</u></b>
+- I need to <b><u>take the kitchen garbage out</u></b> and <b><u>dump the recycling bins</u></b> as well
 - 
