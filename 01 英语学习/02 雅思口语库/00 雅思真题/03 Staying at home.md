@@ -1,6 +1,6 @@
 ### 1. Are you a person who likes to stay at home?
 
-1. Yes, I am definitely a person who loves to stay at home. <b><u>I find it to be a sanctuary where I can relax and recharge</u></b>. The peace and quiet of my home environment <b><u>are ideal for unwinding after a hectic day at work</u></b>. It’s a place where<b><u> I can indulge in my hobbies</u></b> without any distractions. Being at home allows me to focus on self-care and personal growth.
+1. Yes, I am definitely a person who loves to stay at home. <b><u>I find it to be a sanctuary where I can relax and recharge</u></b>. The peace and quiet of my home environment <b><u>are ideal for unwinding after a hectic day at work</u></b>. It’s a place where<b><u> I can indulge in my hobbies</u></b> without any distractions. Being at home allows me to focus on <b><u>self-care and personal growth</u></b>.
 
 2. While I enjoy socializing, I do prefer spending a lot of my time at home. I appreciate the comfort and familiarity it offers. My home is a space that I’ve tailored to my tastes and needs, which makes it a perfect retreat. The ability to control my surroundings, from lighting to ambiance, is a big plus. Home is where I can truly be myself.
 
@@ -8,7 +8,7 @@
 
 4. Yes, I enjoy staying at home, especially because it allows me to focus on my creative projects. I find that I am most productive in my own space. Whether it’s coding, writing, or painting, home provides the perfect backdrop for my creativity. It’s also a great place to spend quality time with family and close friends. The sense of privacy and control is unmatched.
 
-5. I like to balance my time between being at home and going out. While I enjoy the comfort of home, I also value social activities and outdoor adventures. Too much time at home can make me feel isolated. Therefore, I try to maintain a healthy balance that keeps me both relaxed and engaged with the world. It’s all about finding the right mix.
+5. I like to balance my time between being at home and going out. <b><u>While I enjoy the comfort of home, I also value social activities and outdoor adventures</u></b>. Too much time at home can make me feel isolated. Therefore, I try to maintain a healthy balance that keeps me both relaxed and engaged with the world. It’s all about finding the <b><u>right mix</u></b>.
 
 ### 2. What do you do when you stay at home?
 

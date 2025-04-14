@@ -1,0 +1,15 @@
+## 词句
+- to sign up – to request a service; to formally state one's interest in a product, service, or event
+	-  Angela signed up for cooking classes at the local college and will start attending next week.
+	- I recently signed up for a new ISP for my office, using DSL.
+- ISP - Internet Service Provider
+- DSL -  Digital Subscriber Line
+	- Kayla had a very slow connection to the Internet, but things were much faster when she started using DSL.
+- Horacio used the company’s <b><u>toll-free line</u></b> instead of the local telephone number because he did not want to pay for the call.
+- <b><u>Technical support</u></b> helped Tianna fix the problem she was having with her fax machine.
+- the only game in town – the only option; the only choice one can make
+	- Even though Arthur did not like his cable company, he was stuck using it because it was the only game in town.
+- Don’t let this small problem <b><u>escalate into</u></b> something that could ruin your relationship. Talk with you wife about it now.
+- He told me he would submit a ticket and have the problem escalated to the next level.
+- I won't hold my breath.
+	- Jemma is often late to class and when she said that she would be early to class tomorrow, Professor Benevides said, “I won’t hold my breath.”

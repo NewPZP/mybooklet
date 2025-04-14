@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6357e03fd5e8c718",
+        "id": "1973ae2eadc0e08d",
         "type": "tabs",
         "children": [
           {
-            "id": "a1e0703855cf37ba",
+            "id": "cbe81ec806553696",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 英语学习/12 think fast talk smart/166 Why Relying on Talent Alone Will Fail You.md",
+                "file": "01 英语学习/00 【置顶】口语整理/00 工作.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "166 Why Relying on Talent Alone Will Fail You"
+              "title": "00 工作"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -77,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 314.5
+    "width": 249.50390243530273
   },
   "right": {
     "id": "3b88b17d301c26c1",
@@ -139,10 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "02 英语学习/12 think fast talk smart/166 Why Relying on Talent Alone Will Fail You.md"
+                "file": "01 英语学习/00 【置顶】口语整理/00 工作.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 166 Why Relying on Talent Alone Will Fail You"
+              "title": "Outline of 00 工作"
             }
           }
         ],
@@ -162,44 +166,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "736fbb1523bec196",
+  "active": "cbe81ec806553696",
   "lastOpenFiles": [
-    "02 英语学习/12 think fast talk smart/167 Hollywood Lessons For Successful Communication.md",
-    "02 英语学习/03 雅思口语库/00 雅思真题/雅思part1合集_1.pdf",
-    "02 英语学习/04 写点什么/00 开场.md",
-    "02 英语学习/03 雅思口语库/00 雅思真题/54 feel bored.md",
-    "02 英语学习/03 雅思口语库/00 雅思真题/33 art.md",
-    "02 英语学习/99 素材/Wenzhou.md",
-    "02 英语学习/99 素材/Hangzhou.md",
-    "02 英语学习/99 素材/书 收集.md",
-    "02 英语学习/11 eslpod/58 Having car Trouble.md",
-    "02 英语学习/11 eslpod/57 Making a presentation.md",
-    "02 英语学习/11 eslpod/56 Noisy Neighbors.md",
-    "00 ongoing/2024.11.md",
-    "02 英语学习/11 eslpod/55 A Family Party.md",
-    "02 英语学习/11 eslpod/54 A trip to the Jewelry Store.md",
-    "02 英语学习/03 雅思口语库/01 keith口语课/35-useful-phrases.md",
-    "02 英语学习/11 eslpod/53 Picking a Wardrobe.md",
-    "02 英语学习/11 eslpod/52  Preparing for a Business Trip.md",
-    "02 英语学习/11 eslpod/51 eating fast food.md",
-    "02 英语学习/11 eslpod/04 Eating breakfast.md",
-    "02 英语学习/11 eslpod/11 getting ready for bed and going to sleep.md",
-    "02 英语学习/11 eslpod/10 relaxing, the mail, and the trash.md",
-    "02 英语学习/11 eslpod/09 Making and Eating Dinner, and Washing Up.md",
-    "02 英语学习/11 eslpod/08 The Commute Home and Running Errands.md",
-    "02 英语学习/11 eslpod/07 At desk, on break, and at lunch.md",
-    "02 英语学习/11 eslpod/06 The  Commute to Work.md",
-    "02 英语学习/11 eslpod/01 Introducing yourself.md",
-    "02 英语学习/11 eslpod/02 get up in the morning.md",
-    "02 英语学习/12 think fast talk smart",
-    "02 英语学习/00 写点什么",
-    "02 英语学习/03 雅思口语库/03 雅思口语九分安",
+    "01 英语学习/00 【置顶】口语整理/01 住所.md",
+    "01 英语学习/00 【置顶】口语整理/00 工作.md",
+    "01 英语学习/02 雅思口语库/00 雅思真题/02 Accommodation.md",
+    "01 英语学习/02 雅思口语库/00 雅思真题/03 Staying at home.md",
+    "00 聚焦/00 4月要做的事.md",
+    "01 英语学习/02 雅思口语库/00 雅思真题/01 Work.md",
+    "01 英语学习/13 专题整理/personality.md",
+    "02 赚钱idea/01 AI 视频/资料.md",
+    "00 聚焦/01 英语学习计划.md",
+    "04 出海/00 参考/00 参考资料.md",
+    "00 聚焦/02 程序设计进阶.md",
+    "00 聚焦/99 学习点滴.md",
+    "01 英语学习/02 雅思口语库/00 雅思真题/04 2024.1题库/02【口语part1】概览.md",
+    "01 英语学习/02 雅思口语库/00 雅思真题/56 money.md",
+    "01 英语学习/02 雅思口语库/00 雅思真题/雅思part1合集_1.pdf",
+    "01 英语学习/02 雅思口语库/00 雅思真题/98 Time management.md",
+    "01 英语学习/02 雅思口语库/00 雅思真题/45 small business.md",
+    "01 英语学习/02 雅思口语库/00 雅思真题/43 flowers.md",
+    "01 英语学习/11 eslpod/01 Introducing yourself.md",
+    "00 ongoing/2025.2.md",
+    "01 英语学习/02 雅思口语库/00 雅思真题/04 2024.1题库/06 【口语part1】感受.md",
+    "01 英语学习/02 雅思口语库/00 雅思真题/04 2024.1题库/05【口语part1】喜好.md",
+    "01 英语学习/02 雅思口语库/00 雅思真题/04 2024.1题库/03【口语part1】物品类.md",
+    "03 项目/02 python projects/00 Readme.md",
+    "03 项目/00 索引/00 资料.md",
+    "03 项目/03 前端项目",
+    "03 项目/02 python projects",
+    "03 项目/01  portfolios/00 资料.md",
+    "01 英语学习/12 think fast talk smart/167 Hollywood Lessons For Successful Communication.md",
+    "01 英语学习/13 专题整理",
+    "02 英语学习/00 安排",
+    "03 项目/00 索引",
+    "01 英语学习/12 think fast talk smart",
+    "01 英语学习/00 【置顶】口语整理",
+    "01 英语学习/02 雅思口语库/03 雅思口语九分安",
     "03 前端项目训练/04 html_css_projects",
-    "01 赚钱项目/01 AI 视频",
-    "04 出海/00 参考",
-    "01 赚钱项目",
-    "03 前端项目训练/03 30jsprojects",
-    "03 前端项目训练/02 布局",
     "Untitled.canvas",
     "Untitled 1.canvas",
     "00 边做边学/01【一】雅思7.0以上.canvas",

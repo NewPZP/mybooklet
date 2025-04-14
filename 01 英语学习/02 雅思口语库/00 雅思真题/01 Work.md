@@ -56,8 +56,8 @@
 
 ## 8. Who helps you most at work?
 
-1. My manager is my greatest support at work. They provide clear direction, constructive feedback, and ensure I have the resources I need. Their leadership helps me navigate complex projects and stay motivated.
-2. My team members are incredibly supportive. We collaborate closely, share knowledge, and help each other troubleshoot problems. Their expertise and teamwork make even the toughest projects manageable.
-3. Our technical lead is a key mentor for me. They offer guidance on complex technical issues and help me improve my coding skills. Their experience and advice are invaluable in my professional growth.
-4. The project management team plays a crucial role in my work. They ensure that projects are well-organized, deadlines are clear, and resources are allocated effectively. Their coordination allows me to focus on coding and problem-solving.
-5. The IT support staff are essential in keeping everything running smoothly. They handle technical issues, maintain our systems, and ensure we have the necessary tools and software. Their assistance allows me to work without interruption.
+1. My manager is my greatest support at work. They<b><u> provide clear direction</u></b>, <b><u>constructive feedback</u></b>, and ensure I have the resources I need. Their leadership <b><u>helps me navigate complex projects</u></b> and stay motivated.
+2. My team members are incredibly supportive. We <b><u>collaborate closely, share knowledge, and help each other troubleshoot problems</u></b>. Their expertise and teamwork make even the toughest projects manageable.
+3. Our technical lead is a key mentor for me. They <b><u>offer guidance on complex technical issues </u></b>and help me improve my coding skills. Their experience and advice <b><u>are invaluable in my professional growth.</u></b>
+4. The project management team <b><u>plays a crucial role in my work</u></b>. They ensure that projects are well-organized, deadlines are clear, and resources are allocated effectively. Their coordination allows me to focus on coding and problem-solving.
+5. The IT support staff <b><u>are essential in keeping everything running smoothly</u></b>. They handle technical issues, maintain our systems, and ensure we have the necessary tools and software. Their assistance allows me to work without interruption.

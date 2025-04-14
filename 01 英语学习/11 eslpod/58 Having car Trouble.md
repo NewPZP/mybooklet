@@ -1,0 +1,31 @@
+## 词句
+- act up -  to cause problems; for something to behave in a way that shows that it might stop working soon
+	-  The refrigerator was acting up and not keeping foods cold.
+-  run roughly - to work in an imperfect way; for a car or machine to run in a bumpy, loud, or uneven manner
+	- The old truck ran roughly and made a lot of noise as it went down the road.
+- pop open -  to release a lid so that it opens; to open something quickly
+	- Robyn popped open the bottle of wine by removing the cork.
+-  Moshe opened the hood of his car and tried to determine if something was wrong with the engine.
+- no worse than most 
+	- Even though people did not enjoy visiting Dr. Blumberg, he was no worse than most other dentists.
+- to narrow it down - to reduce the number of options from many to few
+	-  Amy could not decide which new camera to buy, but she managed to narrow it down to two models.
+- The car began to overheat because the <b><u>fan belt</u></b> needed to be replaced.
+- to set (someone) back – to cost someone money; to require that someone pays a certain amount of money
+	-  The unexpected doctor’s bill set Esteban back $750, but thankfully, he was able to pay it.
+	-  I asked him how much it would <b><u>set me back</u></b>, and he said $80 <b><u>with parts and labor</u></b>.
+- ripped off – cheated; forced to pay more money than one should pay
+	- The new music player was only worth $80, but Myles was ripped off and tricked into paying $110 for it.
+	- I usually feel like I'm getting ripped off when I go to a repair shop, but for once, I thought Manny was being straight with me.
+-  Even though Consuela did not want to talk about her mistake, she decided <b><u>to be straight with</u></b> her mother and tell her what actually happened.
+- Oswaldo <b><u>dusted off</u></b> his old guitar, even though several years had passed since the last time he played it.
+
+## On Edge, On the Edge, over the Edge
+- We use “on edge” to describe someone who is nervous and anxious, someone who is the opposite of relaxed.
+	-  if your wife is pregnant and the baby will be born any day, you may be <b><u>feeling on edge</u></b>, though your wife may be feeling even more on edge! Someone who is trying to stop smoking may also feel on edge.
+- On the edge” can literally mean on the outer part of something
+	- you may be sitting on the edge of the swimming pool
+-  on the edge is also often used “metaphorically” (not literally; not the exact meaning of each word) to talk about something that is just about to happen, or to talk about someone who is just about to do something.
+	- She was on the edge of becoming a singing star when she lost her voice in the accident
+-  “over the edge” is used to describe someone who is “insane” (crazy), and is usually used in situations where the person was “sane” (not crazy) at some point, but because something happened, has now gone insane
+	- The boss has always wanted to know what each employee was working on, but I think he’s gone over the edge by making his employees report to him every 15 minutes.
